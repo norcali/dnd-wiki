@@ -31,7 +31,7 @@
 /data/media_meta/*
 /data/media_attic/*
 /data/meta/*
-/data/pages/*
+
 /data/tmp/*
 !/data/pages/wiki/dokuwiki.txt
 !/data/pages/wiki/syntax.txt
