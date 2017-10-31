@@ -1,0 +1,19 @@
+====== Celeth Wiki ======
+
+=====  Información sobre el mundo =====
+
+    * [[calendario:Calendario]]
+    * [[caminos:caminos|Caminos y rutas terrestres]]
+    * [[geografía:Geografía]]
+    * [[historia:Historia]]
+    * [[juegos:Juegos]]
+    * [[mapainteractivo:mapainteractivo|Mapa Interactivo de Celeth]]
+    * [[moneda:Moneda]]
+    * [[naciones:Naciones|Naciones, pueblos y asentamientos]]
+    * [[panteón:Panteón]]
+
+===== Otras categorías =====
+
+    * [[files:files|Archivos descargables]]
+    * [[terrortalones:terrortalones|El Terror de los Talones]]
+    * [[dmonly:dmonly|Información privada de la DM]]
