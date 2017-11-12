@@ -1,0 +1,41 @@
+====== Panteón ======
+
+Hasta hace unos quince milenios, existía un número de seres extraordinarios habitando Celeth. Caminaban la tierra como el resto de los seres, pero tenían poder más allá de lo imaginable. Por esto, eran venerados por las distintas razas hablantes. Se los llamaba (y aún hoy se los llama) //dioses//.
+
+Estos dioses y diosas (o deidades) a veces luchaban entre sí por seguidores, por ideales o por poder mismo. Estas guerras solían ser terriblemente destructivas para el planeta y para las demás razas debido a la escala de poder que manejan. Por tanto, luego de la guerra que llevó a la [[panteón:ravenqueen|Raven Queen]] a anexarse el invierno a su portfolio, todos los dioses bondadosos y los neutrales decidieron que era mejor para todos mantener el Plano Material alejado de los menesteres divinos. 
+
+Así, expulsaron a todos los dioses malvados, salieron ellos mismos del Plano Material, y crearon la **//Puerta Divina//**. La Puerta Divina es una convergencia de poder celestial que rodea el Plano Material y lo protege de la entrada de seres con mucho poder. De esta manera, seres menores pueden pasar, pero ninguna deidad podría hacerlo sin disminuir su poder enormemente.
+
+Una vez concluido este proceso, las distintas religiones simplemente continuaron su labor con la guía remota de su dios, que puede ahora solamente enviar pocas cantidades de poder a través de enviados dignos de llevarlo. Éste es el caso de clérigos y paladines. 
+
+Las deidades se manifiestan y son enteramente reales; nadie en su sano juicio duda de su existencia. Incluso existen vagos registros que establecen dónde residen las deidades actualmente. 
+
+===== Panteón universal =====
+ 
+^  Nombre                              ^  Alin.  ^  Dominio                     ^ 
+|  [[panteón:Gond]]                    |  N      |  Craft                       | 
+|  [[panteón:Helm]]                    |  LN     |  Protección                  |
+|  [[panteón:Ioun]]                    |  LN     |  Conocimiento                |
+|  [[panteón:Mask]]                    |  CN     |  Ladrones                    |
+|  [[panteón:Mystra]]                  |  NG     |  Magia                       |
+|  [[panteón:Nerull]]                  |  CE     |  Undead                      |
+|  [[panteón:Pelor]]                   |  NG     |  Sol, agricultura, curación  |
+|  [[panteón:ravenqueen|Raven Queen]]  |  LN     |  Muerte, invierno, destino   |
+|  [[panteón:Selune]]                  |  CG     |  Luna, mar/océano, viajes    |
+|  [[panteón:Silvanus]]                |  N      |  Naturaleza                  |
+|  [[panteón:Sune]]                    |  CG     |  Familia, fertilidad, amor   |
+|  [[panteón:Tempus]]                  |  N      |  Guerra                      |
+|  [[panteón:Tymora]]                  |  N      |  Fortuna                     |
+|  [[panteón:Tyr]]                     |  LG     |  Justicia                    |
+|  [[panteón:Vecna]]                   |  NE     |  Secretos, maldad            |
+
+===== Dioses culturales =====
+
+
+^  Nombre                     ^  Alin.  ^  Dominio              ^  Cultura   ^
+|  [[panteón:Lolth]]          |  CE     |  Arañas               |  Drow      |
+|  [[panteón:Moradin]]        |  LG     |  Creación             |  Enanos    |
+|  [[panteón:Yondalla]]       |  LG     |  Familia, fertilidad  |  Halfling  |
+
+
+

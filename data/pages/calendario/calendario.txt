@@ -1,0 +1,42 @@
+====== Calendario ======
+
+El calendario común, creado por los enanos hace muchos eones y adoptado por la mayoría de las razas hablantes en distintos momentos de los últimos milenios para facilitar el comercio, se organiza en //años de trece lunas regidos por las estaciones climáticas//.
+
+Cada luna está determinado por el ciclo lunar, de 28 días, contando las cuatro fases básicas: **luna nueva, creciente, llena y menguante**. Por cada fase, el ciclo posee una //semana de siete días//, dentro de la cual se distinguen los días por su orden: **Primero, Segundo, Tercero, Cuarto, Quinto, Sexto y Séptimo**. De esta manera, la gente se refiere al decimocuarto día como “El séptimo día creciente” del ciclo.
+
+Las lunas del año se distinguen entre sí por las **constelaciones astronómicas** que se ven más centrales en el cielo (al menos desde el punto de vista de los enanos de [[meriah:naciones:moraz|Mo’raz]]) a medianoche. Estas constelaciones tienen distintos nombres según la cultura, pero se popularizaron los nombres en Common como terreno común de todas las razas.
+
+Las lunas de primavera son las del Cordero y el Ciervo; las de verano son las de la Abeja, el Gato, el Perro, la Montaña, el Águila, el Pez, el Oso y la Serpiente; las de otoño son las de la Araña y el Cuervo, y la luna de invierno es la del Ojo Negro, llamada así por la gran zona oscura que se ve en el cielo durante el invierno, vacía de estrellas.
+
+Los cuatro momentos clave del año son los **solsticios y los equinoccios**, días que (según creencia popular) tienen una energía distinta. Por ejemplo, los casamientos en el equinoccio de primavera son especialmente bien vistos; los nacimientos en el solsticio de verano son augurio de hijo/a saludable, fuerte e inteligente, por estar bendecido por [[panteón:Pelor]]; el equinoccio de otoño es el mejor momento para cosechar y para cerrar tratos y negocios, y el solsticio de invierno es un día de mala suerte, y los nacidos ese día están supuestamente condenados a una vida de fracaso, enfermedad, dolor y muerte prematura.
+
+===== Festividades culturales =====
+
+^  Nombre             ^  Momento                      ^  Descripción                             ^
+|  Año nuevo          |  Semana nueva del cordero     |  El día de luna nueva cúlmine, se hace ayuno y sólo se bebe agua o té. Se llora a los muertos y se limpian las casas y caminos. Los días siguientes, se festeja haber sobrevivido y el comienzo del nuevo año.|
+|  Primera siembra    |  Equinoccio de primavera      |  Se festeja el comienzo de la siembra con fogatas en el centro de los pueblos y ciudades.  |
+|  Día del Sol        |  Solsticio de verano          |  Se venera a [[panteón:Pelor]] y se pasa al aire libre con desfiles y danza, día de ocio familiar y agradecimiento al dios con ofrendas, fogatas y rezos al Señor de la Luz.  |
+|  Día de la Cosecha  |  Equinoccio de otoño          |  Agradecimiento por la cosecha, ofrendas para la del próximo año, banquetes.  |
+|  Última cosecha     |  Semana llena del cuervo      |  Se quita lo último de la cosecha y se prepara todo para el invierno.  |
+|  Semana negra       |  Semana menguante del cuervo  |  Se venera a la [[panteón:ravenqueen|Raven Queen]] y se le preparan ofrendas para que sea benévola y no traiga un invierno más complicado de lo usual.  |
+
+
+===== Nombres de los meses =====
+
+Los meses se denominan en Common normalmente, pero sobre todo los enanos y los elfos tienen sus maneras particulares de decirles.
+
+^  Common     ^  Elvish     ^  Dwarvish  ^
+|  Cordero    |  Moalin     |  Agnus     |
+|  Ciervo     |  Diën       |  Cerva     |
+|  Abeja      |  Nier       |  Apis      |
+|  Gato       |  Yaulë      |  Felis     |
+|  Perro      |  Roa        |  Canis     |
+|  Montaña    |  Oron       |  Monum     |
+|  Águila     |  Soron      |  Aquila    |
+|  Pez        |  Lingwë     |  Piscis    |
+|  Oso        |  Morok      |  Ursa      |
+|  Serpiente  |  Angwë      |  Serpens   |
+|  Araña      |  Liantë     |  Aranea    |
+|  Cuervo     |  Corco      |  Corvus    |
+|  Ojo Negro  |  Assa-morë  |  Oculus    |
+

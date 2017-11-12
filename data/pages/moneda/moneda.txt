@@ -1,0 +1,21 @@
+====== Moneda ======
+
+Hace tiempo, cada civilización que así lo deseaba acuñaba su propia moneda. Cada una tenía su propio valor, con sus medidas, materiales, forma y peso propio. 
+
+Internamente esto funcionaba bien, pero cuando el comercio internacional comenzó a hacerse más importante, se vio el problema que representaba el intercambio monetario. Había que pesar y consultar tablas, validar las monedas con un veedor, comprobar su valor equivalente... Esto llevaba a constantes disputas civiles y comerciales entre comerciantes y naciones.
+
+De esta manera, se decidió hace aproximadamente dos siglos y medio unificar el dinero en una moneda circulante válida en todas las naciones adherentes. Al principio algunas se rehusaron, pero con el tiempo vieron sus beneficios y se unieron. 
+
+Se fundieron todas las monedas nacionales que podían servir y se fue educando a la gente en un sistema muy simple:
+
+^  Moneda              ^  Valor relativo       ^  
+|  1 pieza de platino  |  10 piezas de oro     |  
+|  1 pieza de oro      |  10 piezas de plata   | 
+|  1 pieza de plata    |  10 piezas de cobre   | 
+|  1 pieza de cobre    |                       |
+
+Para referencia, se puede nombrar el precio de algunas cosas comunes en la vida de la gente trabajadora: una hogaza de pan de cuarto kilo cuesta 2 piezas de cobre, un pedazo de queso de medio kilo cuesta 1 pieza de plata, un corte de carne de un kilo cuesta 3 piezas de plata.
+
+
+
+

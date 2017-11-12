@@ -1,0 +1,104 @@
+====== Ardenia ======
+
+[[dmonly:ardenia|DM only]]
+
+El reino humano sureño con menos territorio de los tres, con el clima más calido y cercanía a la jungla y al territorio orco.  Famoso por el Colegio de la Canción Secreta (ver [[meriah:naciones:ardenia:Arden]] ).
+
+===== Historia =====
+Ardenia nació como un ducado poderosísimo, y fue luego ampliando su dominio hasta convertirse en un reino importante. 
+
+===== Economía =====
+
+==== Producción ====
+Carne vacuna, frutas y vegetales de clima cálido, telas (lino, algodón y sedas), especias, olivas y su aceite.
+
+==== Comercio ====
+
+Metales y joyas provenientes de [[meriah:naciones:Korim]] y todo lo que viene por tierra desde 
+[[Meriah:naciones:Portbeak]] por el Straat. 
+
+=====  Geografía =====
+
+Praderas y colinas con vista a las montañas. Debido al clima cálido, multitud de flores crecen naturalmente.
+
+Limitan con [[meriah:naciones:Korim]] al Este, [[meriah:naciones:Cardus]] al Sudeste, [[meriah:naciones:Haldrim]] al Sur, [[meriah:naciones:Urshok]] al Oeste y el [[meriah:geografía:bosquenegro|Bosque Negro]] al Norte.
+
+Tierra fértil es lo mejor que tienen, muchas arboledas frutales y plantas aromáticas silvestres.
+
+===== Política =====
+
+Monarquía parlamentaria. 
+
+  *  Reina Aeleth
+  *  Parlamento compuesto por una cámara de ilustres (nobles) y una de señores (burgueses).
+
+ ==== Relaciones exteriores ====
+
+Aliados de [[meriah:naciones:Korim]], sus vecinos del este. No han hecho las paces con los orcos al oeste porque los enanos son sus mortales enemigos, y prefieren el comercio con los enanos.  
+ 
+==== Ejército, flota y fuerzas del orden ====
+
+ Se están militarizando cada vez más, en tener grupos comando especializados y muy bien entrenados, porque no tienen fuerza de superioridad numérica.
+
+===== Conflictos y tensión =====
+
+Los orcos raidean las ciudades ardenas con frecuencia, porque su tratado sólo se extiende a [[meriah:naciones:Haldrim]]. Ardenia no puede hacer la paz con los orcos y perder a sus aliados en [[meriah:naciones:Korim]], porque su economía se rompería; pero así se les está complicando feo.
+
+===== Cultura =====
+
+Súper xenófobos pero sin agresividad; se creen mejores pero saben que necesitan al resto.
+Sociedad matriarcal, sin misandría.
+
+==== Supersticiones y taboos ====
+  *  Limpiar cosas o bañarse de noche es mala suerte.
+  *  Tener armas en una casa particular trae desgracia.
+  *  Tocar madera al oír malos augurios.
+
+==== Nacimientos, matrimonios, muerte ====
+
+La muerte es temida. Una vez cremado el cuerpo, no nombran más a los muertos; si es necesario referirse a ellos utilizan eufemismos.
+
+==== Saludos ====
+
+ Al ser presentados por primera vez practican reverencias, y en siguientes encuentros se dan tres besos. Entre familiares es costumbre un beso en la boca.
+ Se tratan de Don/Doña.
+
+====  Tratamientos de nobleza: ====
+
+  *  **Reyes** Su Serenísima Majestad Real Señor/a Don/ña
+  *  **Príncipe/Princesa** Su Alteza Serenísima Señor/a Don/ña
+  *  **Infantes/as** Su Alteza Señor/a Don/ña (Son los nietos/as de los Reyes).
+  *  **Duques/as** Su Excelencia Señor/a Don/ña
+  *  **Nobleza** Ilustrísimo/a Señor/a Don/ña
+  *  **Señores** Su Señoría Don/ña
+
+==== Lujos ====
+La sal es un lujo, pero se utilizan muchas otras especias silvestres.
+ 
+==== Ropas ====
+
+ Es un lugar siempre decorado, donde la gente es muy protocolar.
+ 
+ Como cultura, prefieren los colores claros y cálidos, las ropas livianas y vaporosas con muchos adornos y bordados. Incluso los campesinos buscan maneras de embellecerse, ya sea usando adornos de flores silvestres o tiñiendo las telas con más cuidado.
+
+===== Religión =====
+
+[[panteón:Sune]], la diosa de la fertilidad y la belleza, una deidad humanoide, pelirroja, de belleza sobrehumana, vestida en carmesí y dorado.
+
+=====  Sociedad =====
+
+==== Organizaciones ====
+
+ El Colegio de la Canción Secreta guiado por el Maestro Trovador Cristoph. Los bardos de Ardenia viajan desde [[Meriah:Naciones:Ardenia:Astor | Astor]] hasta [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]], recolectando y compartiendo noticias y música. Las otras naciones sospechan (pero no han podido confirmar jamás) que la Reina Aeleth usa su colegio bárdico como red de espías para mantener a raya a los otros reinos humanos más grandes y prósperos.
+ 
+==== Clases sociales ====
+
+Tienen la corte más ostentosa de la historia.
+
+==== Esclavitud ====
+
+Existen los "contratados", siervos no remunerados que se emplean por contrato a cambio de un techo y comida.
+
+==== Entretenimiento ====
+
+Se juega mucho el Talië, el Keva, las carreras de caballos, el polo y el cricket.

@@ -3,7 +3,6 @@
 =====  Información sobre el mundo =====
 
     * [[calendario:Calendario]]
-    * [[caminos:caminos|Caminos y rutas terrestres]]
     * [[geografía:Geografía]]
     * [[historia:Historia]]
     * [[juegos:Juegos]]
@@ -16,4 +15,6 @@
 
     * [[files:files|Archivos descargables]]
     * [[terrortalones:terrortalones|El Terror de los Talones]]
+
+
     * [[dmonly:dmonly|Información privada de la DM]]
