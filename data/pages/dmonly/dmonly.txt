@@ -1,5 +1,17 @@
 ====== DM only ======
 
+===== Adventure Archives =====
+
+  * [[dmonly:adventure:wards|Wards of the Last Emperor]]
+    * [[dmonly:adventure:magnhild| Magnhild]]
+    * [[dmonly:adventure:iarah| Ia'rah]]
+    * [[dmonly:adventure:surya| Surya]]
+    * [[dmonly:adventure:isaiev| Isaiev]]
+    * [[dmonly:adventure:ithen| Ithen]]
+    * [[dmonly:adventure:atanye| Atanye]]
+    * [[dmonly:adventure:emperorsecret| The Emperor's Secret]]
+
+
 ===== Circles of Teleportation =====
 
   *  **Portbeak** casi público; cualquier persona con magia y algo de dinero consigue la runa. Está en las afueras, en un edificio protegido por una pequeña milicia.
@@ -23,5 +35,3 @@
   *  Storm Giants among the mountains in the North, in the other side. 
   *  Female Ancient Gold Dragon in the grasslands between Crassan & Zy'an. Shapechanged, it interacts with them.
   * Nightfuries live in the high cold mountains. They are seldom seen. 
-
-

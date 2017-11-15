@@ -1,6 +1,6 @@
 ====== Ardenia ======
 
-[[dmonly:ardenia|DM only]]
+[[dmonly:nations:ardenia|DM only info]]
 
 El reino humano sureño con menos territorio de los tres, con el clima más calido y cercanía a la jungla y al territorio orco.  Famoso por el Colegio de la Canción Secreta (ver [[meriah:naciones:ardenia:Arden]] ).
 

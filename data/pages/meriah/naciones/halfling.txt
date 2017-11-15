@@ -1,5 +1,6 @@
 ====== Barrak ======
 
+[[dmonly:settlements:halfling|DM only info]]
 
 En Crassan hay una pequeña comunidad halfling compuesta por tres ciudades: Barrak, Crourrak y Zudrak.
 
@@ -7,5 +8,5 @@ Los halfling delegan la defensa a ser invisibles; alguien podría caminar por en
  
 Tienen sistemas de ventilación para poder respirar, y tienen granjas en la superficie para alimentarse.
 
-Se organizan en clanes familiares liderados por los mayores, que son respetados por su sabiduría. 
- 
+Se organizan en clanes familiares liderados por los mayores, que son respetados por su sabiduría.
+

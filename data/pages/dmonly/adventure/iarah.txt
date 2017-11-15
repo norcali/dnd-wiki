@@ -1,0 +1,42 @@
+====== Ia'rah ======
+
+===== El Pantano =====
+
+
+A colossal temple of Arldir (1km2) in which citadel a Medusa lives with her basilisk pets, reigning over lizardfolk and goblins. The lizardfolk tribes always strive to be the most powerful, the richest, trying to earn the Queen’s favor. It feels a lot like Zul’Drak from WoW. The temple sits steadily in a big swamp. These lizardfolk are ultra territorial, but they don’t stray away from their lands except for the occasional stealing in the borders. They attack on sight of intruders. 
+
+Varias tribus de Lizardfolk y goblinoids pueblan la zona, conocedoras de los territorios de las bestias que no pueden matar. __** Ubicar eso en un mapa.**__ Suelen habitar construcciones precataclísmicas abandonadas que han semi-reconstruido. Ante una emergencia pueden comunicarse encendiendo fuegos en lo alto de torretas y así alertando a los establecimientos vecinos. Los intrusos no son bienvenidos. Atacarán mientras uno alerta al resto, y si se la ven fea intentarán escapar y reagruparse. Si los acorralan, intentarán negociar con lo que tengan. No llevan nada de mucho valor. 
+
+Todo el pantano es **difficult terrain** excepto para las criaturas locales, que saben cómo moverse y/o han evolucionado para existir en ese ambiente. Todo el lugar está salpicado de ruinas, algunas semi hundidas en las aguas pantanosas y otras sobreviviendo en elevaciones naturales. Las tribus a veces se disputan las mejores construcciones entre ellas.
+
+La zona immediatamente circundante a Coromaus está en terreno elevado, cimentada sobre la mismísima roca madre, pero aún así se nota que algunas partes se están hundiendo con los milenios en la tierra húmeda. Algunas placas de roca se han torcido/inclinado. 
+
+La subida por escaleras es penosa, y la vista quita el aliento. 
+
+===== Magora =====
+
+Medusa’s curse. She gave away everything she had, even her mortal human soul, to an archdevil, so as to be beautiful, forever praised. She was a celebrity for a century, beautiful, unchanging. But when the century came to an end, she became a Medusa. Now, she goes by the name of Magora, Queen of Coromaus. She is elder and very, very powerful.
+
+[[http:////www.myth-weavers.com/generate_dungeon.php?do=dungeon&width=22&roomcnt=some&height=30&minroomw=10&maxroomw=15&sparse=some&minroomh=10&maxroomh=15&random=50&secret=5&deadends=90&concealed=10&level=1&resolution=20&seed=938664474|Mapa tentativo]]
+
+Magora now resides in the ancient site of Coromaus. She rules over the tribes there through sheer power and force. She has rules, and no one dares to break them. Otherwise, they are free to do as they please, as long as they provide fresh meat for her and her pets to feast on. Everyone fears the Queen. 
+
+The ancient construction is somewhat ruined but still stands proudly. Its immensity amazes intruders. The keep itself has never been studied. It has several interconnected rooms that all lead to a backyard, from which it's possible to access the main chamber. 
+
+These rooms served as living chambers for its inhabitants once, with a loft style elevation where they slept and kept their stuff. The ground level part served as an all purpose room. Some of the basilisks roam here. 
+
+===== Ia'rah =====
+
+“the most important Strength comes from the inside” (phrase carved on the doors), so they will be tested on their resolve. 
+
+The only way in is through a stone door, 1.5m thick and 50m tall protected by magic, which has a huge knocker, extremely heavy. But when they touch it, they are overwhelmed with visions of themselves destroying the things they love the most, becoming wretched creatures, and other unimaginable horrors: before trying to lift it up and knock, every creature touching the knocker has to make a wisdom saving throw DC 18 or go mad for 1d10 minutes. After the madness is gone, they have to make a DC 13 Wisdom check to see if they are brave enough to try again for the day. 
+
+They can make it a skill challenge and use different abilities to try and beat the DC. 
+
+Everytime they succeed, the madness DC lowers by 1 but the wisdom check DC goes up by 1.
+If they go mad three times, the third escalates to long-term madness. The sixth would be indefinite.
+When they manage to resist the madness, they still need a DC 18 Strength check to lift up the knocker.
+When they are finally inside, they will be overrun by a group of huge strong monstrosities resistant to spell damage. Best way to get them is hit them hard. 
+
+After they have defeated these monstrosities, they will encounter a hallway so long, they cannot see its end. They will walk and walk and walk, maybe for days, and the hallway will never end. Somewhere along the road, they'll realize that it's enchanted. You can only find the other end if you walk/jog without stopping for 2 days. Athletics checks everywhere until they realize they can use the fucking steeds. 
+

@@ -1,0 +1,9 @@
+====== Halfling settlements ======
+
+Los poblados subterráneos de los halfling en Crassan están organizados en cuadrículas. Los puntos de entrada (que dan acceso a seis puntos de la ciudad). La comunidad se organiza a partir de una vía central, y luego se denominan los pasajes como la "primera norte" "tercera sur" "quinta oeste", etc. 
+
+No hay negocios ni tabernas, el comercio existe sólo como canje. No hay moneda. Todas las transacciones consisten en canjes por equivalencia (a través de un sistema de medidas, peso y valoración que en caso de disputa arreglan los ancianos) entre particulares, todo confeccionado artesanalmente a modo de economía de subsistencia. Así todas las familias se procuran su comida saliendo a recolectar/cosechar en las granjas comunales de la superficie, con suficiente tiempo libre como para hacer otras actividades. Esas actividades les generan la posibilidad del intercambio. 
+
+Tienen diseñado un sistema de defensa de manera tal que el poblado entra en lockdown si alguien activa las alarmas. Este sistema consiste en variados glyph of warding casteados por ancianos magos con hechizos defensivos, protectores y otros agresivos. Al mismo tiempo se habilitan otros pasadizos de mayor alcance con salidas escondidas para evitar un sitio. Sólo los ancianos saben a dónde llevan esos pasadizos. La idea es mantenerlos secretos. Sólo por si acaso, existen reservas de comida como para un tiempo. 
+
+

@@ -1,0 +1,133 @@
+===== Level 0 =====
+
+
+Una gran habitación cuadrada, con techo alto, iluminada por antorchas, decorada con columnas. Unos metros hacia adentro, simétricamente, un cuadrado del piso se encuentra dos escalones por debajo del resto del suelo. En el centro, una estatua trunca, destruida, de la cual sólo queda el pedestal. En una esquina, lo que parece ser una especie de habitación: sedas colgando de parantes hacen las veces de biombo, almohadones, alfombras y mantas en el piso, un cofre entreabierto, un cuenco lleno de agua cristalina y varios objetos desperdigados por el piso.
+ 
+Nombres:
+Lamia: Cælephine
+Gatos: Nysiax, Icelaus, Aphres, Aelice, Daphne (son coquetos, inteligentes, mimosos y arrogantes)
+
+
+El pedestal de la estatua tiene grabado el nombre de Arldir, debajo del cual se puede encastrar la brújula. Parece que en algún momento representó a esa deidad.
+
+Hoy todos lo conocen por el nombre de Moradin. 
+Moradin no sólo creó a los enanos, los hijos de la montaña, si no también a los Kesh, hijos del valle, mucho antes. Los diseñó para que cualquier territorio sobre la superficie sea bueno para ellos; ya tenía en mente crear a los enanos para que habitaran la tierra por debajo, dentro de las montañas. Moradin los recuerda con gran nostalgia y dolor, y sigue protegiendo los mayores logros del último emperador para que no caigan en malas manos. 
+
+Cuando pongan la brújula en su lugar, se abre la trap door (60ft. profundidad) y un pequeño sistema empuja la brújula hacia afuera. Si la vuelven a colocar, se cierra, y no se vuelve a abrir. Sabiendo donde está la trap door podrían intentar romper la piedra. Tomaría tiempo.
+
+Loot:
+742 cp, 6985 sp, 2351 gp, 113 pp
+Art objects:
+6x25 
+3x250 (espejo de plata, gold bracelet, silk robe with gold embroidery)
+2x750 (silver & gold brooch, obsidian statuette with gold)
+1x2.500 (gold music box)
+1x 5000 (Silver & electrum crown)
+Items:
+Scroll of Hallucinatory Terrain
+Potion of Freedom of Movement
+Decanter of Endless Water
+Alchemy Jug
+Whatever items I already thought of
+
+===== Level 1 =====
+ 
+
+Una habitación vacía, que parece estar hecha de una sola pieza de roca, y totalmente oscura. Sus ojos tardan una décima de segundo en acostumbrarse a la oscuridad, y entonces logran ver unas construcciones, como cortes de una pirámide escalonada. Su visión no les permite ver las paredes.
+Los pequeños runners salen de stasis cuando se activa una  runa pequeña, casi indetectable, dibujada como una línea alrededor del túnel de entrada, 10ft. hacia adentro. La stasis los protegió del óxido y el polvo durante milenios, y esperan a que la party intente moverse para atacar al unísono, todos sincronizados bajo el mismo mecanismo interno. Intentarán dejar boludo a todo el que puedan en el primer ataque. 
+
+Hay tres Glyph of Warding explosive runes seteadas para explotar si las pisa cualquier criatura que no sea un constructo. 
+
+En el costado superior derecho del mapa comienzan unas escaleras que se dirigen hacia abajo, como siguiendo el borde del cuadrado. Aparecen en el costado inferior izquierdo del nivel 2.
+
+Cerca del techo, hay una pequeña ranura, donde el constructo-monje puede presionar la runa de sus manos para abrir la trap door. Queda abierta hasta que la cierren.
+
+===== Level 2 =====
+
+Una habitación tenuemente iluminada con orbes mágicos, llena de trampas. Parece estar total y absolutamente vacía, con las paredes  y el techo decorados con bajorrelieves pintados con tonos tierra, patrones hipnotizantes. Justo de donde vienen, están parados sobre una plataforma elevada. 
+DC 14 Perception check para ver la otra plataforma al otro lado.
+Fly y esos spells no tienen efecto; sí los items mágicos.
+Las paredes están cubiertas de un material graso, musgoso, que no se lava con agua. 
+
+Bear trap
+Set de mandíbulas de acero que salen de ranuras en el suelo y se cierran sobre los pies de quien la pisa.
+Effect: Attack roll +8 to hit, 2d10 piercing damage. Success: Speed reduced to 0. Strength check DC 17.
+Countermeasures: DC 13 Perception (detect), DC 13 Dexterity check with thieves’ tools (disarm), by wedging the spikes open. Failure by 5 or more activates the trap.
+
+
+Pit trap (hidden, locking, spiked).
+Un pozo de 30ft con picas envenenadas en el fondo, cubierto con el mismo suelo para parecer parte del piso, que se cierra una vez que alguien lo activa.
+Effect: A falling creature takes any falling damage plus 3d10 piercing and 4d10 poison damage from the spikes (DC 15 Con save for half poison). After it falls, the pit locks. To open it, DC 22 Strength check from the outside or DC 18 Dex (with thieves tools) from the inside. 
+Countermeasures: DC 17 Perception-Inv (detect) , DC 10 Strength-Dex to wedge shut the opening with a spike or something. Arcane lock or similar magic would do too.Failure by 5 or more activates the trap.
+Dart trap.
+Cuando pisan una pressure plate, dardos saltan desde una pared con minúsculos agujeritos. 
+ Effect. 4 darts make an attack roll, +8 to hit. Each dart deals 1d6 piercing and 2d10 poison damage (DC 14 Con save for half).
+ Countermeasures. The pressure plates are extremely well done. They activate to the slightest pressure. DC 19 Investigation (detect), DC 12 Dexterity with thieves’ tools (disarm). Failure by 3 or more activates the trap.
+Glyph of Warding. 
+
+
+Scythe trap. 
+Dos cuchillas letales barren la cámara si se activan las pressure plates. 
+ Effect. Medium or larger creatures in a 5ft.x30ft. area must make a DC 15 Dex save, taking 8d6 slashing damage on a failure or half as much in a success.
+ Countermeasures. DC 21 Perception (detect), DC 15 Dexterity with thieves’ tools (disarm). Failure by 3 or more activates the trap.
+
+En la plataforma elevada al final hay una arcada ornamentada que se dirige hacia abajo, pero en vez de escaleras, en forma de rampa.
+
+Medidas: 20ft. wide, 160ft long. Between 80-130ft marks: difficult terrain.
+Allí hay una Path of Blades. Tienen que tirar iniciativa de la vieja. La trampa corre en cuenta 20 y 10.
+Path of Blades:
+Trigger: Siempre que haya criaturas Y NO constructos en el pasillo.
+Active Elements: 
+Whirling Blades (20): They attack every creature in the first 80ft of the hallway with a +6 to hit, dealing 5d6 slashing damage. Every time they miss a target, they gain a +2 to hit and 1d6 damage because of increasing speed.
+Crushing Pillars (10): 81-130 ft into the hallway. DC 17 Dex save, taking 5d6 bludgeoning and knocked prone or half and not prone. 
+Rune of Fear (10): Final 30ft. of the corridor. DC 17 Wisdom save or be frightened of the rune. Must immediately use its reaction to move its speed away from the end of the corridor. Can’t move closer until it uses an action to succeed on a save, in which case it ends the effect on itself and becomes immune for 24 hs. 
+Constant Elements: When a creature ends its turn in each area:
+Whirling Blades: Targeted by an attack
+Rune of Fear: Makes a save against the rune.
+
+Countermeasures:
+Whirling Blades
+Pattern: Investigation DC 17, as an action, to figure out the pattern and avoid them. This imposes disadvantage on the roll while the creature isn’t incapacitated.
+Ready an attack against the blades: Blade gains advantage against them, then they attack. Blades: AC 15, 20 HP. Destroying one reduces to hit bonus by 2.
+Foil the mechanism: Dexterity with thieves tools, DC 17. Successful check reduces to hit bonus by 2.
+Rune of Fear
+Disabled with three successful DC 17 Arcana checks (or 3 dispel magic DC 15) to disrupt the rune. Each one requires an action. Only one creature can work on this at once. Once a creature attempts a check, no other character can attempt one until the end of that creature’s next turn. 
+Each successful check increases the damage of blades and pillars by 2d6 and the rune’s save by 1.
+
+Pasando la runa, hallan una puerta de piedra que está atorada por el tiempo. El barbarian la destraba sin chequeo. Se siente calentita. y por debajo se siente un quicio de aire caliente. 
+
+===== Level 3 =====
+
+
+Una cámara gigantesca, tenuemente iluminada, que emana un calor espantoso se abre ante sus ojos incrédulos. El piso termina abruptamente veinte pies más adelante de donde se encuentran, y debajo se ve un lago de lava burbujeante. 
+Una serie de objetos parecen flotar en el aire, sostenidos por la nada mismísima, metros por encima de la roca líquida. 
+En el otro extremo de la gran cámara, a 140 pies, pasando toda esta extraña serie de objetos flotantes, parece haber una plataforma segura. 
+
+Fly y esos spells no tienen efecto; sí los items mágicos.
+Las paredes están cubiertas de un material graso, musgoso, que no se lava con agua. 
+Los objetos voladores/trepadores tendrán que enfrentarse a puños de lava que intentarán voltearlos, uno cada 10 pies que viajen. To hit +10, 6d6 bludgeoning + 8d6 fire damage. Si le pegan, intentarán moverlo de vuelta al comienzo.
+Si fallan el check por 5 o menos pueden hacer un Dex save DC 13 para agarrarse de algún lado y no caer a la lava
+Si caen a la lava, tienen 6d6 fire damage, y la lava misma se reforma para empujarlos de vuelta al comienzo: falling damage accordingly. 
+
+Cuando llegan a la plataforma descubren un pequeño tubo de cristal que se mete en la piedra, que está moldeado con forma de aguja en la punta. Justo debajo, la misma frase en varios idiomas distintos, todos extintos: No temas; solo necesitas unas gotas. 
+Si pinchan un dedo con la aguja y dejan caer unas cuantas gotas de sangre, luego de unos minutos se activa un mecanismo que cierra el piso de piedra sobre la lava. Es seguro para cruzar, pero se entibia rápido. Luego de 72 horas se vuelve a abrir. 
+ 
+Al mismo tiempo, se abre una arcada justo debajo de la plataforma donde está la aguja. Lleva a unas escaleras que descienden hacia el siguiente nivel, continuando la forma del cuadrado. 40 pies antes de la puerta hay una runa pequeña, casi indetectable, dibujada como una línea. Cuando la pasan, se desactiva la stasis del constructo. 
+ 
+===== Level 4 =====
+
+ 
+Una cámara de similar tamaño a las anteriores se abre ante ustedes, totalmente a oscuras. Extrañas formaciones de piedra, arena y tierra arcillosa se levantan como parte del suelo mismo. 
+En el centro, el constructo. Cuando sale de stasis activa las copias, que se crean dentro del espacio de las formaciones arenosas. Si se le acercan, se mete dentro de la roca y se queda ahí dos rondas. Luego comienza la batalla.
+ 
+Cuando lo derrotan, el constructo toca una runa que disuelve las formaciones, alza las manos y luego hace una reverencia. Luego se queda quieto y toma dodge actions hasta que se calmen todos. Hace una nueva reverencia cuando todos se calman. Tiene casteado comprehend languages, pero no puede hablar. Sólo puede responder Yes-No questions. Caminando a paso vivo, va a tocar la pared central opuesta, activando una runa que abre una puerta que antes no se veía. Los va a guiar, impasible, hasta el nivel 5, por una rampa.
+ 
+===== Level 5 =====
+ 
+Los lleva a una sala cubierta de bellísimos murales, muy similares a los que hallaron en la tumba del Emperador. En el centro, colgada de un soporte cerámico, hay una capa, sus bordes ondeando suavemente, como mecidos por un viento inexistente. 
+
+Los murales cuentan un poco más sobre Surya y sobre Susurro. 
+
+Surya era quien se encargaba de manejar los hilos de información que llegaban al Emperador, así como de asegurar los salones del tesoro con trampas y sistemas de aviso, e infiltrarse en las filas enemigas posando como uno de ellos, para retirar información invaluable. También estaba muy entrenado en las artes marciales, y tenía algunos conocimientos arcanos.  
+
+Susurro es la masterpiece. En una parte del mural, Surya avisa: Susurro tiene una personalidad algo particular, y es algo proclive a activarse cuando se siente inseguro, o a intentar alentar a quien lo usa a moverse en la dirección que él cree correcta. Tiene instintos primitivos y no siempre tiene razón, pero es un compañero muy fiel. Pide que lo cuiden mucho, y que hagan buen uso de él. Les desea buena fortuna, y que el Todopoderoso los cuide desde los cielos infinitos.
