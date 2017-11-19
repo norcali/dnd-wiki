@@ -11,6 +11,18 @@
     * [[dmonly:adventure:atanye| Atanye]]
     * [[dmonly:adventure:emperorsecret| The Emperor's Secret]]
 
+===== Random names =====
+
+  * [[dmonly:random:Humano]] (Cardus, Haldrim, Ardenia, Strand, Ban Tuur)
+  * [[dmonly:random:Dragonborn]]
+  * [[dmonly:random:Enano]]
+  * [[dmonly:random:Tabaxi]]
+  * [[dmonly:random:Elfo]]
+  * [[dmonly:random:exotico|Exótico]]
+  * [[dmonly:random:Gnomo]]
+  * [[dmonly:random:Halfling]]
+
+
 
 ===== Circles of Teleportation =====
 

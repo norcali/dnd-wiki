@@ -1,12 +1,13 @@
-====== Barrak ======
+====== Barrak, Crourrak y Zudrak  ======
 
-[[dmonly:settlements:halfling|DM only info]]
+DM Links: [[dmonly:settlements:halfling|Info]] | [[dmonly:random:halfling|Tables]]
 
-En Crassan hay una pequeña comunidad halfling compuesta por tres ciudades: Barrak, Crourrak y Zudrak.
+En el centro-oeste de Meriah hay una pequeña comunidad halfling compuesta por tres poblados: Barrak, Crourrak y Zudrak.
 
-Los halfling delegan la defensa a ser invisibles; alguien podría caminar por encima de cualquiera de las tres sin siquiera imaginárselo. Están escondidas unos cuantos metros bajo la tierra, excavadas en la suave tierra de la pradera, con casas interconectadas por túneles y alumbradas con lindas lámparas de aceite.
- 
-Tienen sistemas de ventilación para poder respirar, y tienen granjas en la superficie para alimentarse.
+Los halfling delegan la defensa a la inaccesibilidad del territorio en el que viven. Los tres poblados se hallan en un valle extremadamente fértil, situado en el seno de una pequeña cadena montañosa. Para acceder a ella hay que cruzar un paso muy angosto, en altura, bastante peligroso. Del otro lado, tienen el mar; pero es una costa rocosa, innavegable. 
 
-Se organizan en clanes familiares liderados por los mayores, que son respetados por su sabiduría.
+Además, son un pueblo pacífico, que rara vez toma contacto con el exterior. No poseen grandes riquezas ni recursos envidiables por otras naciones. Lo único que todo el mundo podría (y tal vez debería) envidiarles es el nivel de paz que supieron cosechar.
 
+No hay negocios ni tabernas, el comercio existe sólo como canje. No hay moneda. Todas las transacciones consisten en canjes por equivalencia (a través de un sistema de medidas, peso y valoración que en caso de disputa arreglan los ancianos) entre particulares, todo confeccionado artesanalmente a modo de economía de subsistencia. Así todas las familias se procuran su comida, con suficiente tiempo libre como para hacer otras actividades. Esas actividades les generan la posibilidad del intercambio. 
+
+No es que no entiendan la moneda, ni que no sepan de su existencia; de hecho, de vez en cuando alguna caravana va a Ardenia o Haldrim a buscar algunas cosas particulares y se manejan con dinero. Simplemente prefieren no implementarlo ellos mismos. Creen que genera ambición desmedida y deseos materiales innecesarios. 

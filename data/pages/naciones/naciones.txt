@@ -9,7 +9,7 @@
     * [[Meriah:Naciones:Ardenia:Falworth | Falworth]]
     * [[Meriah:Naciones:Ardenia:ViejoRoble | Viejo Roble]]
   * [[Meriah:Naciones:BanTuur | Ban Tuur]]
-  * [[Meriah:Naciones:Halfling | Barrak, Krourrak y Zudrak]]
+  * [[Meriah:Naciones:Halfling | Barrak, Crourrak y Zudrak]]
   * [[Meriah:Naciones:Cardus]] 
     * [[Meriah:Naciones:Cardus:Cardusciudad | Cardus (Ciudad Capital)]]
     * [[Meriah:Naciones:Cardus:Bridle | Bridle]]
@@ -59,7 +59,7 @@
     * [[Meriah:Naciones:Zir:Kelrix | Kelrix]]
     * [[Meriah:Naciones:Zir:Rezma | Rezma]]
     * [[Meriah:Naciones:Zir:AkbarMina | Akbar Mina]]
-  * [[Meriah:Naciones:Zyan | Zy'an]]
+
 
 ===== Kaelaz =====
 
