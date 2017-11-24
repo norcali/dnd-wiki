@@ -1,6 +1,6 @@
 ====== Mozgani ======
 
-Links: [[dmonly:settlements:mozgani|Info]]  |  [[dmonly:random:enanos| Tables]]
+Links: [[dmonly:settlements:mozgani|Info]]  |  [[dmonly:random:dwarf| Tables]]
 
 La entrada es una puerta de cincuenta metros de alto excavada directamente de la montaña, con un enano tallado en la roca sirviendo de columna. Se encuentra a gran altura, aproximadamente medio centenar de metros más que unen unas escaleras de piedra. Es una subida penosa, pero defensivamente es una decisión acertada, igual que el puente levadizo que une la entrada con la ciudad subterránea,  cruzando un abismo interminable que es imposible sortear si el puente se alza.
 
@@ -13,13 +13,13 @@ Cuanto más profundo se va, más restringido está el acceso. Las rampas están 
 ===== Ala Alta =====
 En el ala superior de la ciudad se encuentran los negocios, los servicios, las tabernas y las posadas, nombrados a partir del clan que los atiende. 
 
-Hay cinco posadas (exclusivamente para hospedaje), cuatro tabernas (dos de ellas ofrecen alguna cama o un lugar junto al fuego por la noche), y comerciantes a patadas. Se puede encontrar de todo, aunque algunas cosas como la sal, las telas y las especias ardenas son caras por el transporte necesario para traerlas. 
+Hay cuatro posadas y cuatro tabernas, y comerciantes a patadas. Se puede encontrar de todo, aunque algunas cosas como la sal, las telas y las especias ardenas son carísimas por el transporte necesario para traerlas. Los comerciantes las traen para consumo de los enanos.  
 
 Cuanto más arriba, más barato y menos elegancia por la menor cantidad de gente. 
 
 ===== Alas Este y Oeste =====
 
-Son las partes residenciales de Mozgani. En el Ala Este viven los clanes más ricos y poderosos, los nobles y los comerciantes ricos. En el Ala Oeste vive todo el resto de la población. Sólo los enanos pueden ingresar a estas áreas, que están controladas y patrulladas por guardias.
+Son las partes residenciales de Mozgani. En el Ala Oeste viven los clanes más ricos y poderosos, los nobles y los comerciantes ricos. En el Ala Este vive todo el resto de la población. Sólo los enanos pueden ingresar a estas áreas, que están controladas y patrulladas por guardias.
 
 ===== Ala Baja =====
 En el Ala inferior de Mozgani están las dependencias y residencias reales y oficiales. Allí el acceso está severamente restringido. Sólo personas con acceso autorizado pueden bajar. Estas personas son los diplomáticos, la familia y parientes del Rey, otros soberanos/gobernantes de otras naciones, altos sacerdotes y otras personalidades importantes. 

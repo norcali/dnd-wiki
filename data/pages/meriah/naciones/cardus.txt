@@ -1,0 +1,86 @@
+====== Cardus ======
+
+[[dmonly:nations:cardus|DM only info]]
+
+El reino humano más oriental y más fuerte militarmente, que se encuentra mermado por la cruel guerra contra los Yuan Ti que presionan desde el otro lado de la [[meriah:geografía:espinaquebrada|Espina Quebrada]]. 
+
+===== Historia =====
+
+El [[Meriah:Naciones:Cardus:npc:Edmond|Rey Edmond]] murió en batalla contra los Yuan-ti de las [[Meriah:Geografía:Shoussai | Colinas Shoussai]] . En una de las idas y venidas de la campaña militar fue emboscado junto a su séquito por un comando de asalto Yuan-Ti. Los asesinaron a todos.
+
+Hay fuertes rumores de que la muerte de [[Meriah:Naciones:Cardus:npc:Edmond|Edmond]] no fue la gloriosa caída en batalla que los bardos cantan. La ausencia de un cuerpo impide matar los rumores.
+
+
+===== Economía =====
+
+La producción incluye madera del bosque aledaño (que se dedican a embellecer con gran talento), granos y vegetales, armas con metales que minan.
+ 
+Importan muchos productos desde [[Meriah:Naciones:Zir | Zir]], porque son la única nación que puede comerciar con ellos por tierra. En la frontera se unen el camino [[Caminos:Edelond |Edelond]] y el [[Caminos:Sharieabyad |Camino Blanco]] . Se especializan en el comercio de sal marina  (más cara, traída desde [[Meriah:Naciones:Zir:AkbarMina | Akbar Mina]]
+), sal de mina (más barata, procesada en [[Meriah:Naciones:Zir:Kelrix | Kelrix]]
+), y armas/cuchillos/instrumentos de acero ziraniano.
+
+=====  Geografía =====
+
+Llanura menos fértil, un poco más árida, con fuerte comercio y producción de armas con metales que minan en [[Meriah:Geografía:EspinaQuebrada | La Espina Quebrada]] .
+
+=====  Política =====
+
+Monarquía absolutista con ministros militares.
+
+Gobernado por el [[Meriah:Naciones:Cardus:npc:Godfrey|Rey Godfrey]] , un adolescente que llegó al mando un mes antes del comienzo de campaña cuando su padre murió.
+
+[[Meriah:Naciones:Cardus:npc:Godfrey|Godfrey]]  fue criado para ser un caballero y un Rey, así que a sus cortos quince años es un guerrero capaz.
+Ansioso por vengar a su padre, es aconsejado por el [[Meriah:Naciones:Cardus:npc:Duncan|Comandante de Caballería Duncan]].
+
+ ==== Relaciones exteriores ====
+
+Tiene mejores relaciones con [[Meriah:Naciones:Haldrim | Haldrim]]  que con [[Meriah:Naciones:Ardenia | Ardenia]], y aún mejores con [[Meriah:Naciones:Zir | Zir]].
+ 
+ ==== Ejército, flota y fuerzas del orden ====
+
+El ejército más grande, pero sólo usado para defenderse del ataque de los Yuan-ti, lo que hace imposible que manden tropas al paso. Sus fuerzas son muy valiosas porque están muy bien entrenadas y tienen una disciplina inquebrantable.
+
+Reclutan y entrenan a todo hombre que cumple 16 años a menos que sea lisiado o mentally impaired (o noble, porque entrenan en privado).
+
+Servicio militar obligatorio a los 16 años, donde se evalúa si el pibe sirve de algo. 2 años de prueba y entrenamiento, entonces incorporación o relevo.
+
+ ===== Conflictos y tensión =====
+
+Una mala cosecha y la guerra están haciendo que la gente esté más ruda que de costumbre. Además, el hecho de que haya muerto el rey no ayuda. La gente está cansada y quiere sacarse de encima el problema de los Yuan-ti.
+
+===== Religión =====
+
+[[Panteón:Helm | Helm]]  es la tradición, pero últimamente [[Panteón:Tempus | Tempus]] está ganando más seguidores.
+
+=====  Cultura =====
+
+Como pueblo, dejan la belleza de lado para privilegiar la utilidad y el pragmatismo. 
+
+====  Supersticiones y taboos ====
+
+Los zapatos en la casa son de mala educación, se cree que traen la suciedad física y espiritual del mundo exterior al templo de paz que es el hogar.
+
+====  Nacimientos, matrimonios, muerte ====
+
+Los nacimientos de varones son celebrados con banquetes y se felicita a los padres mucho más.
+
+Los matrimonios son meros contratos cívicos, alianzas entre familias.
+
+==== Tratamientos de nobleza ====
+
+  *  Familia Real Alteza
+  *  Nobleza Lord/Lady
+
+====  Lujos ====
+
+Las telas ardenas, las gemas y metales enanos son lujos.
+
+=====  Sociedad =====
+
+Misoginia cultural, las señoras se ocupan de la casa y no tienen ni voz ni voto en la sociedad. 
+
+Existen los "contratados", siervos no remunerados que se emplean por contrato a cambio de un techo y comida.
+
+====  Entretenimiento ====
+
+Se juega mucho Pirámide, luchas libres, artes marciales y justas.

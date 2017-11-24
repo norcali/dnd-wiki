@@ -1,13 +1,15 @@
-====== Barrak, Crourrak y Zudrak  ======
+====== Zudrak  ======
 
 DM Links: [[dmonly:settlements:halfling|Info]] | [[dmonly:random:halfling|Tables]]
 
-En el centro-oeste de Meriah hay una pequeña comunidad halfling compuesta por tres poblados: Barrak, Crourrak y Zudrak.
+En el centro-oeste de Meriah hay una pequeña comunidad halfling: Zudrak.
 
-Los halfling delegan la defensa a la inaccesibilidad del territorio en el que viven. Los tres poblados se hallan en un valle extremadamente fértil, situado en el seno de una pequeña cadena montañosa. Para acceder a ella hay que cruzar un paso muy angosto, en altura, bastante peligroso. Del otro lado, tienen el mar; pero es una costa rocosa, innavegable. 
+Los halfling delegan la defensa a la inaccesibilidad del territorio en el que viven. Se hallan en un valle extremadamente fértil, situado en el seno de una pequeña cadena montañosa. Para acceder a ella hay que cruzar un paso muy angosto, en altura, bastante peligroso. Del otro lado, tienen el mar; pero es una costa rocosa, innavegable. 
 
 Además, son un pueblo pacífico, que rara vez toma contacto con el exterior. No poseen grandes riquezas ni recursos envidiables por otras naciones. Lo único que todo el mundo podría (y tal vez debería) envidiarles es el nivel de paz que supieron cosechar.
 
+Sus casas las construyen en las colinas naturales del terreno montañoso, metidas dentro de la tierra pero con ventanas al exterior. Normalmente las construyen en madera y piedra, con formas redondeadas. Tienen bellos jardines y huertas, sin divisiones entre terrenos (ni cercas ni muros).
+
 No hay negocios ni tabernas, el comercio existe sólo como canje. No hay moneda. Todas las transacciones consisten en canjes por equivalencia (a través de un sistema de medidas, peso y valoración que en caso de disputa arreglan los ancianos) entre particulares, todo confeccionado artesanalmente a modo de economía de subsistencia. Así todas las familias se procuran su comida, con suficiente tiempo libre como para hacer otras actividades. Esas actividades les generan la posibilidad del intercambio. 
 
-No es que no entiendan la moneda, ni que no sepan de su existencia; de hecho, de vez en cuando alguna caravana va a Ardenia o Haldrim a buscar algunas cosas particulares y se manejan con dinero. Simplemente prefieren no implementarlo ellos mismos. Creen que genera ambición desmedida y deseos materiales innecesarios. 
+No es que no entiendan la moneda, ni que no sepan de su existencia; de hecho, de vez en cuando alguna caravana va a [[meriah:naciones:Ardenia]] o [[meriah:naciones:Haldrim]] a buscar algunas cosas particulares y se manejan con dinero. Simplemente prefieren no implementarlo ellos mismos. Creen que genera ambición desmedida y deseos materiales innecesarios. 

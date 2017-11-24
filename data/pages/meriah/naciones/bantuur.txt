@@ -1,10 +1,17 @@
 ====== Ban Tuur ======
 
-Amazonas animistas que veneran al Volcán Tuur, Madre del Fuego y Creadora de la Tierra. Señoras de los caballos nómades, exceptuando la capital donde vive la Reina Nahiria, la Trigésimo Sexta de su Nombre, en el Trono de Magma. //"Ban Tuur"// significa //"Las Hijas de Tuur"//.
+DM only links: [[dmonly:nations:bantuur| Info]] | [[dmonly:random:bantuur|Tables]]
+
+
+Una raza de humanoides matriarcales que veneran al Volcán Tuur, Madre del Fuego y Creadora de la Tierra. Señoras de los caballos nómades, exceptuando la capital donde vive la Reina Nahiria, la Trigésimo Sexta de su Nombre, en el Trono de Magma. //"Ban Tuur"// significa //"Las Hijas de Tuur"//.
+
+Su piel es grisácea, más dura que la piel humana, y soportan mejor el viento y el frío. Son más altas también. Los hombres oscilan entre 1.60 y 1.80, pero las mujeres pueden medir desde 1.75 hasta 1.90. 
+
+Durante el invierno, repliegan sus campamentos nómades y se refugian en la capital, construida en piedra.
 
 ===== Historia =====
 
-Nahiria XXIX estuvo fatalmente loca y durante sus últimos años su trastorno era tan severo que mandaba a cualquiera a la hogera, porque veía en todos lados a sirvientes del Hielo. Esquizofrenia paranoide. Su propia hija, cuando tuvo la edad de reinar, terminó con su vida por el bienestar de su gente.
+Nahiria XXIX estaba desquiciada y durante sus últimos años su trastorno era tan severo que mandaba a cualquiera a la hogera, porque veía en todos lados a sirvientes del Hielo. Esquizofrenia paranoide. Su propia hija, cuando tuvo la edad de reinar, terminó con su vida por el bienestar de su gente.
 
 ===== Economía =====
 
@@ -28,7 +35,7 @@ Poseen una infantería muy buena y la mejor caballería del mundo conocido. Su c
 
 ===== Religión =====
 
-Son animistas, creen en los espíritus que viven en la naturaleza y sus fenómenos.
+Son animistas, creen en los **henkiä** (espíritus) que viven en la naturaleza y sus fenómenos.
 Sus sacerdotisas son las **Oransi Nainen** (Mujeres Rojas) que crean fogatas gigantescas para comunicarse con su Diosa mayor, **Tuur**, y disponer de sus muertos.
 
 ===== Cultura =====
@@ -62,9 +69,12 @@ Nación semi nómada fuertemente matriarcal y androfóbica. Medio espartano, med
   *  **Reina** (**Suuri Nainen**, //la Gran Mujer//)
   *  **Mano derecha** (//Käsi Oikea//, leyes, justicia, guerra) y **mano izquierda** (//Käsi Vasen//, celebraciones, comercio) de la reina 
   *  **Bruja** (Paras Oransi Nainen)
-  *  **Hermanas** (Sestras)
+  *  **Mujeres/Hermanas** (Nainen/Sisko)
   *  **Hombres** (Mies)
   *  **Prisioneros y esclavos**
+
+
+No tienen apellidos, se llaman por nombres de pila, y a modo de apellido usan el nombre de pila de su madre.
 
 
  Tienen esclavitud en su manera clásica.
@@ -75,4 +85,4 @@ Nación semi nómada fuertemente matriarcal y androfóbica. Medio espartano, med
 
 Como un ritual de pasaje, tienen la tradición de la **Primera Sangre** para asegurarse victoria y abundancia; las //tyttar// (niñas) deben convertirse en //Nainen// (mujeres adultas), para poder entrenarse, tener su primer caballo y hacerse sus primeros tatuajes. Consiste, plana y sencillamente, en conseguir un prisionero para sacrificar ante la reina. 
 
- El mayor castigo para una Ban Tuur es el deshonor y el exilio. 
+ El mayor castigo para una Ban Tuur es el deshonor y el exilio, y que la madre le quite a su hija o hijo su nombre, dado que se designan a sí mismos usando un nombre de pila y luego el nombre de pila de su madre.

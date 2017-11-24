@@ -1,8 +1,71 @@
-Bigass cave. The Ban Tuur know about it. They say it’s the Mother’s eye. You don’t poke Mother’s eye. They stay away from it because Mother sends awful gifts if you bother her; gifts of fire and rage and death. So they send in sacrifices from time to time to keep Mother happy, and they stay the heck away from there. It’s on the opposite side from the Magma Throne, surrounded by kilometers of scorched, useless land full of cinder and ash. Nothing has grown there in living memory.
+====== Magnhild ======
 
-Inside live fire elementals and myrmidon. The twisting passages are now dangerous due to volcanic activity. Lava, ashes, and pumice cover the cave, and the whole place smells of sulphur. There are scorched remains of other inhabitants before the elementals arrived. Apparently, they actually were born here. There could be a rift to the Fire Elemental Plane nearby. (It's right inside the volcano's crater).
+Del lado opuesto al que habitan las Ban Tuur, existe una zona marcada por el fuego y la ceniza, donde suelen surgir ríos de lava. Allí nada crece ni ha crecido nunca, desde que las Ban Tuur están en esas tierras. 
 
 
-A test of courage and bravery. Are you willing to risk your own life to get this thing? An arena (a dynamic one, where conditions change all the time: platforms, obelisks of stone, and cover that shift every round, hurtful elements that activate/deactivate/change every round, the floor itself shifts and changes, made of circles that can rotate clockwise/counterclockwise, ¼ ½ ¾ any given round). A number of creatures put in stasis for millennia. A demon, a draconic beast, an elemental, an undead, a monstrosity, a dinosaur. You choose one by stepping on a rune next to them. If they accidentally step on another rune while battling a creature, it will activate too. Not good at all. Instructions: if you surrender by stepping again on the same rune, the creature will return to stasis, which heals it back to 100%. You can rest and start again. But if you take the compass from its place and the doors close, you will not be able to open them again. 
-The creatures have been bound by Arldir to that chamber. They cannot go out. 
-Killing one of those creatures turns the rest to dust, and automatically opens the chamber in which lay the Holy Fucking Avenger. Dormant, for sure, but it is there. 
+=== Las Ban Tuur ===
+
+Las Ban Tuur saben que hay algo. Dicen que es el **äidin silmä**, el Ojo de la Madre. Uno no va a picarle los ojos a su madre. Además, Tuur manda terribles regalos de fuego, furia y muerte si la molestan. Entonces, ellas envían regularmente sacrificios para mantener a Tuur feliz, and they stay the fuck away from there.
+
+Se van a oponer a que ellos vayan. Temen la ira de Tuur. Podrían convencerlas por ejemplo de que van a entregar un sacrificio. 
+
+
+===== Alrededores =====
+
+5 km a la redonda, alrededor de la entrada a la caverna, la tierra se vuelve un trozo de roca quemada, surcado por ríos de lava solidificada y con ocasionales salidas de vapor. Es uno de los puntos de desagote de presión del Volcán Tuur. 
+
+La entrada de la caverna no es gigantesca ni está construida. Sólo tiene una marca, la estrella de siete puntas, justo arriba de todo. Tiene una marca roja en el centro, como una gema.
+
+
+===== Cavernas =====
+
+
+Al entrar, ingresan a un complejo laberinto de túneles y cavernas, con muchos dead ends. Son cavernas naturales. En el centro está la entrada a la vault, y en una caverna al norte la vivienda de los gigantes. Al sur están los cuchitriles de los minions. 
+
+Las cavernas tienen vapores y gases, gotean lava, y hay ceniza acumulada en los pisos. Se ven huellas recientes. Hace demasiado calor. No podrían dormir ahí dentro. 
+
+Los gigantes viven en cavernas que modificaron para hacer una vivienda dentro del mismo volcán. Todas las habitaciones son enormes. Duermen sobre lechos de roca pulida, tienen colosales mesas de herramientas y forjas que calientan con lava misma. 
+
+Son tres: uno que sería como el padre, su esposa, y su hijo que es menos polenta. 
+===== Magnhild =====
+
+//Tres cámaras adyacentes, una después de la otra en línea recta, con distintas criaturas y sus minions: un elemental, un undead y un demonio. Tienen una sola cosa en la cabeza: ser libres. Piensan que si derrotan a sus oponentes en batalla, podrán escapar o los liberarán.  Entre una cámara y la otra, una pequeña antecámara con una ayuda: un mapa del terreno, tres palabras describiendo el monstruo que les toca, o un item consumible útil. En estos ambientes más aislados del calor volcánico sería posible dormir.// 
+
+=== Entrada ===
+
+Encuentran una gran puerta poco ornamentada pero súper sturdy en el centro del complejo de cuevas. Tiene una ranura para la brújula. Esa puerta se abre a la primer antecámara. Ésta rota 180 grados y baja unos cuantos pies, alejándose del centro calórico del volcán.
+
+Entre puerta y puerta tienen que usar la brújula para pasar.
+
+
+=== Primera ===
+
+La primera antecámara tiene un mapa de la siguiente caverna, tipo esquema. Pueden mirarlo el tiempo que quieran. 
+
+En la primera cámara hay un elemental muy poderoso. La arena cambia todas las rondas en que se activan/desactivan sudden geisers de lava y spiked pits.
+
+=== Segunda ===
+
+La segunda antecámara contiene un item consumible útil (?). 
+
+En la cámara propiamente dicha reside un undead ultra heavy con muchos mobs. En este caso, los elementos dinámicos son plataformas y obelisks of stone que cambian al principio de la ronda. Pueden subir, bajar o mantenerse como están. 
+
+=== Tercera ===
+
+La tercer antecámara ostenta tres palabras sobre el desafío que les espera. "Abismo-Infierno/Primary ability/etc".
+
+En la caverna hay tres círculos concéntricos que giran al principio de cada ronda (clockwise/counterclockwise, ¼ ½ ¾ o nada, según dados). Habitándola, un par de demonios. 
+
+=== Holy Fuck ===
+
+La puerta detrás de los demonios no tiene antecámara. Se abre directamente a la habitación final. 
+
+En la cámara final, bastante más fresca que todas las demás, hay más murales. En el centro, sostenida por unos soportes en una roca con forma de prisma cortado en chanfle, lay the Holy Fucking Avenger. La Furia de Magnhild. 
+
+Magnhild era un hombre recto, siempre pendiente de dar cuanto estaba en su mano por ayudar al resto, y aunque quisiera disimularlo, era un genio militar. Era un estratega sublime y sabía controlar miles y miles de tropas, manteniéndolas siempre afiladas y respetuosas; las tropas de Magnhild no violaban mujeres, ni mataban niños, ni quemaban casas, ni robaban propiedad ajena. 
+
+Su fe lo guiaba para seguir adelante. El Todopoderoso le daba fuerzas, luz y poder para llevar a cabo sus tareas y solucionar los problemas que se le presentaban. 
+
+
+
+

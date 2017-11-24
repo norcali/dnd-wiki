@@ -1,0 +1,36 @@
+====== Tables: Ban Tuur ======
+
+^  Nainen           ^  - - - - - - - -  ^
+|  Sini Inkerit     |  Erika Meri       |
+|  Tahti Laja       |  Meri Aune        |
+|  Irma Lea         |  Kira Sirpa       |
+|  Merja Paivä      |  Sirpa Helena     |
+|  Anna Marjanna    |  Senja Ruut       |
+|  Jasmin Varpuu    |  Irena Freja      |
+|  Albina Kristina  |  Laine Margareta  |
+|  Ingrid Kristina  |  Olga Bilyana     |
+|  Sofia Lempi      |  Lilia Bilyana    |
+|  Amanda Blaga     |  Bilyana Vera     |
+|  Felicia Blanka   |  Astrid Iris      |
+|  Anne Selene      |  Turid Iris       | 
+|  Lea Walentyna    |  Iris Thyra       |
+|  Gintare Kaja     |  Ekaterina Oona   | 
+|  Stanislava Tatjana  |  Brigita Nevenka  |
+
+^  Mies             ^  - - - - - - - --  |
+|  Stoyan Rebecka   |  Aksel Andrea      |
+|  Teodor Senka     |  Morten Andrea     |          
+|  Onisim Hjördis   |  Frans Astrid      | 
+|  Bo Hedvig        |  Aukusti Katarina  |
+|  Neculai Hedvig   |  Gennady Agnes     |
+|  Finn Bodil       |  Lukasz Victorija  |         
+|  Benedikt Sylvia  |  Vilhelm Klara     |
+|  Uros Klara       |  Leo Klara         |
+|  Yakov Irena      |  Erlingur Freja    |
+|  Miroslav Oda     |  Darijus Vilhemina  |
+|  Aron Senka       |  Sigurd Walentyna  |
+|  Bogdan Gintare   |  Kristian Gintare  |
+|  Filip Brigite    |  Sven Eira              
+
+
+

@@ -17,4 +17,4 @@
     * [[terrortalones:terrortalones|El Terror de los Talones]]
 
 
-    * [[dmonly:dmonly|Información privada de la DM]]
+    * [[dmonly:dmonly|DM Only]]

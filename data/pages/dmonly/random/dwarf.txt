@@ -1,0 +1,50 @@
+====== Dwarf Tables ======
+
+^  Female       ^  Male         ^ 
+|  Olivia       |  Predrag      |
+|   Ilona       |  Sigrid       |
+|  Rosalie      |  Daniel       |
+|  Tatiana      |  Sven         | 
+|  Helena       |  Teodor       |
+|  Bozena       |  Otmar        | 
+|  Jowa         |  Feliks       |
+|  Eva          |  Nikola       | 
+|  Paulina      |  Andrej       |
+|  Freja        |  Frans        | 
+|  Stanislava   |  Gaspar       |
+|  Ariadna      |  Slaven       |
+|  Helga        |  Kristoff     |
+|  Irena        |  Wester       |
+|  Kristina     |  Berg         |
+|  Eira         |  Blaj         |
+|  Augusta      |  Ingolf       |
+|  Arina        |  Jadran       |
+|  Hedwig       |  Edvin        |
+|  Maja         |  Nooa         |
+|  Yeva         |  Emil         |
+|  Rakel        |  Sigmund      |
+|  Hella        |  Aloj         |
+|  Sofía        |  Yuri         |
+|  Saskia       |  Josz         |
+
+
+===== Clan names =====
+
+^  - - - - - -  ^  - - - - - -  ^  - - - - - -  ^
+|  Gerig        |  Geiszler     |  Wirt         |
+|   Lindholm    |  Werner       |  Loewe        | 
+|  Baldur       |  Sturm        |  Pietar       |
+|  Bleier       |  Linnaj       |  Bohn         | 
+|  Lothar       |  Burgstall    |  Maksim       |
+|  Lewerenz     |  Kerwer       |  Thorben      | 
+|  Rybar        |  Tikhon       |  Penzig       |
+|  Seiger       |  Hauer        |  Fiedler      |
+|  Bukarh       |  Zemniak      |  Protz        |
+|  Marku        |  Sitko        |  Timur        | 
+|  Gunhil       |  Kovac        |  Kozlo        |
+|  Strongkich   |  Oberst       |  Bumgar       |
+|  Szewc        |  Filipp       |  Boehler      | 
+
+
+
+
