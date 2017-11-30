@@ -1,0 +1,134 @@
+====== Timekeeping ======
+
+(Segundo día menguante: 2M, cuarto día lleno: 4L, sexto día creciente: 6C)
+
+===== Luna del Perro =====
+
+
+^  Día  ^  Ubicación      ^  Actividades                                                   ^
+|  3M   |  Mozgani        |  Visitan el templo de Ioun, a Kholin Mikkel y hacen algunas compras en la zona. Muere Elise, las noticias empiezan a viajar.  |
+|  2M   |  Viaje entre Zudrak y Mozgani. Pasaron por el Gomroud y vieron al dragón rojo.  ||| 
+|  1M   |     :::                                                                         |||
+|  7L   |     :::                                                                         |||
+|  6L   |     :::                                                                         |||
+|  5L   |     :::                                                                         |||
+|  4L   |  Zudrak  | Se quedan unos días en lo de Shaena, la hermana de Bellegar. La ayudan con varios temas y crean el anfiteatro Burrfoot para el entretenimiento de la comunidad. Conocen a la familia de Bell. Luego emprenden el viaje a Mo'raz, pero Bellegar se queda un tiempo más en su hogar. |
+|  3L   |   :::   |  :::   | 
+|  2L   |   :::   |  :::   |    
+|  1L   |   :::   |  :::   | 
+|  7C   |   :::   |  :::   |  
+|  6C   |   :::   |  :::   |   
+|  5C   |   :::   |  :::   |   
+|  4C   |   :::   |  :::   |   
+|  3C   |   :::   |  :::   |    
+|  2C   |   :::   |  :::   |    
+|  1C   |  Viajando       |  Desde Korim a Zudrak   |
+|  7N   |  Viajando       |  Desde Korim a Zudrak   |
+|  6N   |  Korim          |  Se reúnen con Hug Hug, que había quedado bajo la guarda de los Kholin.  |
+|  5N   |  Cardus         |  Aprovechando su nueva habilidad de viajar a altas velocidades, pasan por distintos pueblos y ciudades de Cardus alimentando a la población con comida generada mágicamente.  |
+|  4N  |  Zir  |  Tumba de Surya: Se encuentran y derrotan a una Lamia con bastantes súbditos y bastantes tesoros. Luego se adentran en las profundidades de un complejo subterráneo lleno de trampas y obstáculos diseñados para que sólo los más habilidosos puedan pasarlos. Obtienen, luego de mucho esfuerzo, una capa de invisibilidad llamada El Susurro de Surya.   |
+|  3N   |   :::  |   :::  || 
+|  2N   |  Continúa el viaje por el desierto de Zir.  |||
+|  1N   |  :::   |||
+
+===== Luna del Gato =====
+
+^  Día  ^  Ubicación      ^  Actividades                                                   ^
+|  7M   |  Viaje por el desierto, siguiendo la brújula.  ||
+|  6M   |  :::  ||
+|  5M   |  :::  ||
+|  4M   |  :::  ||
+|  3M   |  :::  ||
+|  2M   |  :::  ||
+|  1M   |  :::  ||
+|  7L   |  :::  ||
+|  6L   |  Kelrix         |  Conocen una de las grandes ciudades de los dragonborn en Zir.  | 
+|  5L   |  Viaje por el Sharie'abyad, el Camino Blanco, hacia Kelrix.  ||
+|  4L   |  :::  ||
+|  3L   |  Kays           |  Pasan una confortable noche en el pueblo del paso en las montañas donde se unen el Edelond y el Camino Blanco.   |
+|  2L   |  Viajan desde la capital de Cardus hacia Kays.  ||
+|  1L   |  :::  ||
+|  7C   |  :::  ||
+|  6C   |  Cardus         |  Ven la decaída capital de la nación, que se encuentra diezmada por la guerra con los Yuan-ti. Ofrecen su ayuda en forma de comida y agua potable y son bien recibidos.  |
+|  5C   |  Viajan desde Bridle hacia Cardus.  ||
+|  4C   |  :::  ||
+|  3C   |  Bridle         |  Visitan el pueblo de Kradus y Ed. Curan a muchos soldados heridos y alimentan con comida generada mágicamente a la población hambrienta. Se encuentran con el priest de Tempus local, Marlin Murdock.  |
+|  2C   |  Viajan hacia Bridle.  ||
+|  1C   |  :::  ||
+|  7N   |  Waldren        ||
+|  6N   |  Viaje hacia Waldren.  ||
+|  5N   |  :::  ||
+|  4N   |  La Bifurcada   |  Les llegan noticias de que la princesa Elise está gravemente enferma.  |
+|  3N   |  Viajando         |||
+|  2N   |  Falworth         |  Visitan La Casa Escarlata y entregan el perfume justo a tiempo para el cumpleaños de uno de sus amigos.   |
+|  1N   |  Arden            |  Pasan por la ciudad y notan que sus problemas anteriores no han sido descubiertos.   |
+
+===== Luna de la Abeja =====
+
+^  Día  ^  Ubicación      ^  Actividades                                                   ^
+|  7M   | Viajan hacia Arden  ||
+|  6M   |  :::  ||
+|  5M   |  Korim          |  Hacen algunas compras, obtienen el círculo de teletransportación para Moash y visitan a los Kholin.  |
+|  4M   |  Villa Kholin   |  Pasan por el poblado de camino a Korim, victoriosos, con la cabeza de Naeldyth y metros de cuero negro encima. Son los héroes del pueblo.   |
+|  3M   |  Viajan bordeando la montaña, examinando sus hallazgos: el tesoro de un dragón, Apóstol, y la brújula legendaria.  ||
+|  2M   |  :::  ||
+|  1M   |  The Emperor's Tomb  |  Derrotan a Naeldyth, la dragona negra, abren la tumba del último Emperador Scahat y extraen de allí un extraño artefacto: una brújula con tres gemas presionables. Presionan una color amarillo, que apunta al desierto de Zir.   |
+|  7C   |   Viaje              |  Viajando alrededor de la montaña, encuentran la entrada a lo que parece ser una comunidad de stone giants. Notan que no son bienvenidos y se alejan.  |
+|  6C   |  Vuelven a villa Kholin, devuelven al niño a su hogar, y van a toda velocidad a la ciudad a comprar más elementos para derrotar al dragón.  ||
+|  5C   |  :::  ||
+|  4C   |  :::  ||
+|  3C   |  :::  ||
+|  2C   |  :::  ||
+|  1C   |  :::  ||
+|  7N   |  :::  ||
+|  6N   |  :::  ||
+|  5N   |  Naeldyth's lair     |  Ven el área de influencia, se cruzan con una patrulla y los matan, deducen que hay una criatura poderosa; introducen a Wingler como un torpedo, extraen al niño y luego se van. Escondidos, esperando que pase lo peor, ven pasar volando a Naeldyth.  |
+|  4N  |  Viaje por los terrenos salvajes. Tienen que cruzar un río que les trae problemas y se encuentran con un grupo de ogros. Todo esto mientras siguen unas huellas muy pequeñas y viejas. Es complejo pero lo logran.  ||
+|  3N   |  :::  ||
+|  2N   |  :::  ||
+|  1N   |  :::  ||
+
+
+===== Luna del Ciervo =====
+
+^  Día  ^  Ubicación      ^  Actividades                                     ^
+|  7M   |  Villa Kholin   |  Reunión tensa con el tío Torsten.               |
+|  6M   |  Korim          |  Hacen compras, visitan a los Kholin.            |
+|  5M   |  Viajan hacia Korim, se cruzan con unos orcos recolectando comida. No hay hostilidades.  ||
+|  4M   |  :::  ||
+|  3M   |  Arden          |  Erborin se lleva a Jaressa al sur. Prenden fuego el hideout y descansan.  |
+|  2M   |  Arden          |  Visitan la Embajada de Korim y la Catedral de Sune, también a Windel. Encuentran a Jaressa y se encuentran con Wingler de casualidad.  |
+|  1M   |  Arden          |  Llegan de noche a Arden, visitan el Colegio Bárdico y paran en El Talismán. Comentan sobre Amadeo y Oliver.  |
+|  7L   |  Falworth       |  Le hacen la ceremonia de iniciación a Hug Hug. Comienza el viaje a Arden.  |
+|  6L   |  Falworth       |  Se va Persiagon perseguido por el Revenant, aparecen Kradus y Ed buscando a Windel. Todos paran en La Casa Escarlata.  |
+|  5L   |  Viaje y llegada a Falworth.   ||
+|  4L   |  :::  ||
+|  3L   |  :::  ||
+|  2L   |  Wilderness     |  Matan al Revenant y entienden lo que sucede.   |
+|  1L   |  Minas Grung-Zan  |  Terminan de explorar la mina y Hug Hug se sacrifica por ellos. Luego Umral Kari aparece y puede revivirlo, y le entregan la piedra.  |
+|  7C   |  Minas Grung-Zan  |  Llegan a las minas y comienza la exploración. Tienen a Garn con ellos. Conocen a un tierno goblin llamado Hug Hug. Wingler recibe un extraño Sending y se va sin mucho aviso.  |
+|  6C   |  Viaje a las Minas Grung-Zan     ||
+|  5C   |  :::  ||
+|  4C   |  La Bifurcada                    |  Descansan.
+|  3C   |  La Bifurcada                    |  Descansan y comercian con algunos mercaderes de paso por la posada.  |
+|  2C   |  Viaje  y llegada a La Bifurcada. Conocen a Gregorio.   ||
+|  1C   |  Templo de Arlena   |   Muere Cantrell. Vuelven rodeando Valegren.    |
+|  7N   |  Templo de Arlena   |   Negocian con los goblins un tratado de paz.   | 
+|  6N   |  Valegren           |   Terminan Astabar Mansion, pasan por Valegren y se van a recolectar orejas de goblin.   |
+|  5N   |  Valegren   |  Exploran la mansión de Astabar y descubren que Raven murió allí, asesinada por el familiar del mago. La entierran y le dan paz a su espíritu. Le ponen fin a la magia de la mansión, dejándola abandonada.   |
+|  4N   |   :::      |   :::           |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

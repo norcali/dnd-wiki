@@ -14,7 +14,7 @@ Se van a oponer a que ellos vayan. Temen la ira de Tuur. Podrían convencerlas p
 
 5 km a la redonda, alrededor de la entrada a la caverna, la tierra se vuelve un trozo de roca quemada, surcado por ríos de lava solidificada y con ocasionales salidas de vapor. Es uno de los puntos de desagote de presión del Volcán Tuur. 
 
-La entrada de la caverna no es gigantesca ni está construida. Sólo tiene una marca, la estrella de siete puntas, justo arriba de todo. Tiene una marca roja en el centro, como una gema.
+La entrada de la caverna es altísima pero angosta y no está construida.
 
 
 ===== Cavernas =====
@@ -48,7 +48,7 @@ En la primera cámara hay un elemental muy poderoso. La arena cambia todas las r
 
 La segunda antecámara contiene un item consumible útil (?). 
 
-En la cámara propiamente dicha reside un undead ultra heavy con muchos mobs. En este caso, los elementos dinámicos son plataformas y obelisks of stone que cambian al principio de la ronda. Pueden subir, bajar o mantenerse como están. 
+En la cámara propiamente dicha reside un vampiro. En este caso, los elementos dinámicos son plataformas y obelisks of stone que cambian al principio de la ronda. Pueden subir, bajar o mantenerse como están. 
 
 === Tercera ===
 
@@ -66,6 +66,231 @@ Magnhild era un hombre recto, siempre pendiente de dar cuanto estaba en su mano 
 
 Su fe lo guiaba para seguir adelante. El Todopoderoso le daba fuerzas, luz y poder para llevar a cabo sus tareas y solucionar los problemas que se le presentaban. 
 
+
+===== Monster stat blocks =====
+
+___
+> ## Fire Giant Dreadnought
+>*Huge giant, lawful evil*
+> ___
+> - **Armor Class** 21 (plate, shields)
+> - **Hit Points** 187
+> - **Speed** 30ft.
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|27 (+8)| 9 (-1)|23 (+6)| 8 (-1)| 10 (+0)| 11 (+0)|
+>___
+> - **Skills** Athletics +13, Perception +5
+> - **Saving Throws** Dex +4, Con +11, Cha +5
+> - **Damage Immunities** fire
+> - **Senses** passive Perception 15
+> - **Languages** Giant
+> ___
+> ***Dual Shields.*** The giant carries two shields, each of which is accounted for in the giant's AC. The giant must stow or drop one of its shields to hurl rocks. 
+>
+> ### Actions
+> ***Multiattack.*** Two fireshield attacks.
+>
+> ***Fireshield.*** *Melee Weapon Attack:* +13 to hit, reach 5ft., one target. *Hit* 4d6+8 bludgeoning damage plus 2d6 fire damage plus 2d6 piercing damage. 
+>
+> ***Rock.*** *Ranged Weapon Attack:* +13 to hit, range 60/240ft., one target. *Hit* 4d10+8 bludgeoning damage.
+>
+> ***Shield Charge.*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's 
+
+space during this move, it makes a fireshield attack against that creature. If the attack hits, the target must also succeed on a DC 21 Strength save or be pushed ahead of 
+
+the giant for the rest of this move. If a creature fails the save by 5 or more, it is also knocked prone and takes 3d6+8 bludgeoning damage or 6d6+8 bludgeoning damage if it 
+
+was already prone. 
+
+___
+> ## Ash Drake
+>*Small dragon, neutral evil*
+> ___
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 117
+> - **Speed** 30 ft., fly 60ft.
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|14 (+2)|15 (+2)| 16 (+3) |9 (-1) |15 (+2) |10 (+0)|
+>___
+> - **Skills** Stealth +4
+> - **Saving Throws** Dex +4
+> - **Condition Immunities** paralyzed, unconscious
+> - **Damage Resistances** fire
+> - **Senses** darkvision 60ft., passive Perception 12
+> - **Languages** Draconic
+> ___
+> ### Actions
+> ***Multiattack.*** The ash drake makes one bite attack and two claw attacks.
+>
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 2d6+2 piercing and 1d6 fire damage. 
+>
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 2d6+2 slashing damage. 
+>
+> ***Ash Cloud. *** An ash drake can beat its wings and create a cloud of ash that extends in a 10-foot cube centered on itself. This cloud provides half cover, but the drake 
+
+can see normally through its own cloud. Any creature that enters or starts its turn in the cloud must make a DC 14 Con save or be blinded for 1d4 rounds.
+>
+> ***Ash Breath.(Recharge 6)*** The drake spews a 20-foot cone of blistering hot, choking ash. Any target in the path of this spray must make a DC 13 Con save. On a 
+
+failed save, the target takes 4d6 fire damage and becomes poisoned for one minute (saves at the end of each turn). On a success, it takes half damage and it is not 
+
+poisoned. 
+
+___
+> ## Vampire Spawn
+>*Medium undead, neutral evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 82
+> - **Speed** 30ft.
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|16 (+3)| 16 (+3) |16 (+3)| 11 (+0) |10 (+0) |12 (+1)|
+>___
+> - **Skills** Perception +3, Stealth +6
+> - **Saving Throws** Dex +6, Wis +3
+> - **Damage Resistances** necrotic and nonmagical weapons
+> - **Senses** darkvision 60ft., passive Perception 13
+> - **Languages** Scahat
+> ___
+> ***Regeneration.*** The vampire regains 10 hit points at the start of its turns if it has at least 1 and isn't in sunlight or running water. This trait doesn't work if the vampire 
+
+took damage from holy water or radiant damage on its last turn.
+>
+> ***Spider Climb. *** The vampire can climb difficult surfaces without an ability check. 
+>
+> ***Vampire Weakness.*** The vampire has the following flaws:
+>
+> *Running Water.* The vampire takes 20 acid damage if it ends its turn in running water. 
+>
+> *Sunlight Hipersensitivity.*The vampire takes 20 radiant damage when it starts its turn in sunlight, and it has disadvantage on attack rolls and ability checks.
+>
+> ### Actions
+> ***Multiattack.*** The vampire makes two attacks (only one bite).
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 
+>
+> ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one willing/restrained/grappled/incapacitated target. *Hit* 1d6+3 piercing damage plus 2d6 necrotic damage. 
+
+The target's HP maximum is reduced by an amount equal to the necrotic damage taken and the vampire regains that much HP. The reduction lasts until the target finishes a 
+
+long rest. The target dies if this effect reduces its HP max to 0.
+
+___
+> ## Hell hound
+>*Medium fiend, lawful evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 45
+> - **Speed** 50ft.
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>| 17 (+3)|12 (+1)|14 (+2)|6 (-2)|13 (+1)| 6 (-2)|
+>___
+> - **Skills** Perception +5
+> - **Damage Immunities** fire
+> - **Senses** darkvision 60ft., passive Perception 15
+> - **Languages** understands Infernal, can't speak
+> ___
+> ***Keen Hearing and Smell.*** Advantage on Perception checks.
+>
+> ***Pack Tactics. *** Advantage on the attack roll if it has at least one ally within 5-feet of the target (not incapacitated).
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 1d8+3 piercing plus 2d6 fire damage
+>
+> ***Fire Breath (Recharge 6).*** Exhales fire in a 15 foot cone. DC 12 Dex save. 6d6 fire damage or half on a success.
+
+___
+> ## Fire Giant
+>*Huge Giant*
+> ___
+> - **Armor Class** 18 (plate)
+> - **Hit Points** 162
+> - **Speed** 30ft.
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|25 (+7)|9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
+>___
+> - **Skills** Athletics +11, Perception +6
+> - **Saving Throws** Dex +3, Con +10, Cha +5
+> - **Damage Immunities** fire
+> - **Senses** passive Perception 16
+> - **Languages** Giant
+> ___
+> ### Actions
+> ***Multiattack.*** The giant makes two greatsword attacks.
+>
+> ***Greatsword.*** *Melee Weapon Attack:* +11 to hit, reach 10ft., one target. *Hit* 6d6+7 slashing damage.
+>
+> ***Rock.*** *Ranged Weapon Attack:* +11 to hit, range 60/240ft., one target. *Hit* 4d10+7 bludgeoning damage.
+
+___
+> ## Efreeti
+>*Large elemental, lawful evil*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 200
+> - **Speed** 40 ft., fly 60 ft.
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)|
+>___
+> - **Saving Throws** Int +7, Wis +6, Cha +7
+> - **Damage Immunities** fire
+> - **Senses** darkvision 120 ft., passive Perception 12
+> - **Languages**  Ignan
+> ___
+> ***Elemental Demise.*** Its body disintegrates when it dies.
+>
+> ***Innate Spellcasting. *** Charisma DC 15, to hit +7
+>
+> At will: *Detect magic*
+>
+> 3/day: *misty step,enlarge/reduce,tongues*
+>
+> 1/day each: *conjure elemental (fire only), gaseous form, invisibility, major image, plane shift, wall of fire*
+>
+> ### Actions
+> ***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
+> ***Scimitar.*** *Melee Weapon Attack:* +10 to hit, reach 5ft., one target. *Hit* 2d6+6 slashing plus 2d6 fire damage
+>
+> ***Hurl Flame.*** *Ranged Spell Attack:* +7 to hit, range 120ft., one target. *Hit* 5d6 fire damage.
+
+___
+> ## Fire Elemental
+>*Large elemental, neutral*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 102
+> - **Speed** 50ft. (hover)
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|10 (+0)|17 (+3)|16 (+3)|6 (-2)|10 (+0)|7 (-2)|
+>___
+> - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+> - **Damage Immunities** fire, poison
+> - **Damage Resistances** nonmagical weapons
+> - **Senses** darkvision 60ft., passive Perception 10
+> - **Languages** Ignan
+> ___
+> ***Fire Form.*** 1 inch without squeezing. Touch or melee attack → 1d10 fire damage. 
+>
+> ***Illumination.*** Bright light in a 30foot radius, dim light for another 30.
+>
+> ***Water Susceptibility. *** For every 5 feet or water or gallon splashed, 1 cold damage.
+>
+> ### Actions
+> ***Multiattack.*** Two touch attacks.
+>
+> ***Touch.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 2d6+3 fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 1d10 fire damage at the start of each of its turns. 
 
 
 

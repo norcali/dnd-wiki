@@ -1,5 +1,42 @@
 ====== DM only ======
 
+[[dmonly:time|Timekeeping]]
+
+===== Current Prep =====
+[[dmonly:adventure:magnhild| Magnhild]]
+
+  * Maps
+      * caves
+      * regional
+      * giant lair
+      * surroundings
+      * chambers 1 -2 -3
+  * Rooms
+  * Treasure
+  * World maps	
+  * Scahat/Gomroud	
+  * Cards	
+      * Armadura dragon scales "Peste Negra": no attunement, studded leather, +1, resistance acid, very rare, adv. vs frightful presence y breath weapon (black dragons only).
+      * winged boots
+      * arco leandro
+      * ring spell storing
+      * i.b. bilarro
+      * dwarven plate
+  * Monster: stat block - picture - token/s - strategy - 
+      * Fire Giant MM 154
+      * Fire Giant Dreadnought Volo 147
+      * Azer MM 22
+      * Hell hound MM 182
+      * Ash drake ToB 149
+      * Magma mephit MM 216
+      * Vampire MM 229
+      * Vampire Spawn MM 228
+      * Erinyes	MM 73
+      * Spined Devil MM 78
+      * Efreeti MM 145
+      * Fire elemental MM 125
+
+
 ===== Adventure Archives =====
 
   * [[dmonly:adventure:wards|Wards of the Last Emperor]]
@@ -48,3 +85,35 @@
   *  Storm Giants among the mountains in the North, in the other side. 
   *  Female Ancient Gold Dragon in the grasslands between Crassan & Zy'an. Shapechanged, it interacts with them.
   * Nightfuries live in the high cold mountains. They are seldom seen. 
+
+===== Monster stat block template =====
+
+___
+> ## Name
+>*Size, alignment*
+> ___
+> - **Armor Class** 
+> - **Hit Points** 
+> - **Speed** 
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
+>___
+> - **Skills**
+> - **Saving Throws**
+> - **Condition Immunities** 
+> - **Damage Immunities**
+> - **Damage Resistances**
+> - **Damage Vulnerabilities**
+> - **Senses** 
+> - **Languages** 
+> - **Challenge** 
+> ___
+> ***Trait.*** 
+>
+> ***Trait. *** 
+> ### Actions
+> ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 
+>
+> ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit*
