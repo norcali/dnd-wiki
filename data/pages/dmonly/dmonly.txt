@@ -14,7 +14,10 @@
   * Rooms
   * Treasure
   * World maps	
-  * Scahat/Gomroud	
+  * Scahat/Gomroud
+      * Lo que se sabe del Gomroud es lo que han recolectado algunos valientes que se han aventurado cerca. Nadie tiene idea de las dimensiones exactas. Saben que no existe flora en kilómetros enteros a la redonda, el por qué un misterio. Ninguna civilización se ha asentado allí. Todas las grandes expediciones que han ido jamás han vuelto. Hay rumores de que alguna criatura de gran poder vive allí. Hay muchas teorías, pero hay dos principales: la primera habla de un objeto caído del cielo, cual cometa, que se haya estrellado allí hace milenios; la segunda, de una explosión titánica durante una guerra entre dioses. 
+      * En un diario viejo y manchado de uno de los exploradores, un pasaje señala haber avistado lo que parecería ser la entrada a una caverna de proporciones brutales. "Parecía la boca de alguna bestia salida del infierno". 
+      * Otro diario de viaje habla de los vapores y gases que salían de una parte. "Aunque suene imposible, creo que tiene actividad volcánica". También cree haber visto magma o lava en la superficie del fondo.
   * Cards	
       * Armadura dragon scales "Peste Negra": no attunement, studded leather, +1, resistance acid, very rare, adv. vs frightful presence y breath weapon (black dragons only).
       * winged boots
@@ -28,14 +31,12 @@
       * Azer MM 22
       * Hell hound MM 182
       * Ash drake ToB 149
-      * Magma mephit MM 216
       * Vampire MM 229
       * Vampire Spawn MM 228
       * Erinyes	MM 73
       * Spined Devil MM 78
       * Efreeti MM 145
       * Fire elemental MM 125
-
 
 ===== Adventure Archives =====
 
@@ -60,34 +61,7 @@
   * [[dmonly:random:Gnome]]
   * [[dmonly:random:Halfling]]
 
-
-
-===== Circles of Teleportation =====
-
-  *  **Portbeak** casi público; cualquier persona con magia y algo de dinero consigue la runa. Está en las afueras, en un edificio protegido por una pequeña milicia.
-  *  **Mozgani** La runa la guarda la Iglesia de Ioun, que tiene un pequeño outpost a unos kilómetros de la ciudad con una milicia. 
-  *  **Arden** En una sala muy privada del Maestro Trovador Cristoph. Muy secreto. Ahí aparecen sus mejores espías.
-  *  **Fuerte Gris** Súper híper privado, de la princesa Miranda. 
-  *  **Ziris** En la sala de reuniones del Concilio. Votan para darle a runa a una persona.
-  *  **Vellardin** Ya no lo utilizan y no desean que nadie lo haga; casi imposible obtener la runa.
-  *  **Falassë** No es precisamente secreto pero tampoco lo obtiene cualquiera. Hay un Guardián que cuida la runa, custodiado por una guardia.
-  *  **Korim** No es precisamente secreto pero tampoco lo obtiene cualquiera. Dos representantes de cada casa deben aprobar al solicitante.
-
-===== Criaturas importantes =====
-
-  *  Ancient Red Dragon in a cave inside the asteroid crater.
-  *  Female Adult Blue Dragon in the south mountains. He destroyed Throm years ago, feeling them to be too close.
-  *  Female Ancient Silver Dragon in Lu’ev forest, interacting with the elves in a different shape, mostly an elderly, cheerful elf.
-  *  Ancient Brass Dragon in the NorthEast of Zir.
-  *  Adult Bronze Dragon in a big cave (SouthWest coast of Meriah).
-  *  Ancient Black Dragon in the swamp North of Cardus, within the ruins of the biggest palace the Scahat Imperium had.
-  *  Rocs dwell North of Mo'raz and the nearby islands.
-  *  Storm Giants among the mountains in the North, in the other side. 
-  *  Female Ancient Gold Dragon in the grasslands between Crassan & Zy'an. Shapechanged, it interacts with them.
-  * Nightfuries live in the high cold mountains. They are seldom seen. 
-
 ===== Monster stat block template =====
-
 ___
 > ## Name
 >*Size, alignment*
@@ -117,3 +91,110 @@ ___
 > ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 
 >
 > ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit*
+
+===== Organizaciones =====
+
+  * [[dmonly:org:ioun|Iglesia de Ioun]]
+  * [[dmonly:org:cancionsecreta|Colegio de la Canción Secreta]]
+  * [[dmonly:org:caminantesluz|Caminantes de la Luz]]
+  * [[dmonly:Organizaciones:guardianessangre|Guardianes de la Sangre]]
+  * [[dmonly:Organizaciones:asociacióncomercianteshaldrim| Asociación de Comerciantes]]
+  * [[dmonly:Organizaciones:ordenpaz|Orden de la Paz]]
+  * [[dmonly:Organizaciones:exiliados|Los Exiliados]]
+
+
+
+===== Circles of Teleportation =====
+
+  *  **Portbeak** casi público; cualquier persona con magia y algo de dinero consigue la runa. Está en las afueras, en un edificio protegido por una pequeña milicia.
+  *  **Mozgani** La runa la guarda la Iglesia de Ioun, que tiene un pequeño outpost a unos kilómetros de la ciudad con una milicia. 
+  *  **Arden** En una sala muy privada del Maestro Trovador Cristoph. Muy secreto. Ahí aparecen sus mejores espías.
+  *  **Fuerte Gris** Súper híper privado, de la princesa Miranda. 
+  *  **Ziris** En la sala de reuniones del Concilio. Votan para darle a runa a una persona.
+  *  **Vellardin** Ya no lo utilizan y no desean que nadie lo haga; casi imposible obtener la runa.
+  *  **Falassë** No es precisamente secreto pero tampoco lo obtiene cualquiera. Hay un Guardián que cuida la runa, custodiado por una guardia.
+  *  **Korim** No es precisamente secreto pero tampoco lo obtiene cualquiera. Dos representantes de cada casa deben aprobar al solicitante.
+
+===== Criaturas importantes =====
+
+  *  Ancient Red Dragon in a cave inside the asteroid crater.
+  *  Female Adult Blue Dragon in the south mountains. He destroyed Throm years ago, feeling them to be too close.
+  *  Female Ancient Silver Dragon in Lu’ev forest, interacting with the elves in a different shape, mostly an elderly, cheerful elf.
+  *  Ancient Brass Dragon in the NorthEast of Zir.
+  *  Adult Bronze Dragon in a big cave (SouthWest coast of Meriah).
+  *  Ancient Black Dragon in the swamp North of Cardus, within the ruins of the biggest palace the Scahat Imperium had.
+  *  Rocs dwell North of Mo'raz and the nearby islands.
+  *  Storm Giants among the mountains in the North, in the other side. 
+  *  Female Ancient Gold Dragon in the grasslands between Crassan & Zy'an. Shapechanged, it interacts with them.
+  * Nightfuries live in the high cold mountains. They are seldom seen. 
+
+===== Colinas Shoussai =====
+
+Hogar de los Yuan-ti, que están siendo retraídos hacia Cardus por los Zir. Veneran al muerto titán Raxis, quien los creó. Cold and calculated evil.
+Tienen un sistema de castas según cuán serpent-like son. Toman prisioneros, sólo matan cuando no existe otra opción.
+
+
+===== Dreshmor =====
+
+El pantano gobernado por tribus de Lizardmen (p. 204 MM), goblins y hobgoblins. Los lizardmen emboscan comerciantes en los límites de su territorio por sus metales. Son muy territoriales y no merodean mucho fuera del pantano.
+Gobernados por Magora, la Reina de la Piedra de Coromaus,  que ocupa un colosal templo en ruinas del perdido dios Arldir, legado del Imperio Scahatiano. Magora era una humana de nombre Maradel. (p. 214 MM). 
+Existen tres tribus distintas, según su color de escamas:
+
+^  Color  ^  Nombre   ^  Líder    ^
+|  Rojo   |  Xanthor  |  Xartan   |
+|  Negro  |  Oran     |  Mallok   |
+|  Verde  |  Kuroth   |  Hedora   |
+
+=====  Dur Daïthar =====
+
+El imperio subterráneo de los Drow. Antiguos aliados de los Duergar, una vez derrotado Kazragor empezaron a pelear entre sí y ahora luchan una guerra fría de espías siempre al borde del conflicto abierto. 
+Los humanos temen ese día, porque Las Fauces serán intransitables y el comercio con el mundo exterior a través de Puerto Colossus morirá.
+Dentro de la vasta extensión de Dur-daïthar hay varios reinados, gobernados por el Concilio Oscuro, y la emperatriz Veylastrix, La Estrella Negra. 
+La emperatriz es un oráculo, que sufre ataques de éxtasis profético cuando Lolth tiene información que darle.
+
+===== Las Tierras Muertas =====
+
+Destruidas por Kaleth-varr, una druida Archlich que vendió su alma a Neruul y se convirtió en lich para frenar a los humanos en su avance. 
+
+Varr vive en un árbol petrificado tamaño edificio y los Stone Giants de la isla son sus aliados
+Los undead en esta zona son los antiguos habitantes de los reinos humanos.
+Los tres reyes de los tres reinos se convirtieron en los Innombrables. Ahora montan Nightmares.
+
+  *  **Saldon:** La más cercana a Puerto Colossus. Seguramente agricultores en su mayoría y pescadores.
+  *  **Holgast:** La más cercana al mar, seguramente asentados sobre la pesca y con un proyecto de puerto.
+  *  **Tirrell:** Se servían del fuego para talar el bosque, que en esas alturas era terriblemente denso. Los primeros en caer ante Kaleth-Varr.
+
+
+=====  Ull'vok =====
+
+El reino civilizado, superior, de los Duergar. El reino inferior de Ull’wol cayó hace años y los Duergar de ahí se volvieron locos y ahora son los Derro.
+
+Es una teocracia gobernada por el Sumo Sacerdote Xadraxim que habla por el creador de los Duergar: Molak, Dios de las Pesadillas.
+
+=====  Voninheim =====
+** Hogar de Titanes**
+
+It was an awe~inspiring structure of iron and stone, raised by magic as much as by mortal hands. Con el cataclismo, los gigantes sobrevivientes migraron en distintas direcciones para buscar un nuevo hogar lejos del desierto. Los milenios convirtieron el lugar en ruinas, y con las eras toda la zona se convirtió en la jungla cerrada que tapó el lugar en vegetación. Hoy está habitado por otras criaturas. 
+
+===== Urshok =====
+
+Hogar de la tribu orcish Sol Rojo. Antes ocupaban incluso las Colinas Meredrar, pero los hombres cortaron el bosque y los hicieron retraerse. Por eso se llaman a sí mismos “Kanrokk” (Homeless) Les tienen un odio potente a los humanos, sólo medianamente aplacado con la tregua con Haldrim, pero Ardenia no puede hacer lo mismo sin perder el favor de Korim, de quienes dependen comercialmente. 
+
+====  Historia ====
+
+Los orcos solían ser una raza tranquila, que no molestaba a nadie que no se metiera con ellos, hasta que los humanos los asesinaron y desplazaron. Ahora se convirtieron en combativos, pero son razonables.
+
+====  Personalidades ====
+
+  * Señor de la Guerra Valkun – Negoció la paz con Haldrim a cambio de paso a la ciudad portuaria. Quiere comerciar con otras regiones de Celeth.
+  * Comandante de Batalla Valarak - hermana de Valkun, líder de los Warhounds, la caballería que usa dire boars. Si muere su hermano, ella se convierte en Señora de la Guerra.
+  * Maestro de Bestias Kennel - se ocupa de los dire boars.
+  * Decapitadores – El comando de elite del Señor de la Guerra. 
+  * Amarax la Enviada del Sol- chamán que comienza sus rituales al atardecer.
+
+===== V'ael =====
+
+Debajo del bosque yace Basharix, una dragona esmeralda más antigua que el tiempo. Cuando su pareja, Raxis, murió, ella entró en su Gran Sueño y sus lágrimas de pena crean la indisipable niebla que cubre el bosque. Los elfos no saben de su existencia, sino que protegen y veneran al bosque.
+
+
+

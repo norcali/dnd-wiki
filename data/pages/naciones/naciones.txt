@@ -22,6 +22,7 @@
     * [[Meriah:Naciones:Haldrim:Fuertegris | Fuerte Gris (Capital)]]
     * [[Meriah:Naciones:Haldrim:Fuertecliff | Fuerte Cliff]]
     * [[Meriah:Naciones:Haldrim:Kent | Kent]]
+    * [[Meriah:Naciones:Haldrim:Bifurcada|La Bifurcada]]
     * [[Meriah:Naciones:Haldrim:Narkeep | Narkeep]]
     * [[Meriah:Naciones:Haldrim:Pallem | Pallem]]
     * [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]]
@@ -38,6 +39,7 @@
     * [[Meriah:Naciones:Moraz:Kreuzung | Kreuzung]]
     * [[Meriah:Naciones:Moraz:Tharim | Tharim]]
     * [[Meriah:Naciones:Moraz:Throm | Throm]]
+  * [[Meriah:Naciones:nuvianara|Nuvia'nara]]
   * [[Meriah:Naciones:Portbeak | Portbeak]]
   * [[Meriah:Naciones:Strand | Strand]] 
     * [[Meriah:Naciones:Strand:Strandciudad | Strand (Ciudad Capital)]]
@@ -77,6 +79,4 @@
 
 ===== Aina =====
 
-  * [[Aina:Naciones:Nahele | Nahele]]
-  * [[Aina:Naciones:Moana | Moana]]
-  * [[Aina:Naciones:Nai | Nai]]
+[[Aina:Naciones:Aina| Poblaciones en Aina]]

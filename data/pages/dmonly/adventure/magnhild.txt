@@ -292,5 +292,99 @@ ___
 >
 > ***Touch.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 2d6+3 fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 1d10 fire damage at the start of each of its turns. 
 
+___
+> ## Azer
+>*Medium elemental, lawful neutral*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 39
+> - **Speed** 30 ft.
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
+>___
+> - **Saving Throws** Con +4
+> - **Condition Immunities** poisoned
+> - **Damage Immunities** fire, poison
+> - **Senses** passive Perception 11
+> - **Languages** Ignan
+> ___
+> ***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 1d10 fire damage. 
+>
+> ***Heated Weapons. *** When the azer hits with a metal melee weapon, it deals an extra 1d6 fire damage (included in the attack).
+>
+> ***Illumination.*** The azer sheds bright light in a 10 foot radius and dim light for an additional 10 feet.
+> ### Actions
+> ***Warhammer.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 1d8+3 bludgeoning damage, or 1d10+3 bludgeoning damage if used with two hands to make a melee attack, plus 1d6 fire damage.
+
+___
+> ## Erinyes
+>*Medium fiend (devil), lawful evil*
+> ___
+> - **Armor Class** 18 (plate)
+> - **Hit Points** 153
+> - **Speed** 30ft., fly 60ft.
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
+>___
+> - **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
+> - **Condition Immunities** poisoned
+> - **Damage Immunities** fire, poison
+> - **Damage Resistances** cold, nonmagical-non silvered weapons
+> - **Senses** truesight 120 ft., passive Perception 12
+> - **Languages** Infernal, telepathy 120ft.
+> ___
+> ***Hellish Weapons.*** The erinyes' weapon attacks are magical and deal an extra 3d8 poison damage (included).
+>
+> ***Magic Resistance. *** The erinyes has advantage on saving throws against spells and other magical effects.
+> ### Actions
+> ***Multiattack.*** The erinyes makes three attacks.
+> ***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 1d8+4 slashing damage, or 1d10 slashing if used with two hands, plus 3d8 poison damage.
+>
+> ***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600ft., one target. *Hit* 1d8+3 piercing damage plus 3d8 poison damage and the target must succeed on a DC 14 Con save or be poisoned. The poison lasts until it's removed by lesser restoration or similar magic.
+> ### Reactions
+> ***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes, must see the attacker, and be wielding a melee weapons. 
+
+___
+> ## Spined Devil
+>*Small fiend (devil), lawful evil*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 22
+> - **Speed** 20ft., fly 40ft.
+>___
+>|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+>|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+>|10 (+0)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|8  (-1)|
+>___
+> - **Condition Immunities** poisoned
+> - **Damage Immunities** fire, poison
+> - **Damage Resistances** cold, nonmagical-non silvered weapons
+> - **Senses** darkvision 120ft., passive Perception 12
+> - **Languages** Infernal, telepathy 120ft. 
+> ___
+> ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+>
+> ***Flyby.*** The devil doesn't provoke an opportunity attack when it flies out of an enemy's reach.
+>
+> ***Limited Spines.*** The devil has twelve tail spines. Used spines regrow by the time the devil finishes a long rest.
+>
+> ***Magic Resistance. *** The devil has advantage on saving throws against spells and other magical effects.
+> ### Actions
+> ***Multiattack.*** The devil makes two attacks: one with its bite and one with its fork or two with its tail spines. 
+> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 2d8 slashing damage
+>
+> ***Fork.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 2d6 piercing damage.
+>
+> ***Tail Spine.*** *Ranged Weapon Attack:* +4 to hit, range 20/80 ft., one target. *Hit*: 1d6+2 piercing plus 2d6 fire damage.
+
+
+
+
+
+
 
 

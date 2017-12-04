@@ -1,0 +1,38 @@
+====== Falworth DM only ======
+
+=====  NPCs =====
+
+===== Marquesa, Ilustrísima Señora Doña Ofelia Leighton =====
+ 
+
+   * F - Human - 27 - 1.75, fit
+  *  **Ocupación - Background.** Regente de Falworth. Casada, por supuesto, con un noble caballero llamado Neil Leighton (Stafford de soltero) que no le da ni cinco de pelota y se pasa el día y la noche en clubes de caballeros, sociedades de beneficencia, asociaciones de cricket y talië. 
+  *  **Apariencia.** Alta, piernas largas, ojos verdes, cinturita ínfima, pelo negro azabache, facciones refinadas. Siempre acalorada, con vestidos finos.
+  *  **Habilidades / Talento.** High charisma, súper flirty pero no aceptaría ninguna invitación. Es demasiado snob y teme al escándalo. 
+  *  **Conocimiento, ideales, secretos.** Quiere ganar poder y ascender de rango social, y que Falworth prospere. Su secreto es su amante, que es su costurera personal, que ve en el más estricto secreto, con la complicidad de su doncella. El problema no es que sea una mujer, si no que está engañando a su marido. La costurera no tiene rango ni riqueza, pero ella está re mil enamorada. 
+  *  **Mannerism.** Se la pasa abanicándose y quejándose del calor, alisándose el vestido con mucho amor y sonriendo. Agradable persona para charlar.
+  *  **Elementos distintivos.** Peinado y vestido siempre impecable y distinto. Muy consciente de su belleza, la aprovecha.
+  *  **Interacción**. Sonríe mucho, es agradable al trato, pero que ni dios permita que alguien se olvide que ella es superior. Se ofende rápidamente si alguien de rango inferior infiere que son iguales. 
+
+ ===== Antoine Osborne =====
+
+  *  M - Humano - 35 - 1.80/ slim
+  *  Ocupación - Background. Innkeeper at "La Casa Escarlata". 
+  *  Apariencia. Piel clara, pelo castaño, ojos verdes.
+  *  Habilidades / Talento. Excelente frontman, muy carismático.
+  *  Elementos distintivos. Prominente anillo matrimonial, tatuajes en los brazos. Tipo muy prolijo y limpio.
+  *  Interacción. Agradable, honesto, chismoso.
+
+=====  Jean Paul Osborne =====
+
+  *  M - Humano - 30 - 1.80/slim
+  *  Ocupación - Background.  Innkeeper at "La Casa Escarlata". 
+  *  Apariencia. Pelo castaño, ojos verdes, barba.
+  *  Habilidades / Talento. Cocina muy bien y es inteligente.
+  *  Elementos distintivos.  Prominente anillo matrimonial, formal clothes.
+  *  Interacción. Agradable, pero de pocas palabras. 
+
+=====  Party record =====
+
+Antoine le pidió a Erborin un perfume para el cumpleaños de Jean Paul, el Quinto día Nuevo del Gato.
+Ellos lo entregaron justo a tiempo!

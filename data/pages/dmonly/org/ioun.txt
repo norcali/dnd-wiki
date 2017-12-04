@@ -1,0 +1,33 @@
+
+====== Iglesia de Ioun ======
+
+La Iglesia de Ioun busca tener conocimiento arqueológico, político, económico y geográfico sin igual, por un lado porque esa es la filosofía de su religión y la manera en que ellos ven la iluminación del ser: cuando una persona entiende el funcionamiento del universo, su alma se ilumina y se eleva.
+
+===== Brazo civil: =====
+
+  * **Supremo Conocedor - Comandante**: Dirección de la Iglesia como un todo. Aptitudes religiosas y militar-estratégicas. Actual: Dwali Kristoff Stefansson
+  * **Gran Conocedor:** Elder, wise men con muchas décadas de estudio, que han logrado grandes descubrimientos y teorías y han dedicado su vida a la institución y a la diosa. 
+     *  Batur Bjorn Torensson dwarf male 
+     *  Iriel i Saila elf female
+  * **Conocedor:** Pasaron un examen brutal sobre una amplitud de conocimiento casi ridícula, descubrieron cosas de valor para la iglesia y escribieron buenas obras. 
+     *  Umral Kari Karlsson, dwarf female
+  * **Escritor:** Mucha experiencia de campo y buenas aptitudes creativas para asentar y perpetuar el conocimiento. 
+  * **Restaurador:** Calificación técnica para devolver cosas a un estado parecido al original, mucha experiencia de campo y varios descubrimientos importantes.
+  * **Investigador:** Se dedica a perseguir pistas de objetos y saberes valiosos para la iglesia, y así sumar a su patrimonio. Conlleva un gran riesgo, pues muchas veces los objetos/escrituras/informaciones no son simples de conseguir, y suelen estar rodeadas de peligros.
+  * **Explorador:** Recorre el mundo reportando sus descubrimientos (siempre basados en evidencia empírica) y asegurándolos hasta que lleguen los recuperadores.
+  * **Recuperador:** Es enviado al lugar del hallazgo para recoger todo aquello que sea valioso, documentar todo el lugar y catalogar todo lo encontrado; luego retorna a la iglesia.
+  * **Guardián:** Se dedica a guardar las zonas de valor, los archivos de la iglesia, y a gente importante.
+  * **Archivador:** Cataloga lo encontrado, lo ubica ordenadamente en los archivos y cuida que todo se encuentre en buen estado y en su lugar.
+  * **Estudiante:** Primer estadío del miembro de la iglesia, donde se dedican exclusivamente a estudiar y a dejar atrás su vida para estar en comunión con su deidad.
+
+===== Brazo militar: =====
+
+  * Comandante
+  * General
+  * Coronel
+  * Mayor
+  * Capitán
+  * Teniente
+  * Oficial
+  * Sub-oficial
+  * Cabo 
