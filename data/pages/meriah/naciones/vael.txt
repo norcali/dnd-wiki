@@ -2,6 +2,7 @@
 
 Los altos elfos habitan el bosque que en Common se denomina El Velo, debido a la permanente y densa niebla que lo envuelve en todo momento. Los elfos de V’ael son inmortales mientras permanezcan en la niebla; si se van, se vuelven mortales, y si regresan vuelven a la juventud. 
 
+{{ :meriah:naciones:escudo_v_ael.png?nolink&200|}}
 =====  Economía =====
 
 Recogen frutos, siembran con sus habilidades para no dañar el bosque, utilizan la madera caída de los árboles y compran al mundo exterior a través del puerto durante los meses de verano; en el invierno y el otoño el hielo hace que las rutas navales se vuelvan extremadamente peligrosas.
@@ -14,6 +15,7 @@ Limita con la Estepa de las [[Meriah:Naciones:BanTuur | Ban Tuur]] al Norte y co
 
 =====  Política =====
 
+{{ :meriah:naciones:imagen_v_ael.png?nolink&200|}}
 ====  Forma de gobierno ====
 
 Reina un Príncipe, junto a un Círculo de Altos Señores que lo aconsejan.
@@ -27,6 +29,8 @@ Poseen los mejores arqueros del mundo conocido, y su caballería espanta a los m
 Además, tienen una flota de temer, con tecnología/magia asombrosa que les permite navegar incluso en invierno, aunque no durante la parte más cruda. 
 
 =====  Religión =====
+
+{{ :meriah:naciones:imagen_v_ael_2.png?nolink&200|}}
 
 [[Panteón:Selune | Selune]], diosa del mar, los viajes y la luna, también llamada La Señora de Plata y La Doncella de la Luna. 
 

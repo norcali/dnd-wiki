@@ -2,6 +2,7 @@
 
 El reino humano más grande de la actualidad, con más recursos que todos los demás y la salida al océano conquistada, controla puntos territoriales estratégicos y tiene recursos de sobra. Su mayor problema es que la estabilidad de su gobierno está socavada por el miedo, la venganza y el odio. 
 
+{{ :meriah:naciones:escudo_haldrim.png?nolink&200|}}
 ===== Historia =====
 El [[Meriah:Naciones:Haldrim:npc:Cyro|Rey Cyro I el Gris]] hizo una tregua con los orcos del norte (la paz a cambio de paso a [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]]), resultando en que su mejor capitán de legión, [[Meriah:Naciones:Haldrim:npc:Sethis]], desertara a las [[Meriah:Geografía:Meredrar | Colinas Meredrar]] en mortal desacuerdo y se convirtiese en el Líder de [[Meriah:Organizaciones:exiliados|Los Exiliados]].
 Muchos, muchísimos Half Orcs en la zona. No es imposible encontrar orcos puros en esta zona que han buscado asilo al ser expulsados de la tribu.
@@ -12,6 +13,7 @@ Recientemente, el [[Meriah:Naciones:Haldrim:npc:Cyro|Rey Cyro I el Gris]] fallec
 
   * Trigo, maíz, cebada, centeno y otros cereales y oleaginosas, ganado porcino y vacuno, madera, cueros.
   * Comercian con todos sus vecinos, incluso con los orcos, aunque limitadamente. Usan mucho el puerto.
+
 
 ===== Geografía =====
 

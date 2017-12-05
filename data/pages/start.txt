@@ -6,7 +6,6 @@
     * [[geografía:Geografía]]
     * [[historia:Historia]]
     * [[juegos:Juegos]]
-    * [[mapainteractivo:mapainteractivo|Mapa Interactivo de Celeth]]
     * [[moneda:Moneda]]
     * [[naciones:Naciones|Naciones, pueblos y asentamientos]]
     * [[panteón:Panteón]]

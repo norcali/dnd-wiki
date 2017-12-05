@@ -1,5 +1,7 @@
 ====== Tal Onarael ======
 
+{{ :meriah:naciones:escudo_tal_onarael.png?nolink&200|}}
+
 Originalmente el hogar de los wood elves, ahora el bosque apenas alberga un par de cientos de ellos, que vagan en pena los últimos albores de su extinta civilización. 
 
 Ahora habitan el bosque arañas gigantes, hill giants, ettercap, y distintas criaturas.
@@ -15,3 +17,5 @@ Solían tener una civilización y costumbres similares a los de los Elfos del Ve
 El Duque de Oranis, último superviviente de la Corte Primaveral, está en duelo por su familia asesinada. Es un Paladín de Silvanus. Se rehúsa a llevar el mando y la mayoría de los altos elfos están de acuerdo en dejar ir su civilización, y se niegan a tener hijos. Llaman a este séquito la Corte Otoñal.
 
 En cambio, otros elfos buscan venganza y siguen a Lady Verit, la Condesa de Willow. Conforman la Corte Invernal.
+
+{{:meriah:naciones:escudo_corte_invernal.png?nolink&200|Escudo de la Corte Invernal}}  {{:meriah:naciones:escudo_corte_otonal.png?nolink&200|Escudo de la Corte Otoñal}}

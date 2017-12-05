@@ -2,6 +2,8 @@
 
 [[dmonly:nations:ardenia|DM only info]]
 
+{{ :meriah:naciones:escudo_ardenia.png?nolink&200|}}
+
 El reino humano sureño con menos territorio de los tres, con el clima más calido y cercanía a la jungla y al territorio orco.  Famoso por el Colegio de la Canción Secreta (ver [[meriah:naciones:ardenia:Arden]] ).
 
 ===== Historia =====
@@ -18,6 +20,8 @@ Metales y joyas provenientes de [[meriah:naciones:Korim]] y todo lo que viene po
 [[Meriah:naciones:Portbeak]] por el Straat. 
 
 =====  Geografía =====
+
+{{ :meriah:naciones:ardenia.jpg?nolink&200|}}
 
 Praderas y colinas con vista a las montañas. Debido al clima cálido, multitud de flores crecen naturalmente.
 

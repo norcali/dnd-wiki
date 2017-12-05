@@ -1,4 +1,4 @@
-====== Naciones,pueblos y asentamientos ======
+====== Naciones, pueblos y asentamientos ======
   
   
 ===== Meriah =====
@@ -16,8 +16,6 @@
     * [[Meriah:Naciones:Cardus:Creagan | Creagan]]
     * [[Meriah:Naciones:Cardus:Kays | Kays]]
     * [[Meriah:Naciones:Cardus:Waldren | Waldren]]
-  * [[Meriah:naciones:Dreshmor]]
-  * [[Meriah:Naciones:Exiliados | Los Exiliados]]
   * [[Meriah:Naciones:Haldrim | Haldrim]]
     * [[Meriah:Naciones:Haldrim:Fuertegris | Fuerte Gris (Capital)]]
     * [[Meriah:Naciones:Haldrim:Fuertecliff | Fuerte Cliff]]

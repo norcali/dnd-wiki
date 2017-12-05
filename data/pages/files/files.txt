@@ -1,0 +1,20 @@
+====== Archivos descargables ======
+
+===== Mapas =====
+
+
+{{ :mapainteractivo:pf_meriah_map.jpg?linkonly |Mapa del continente de Meriah}}
+
+{{ :mapainteractivo:wildwest.jpg?linkonly |Mapa de los continentes de Kaelaz y Aina}}
+
+===== Character Sheets =====
+
+{{ :files:excellent_character_sheet.pdf |Hoja 1}} (Muy detallada, larga)
+
+{{ :files:old_school_cool_character_sheet.pdf |Hoja 2}} (Detallada, larga)
+
+{{ :files:character_sheet_classic.pdf |Hoja 3}} (Hoja clásica)
+
+{{ :files:melee_player_character_sheet.pdf |Hoja 4}} (Una sola carilla, contiene todo lo importante)
+
+{{ :files:magicitemrecordsheet.pdf |Magic item record sheet}} 

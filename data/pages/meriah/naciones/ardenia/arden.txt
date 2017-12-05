@@ -14,6 +14,8 @@ DM only links: [[dmonly:settlements:dmarden]] [[dmonly:random:human]]
  
 =====  Negocios =====
 
+{{ :meriah:naciones:arden.jpg?nolink&200|}}
+
    * Alfarería. 
   *  Mercado. Comestibles y common items, algunos magic items. La pastelería de Rousseau, muy famosa y antigua, productos de la putísima madre.  Olivas y aceite, frutas, azúcar, especias. La sal brilla por su ausencia casi.
   *  Herrería. Cosas muy básicas y personalizadas, la mayoría de las cosas vienen de Korim. Atendida por un enano, Fikri Oscar Karlsson.

@@ -2,6 +2,8 @@
 
 [[dmonly:nations:cardus|DM only info]]
 
+{{ :meriah:naciones:escudo_cardus.png?nolink&200|}}
+
 El reino humano más oriental y más fuerte militarmente, que se encuentra mermado por la cruel guerra contra los Yuan Ti que presionan desde el otro lado de la [[meriah:geografía:espinaquebrada|Espina Quebrada]]. 
 
 ===== Historia =====

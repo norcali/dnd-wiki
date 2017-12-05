@@ -16,6 +16,10 @@ Se fundieron todas las monedas nacionales que podían servir y se fue educando a
 
 Para referencia, se puede nombrar el precio de algunas cosas comunes en la vida de la gente trabajadora: una hogaza de pan de cuarto kilo cuesta 2 piezas de cobre, un pedazo de queso de medio kilo cuesta 1 pieza de plata, un corte de carne de un kilo cuesta 3 piezas de plata.
 
+Esta es la forma que tienen actualmente las monedas: 
+
+{{ :moneda:piezas_monetarias.jpg?nolink&600 |}}
+
 
 
 

@@ -1,10 +1,14 @@
 ====== Zir ======
 
+{{ :meriah:naciones:escudo_zir.png?nolink&200|}}
+
 Dragonborn rojos y blancos del desierto. Más avanzados tecnológicamente que los humanos, hacen relojes y miden el tiempo con máquinas, tienen mapas muy acertados de las estrellas y su procesión por el firmamento. Sus matemáticas son las más avanzadas y poseen una increíble biblioteca en [[Meriah:Naciones:Zir:Ziris | Ziris]].
 
 Constantemente en guerra con los Yuan Ti, lucha que comparten con [[Meriah:Naciones:Cardus]] . Comerciantes de sal y acero ziraniano (también llamado vidriagón), dos materiales muy escasos y demandados.
 
 ===== Historia =====
+
+
  
 Las primeras tribus dragonborn ya estaban en el desierto. Sus naturalezas semi-dracónicas les permiten sobrevivir en el ambiente poco hospitalario sin mayores inconvenientes y con pocas molestias externas. 
 

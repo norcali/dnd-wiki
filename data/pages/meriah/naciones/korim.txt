@@ -2,6 +2,7 @@
 
 Nación enana que habita un conglomerado de montañas homónimo, con una gran ciudad como único asentamiento. Son maestros de los constructos, que usan para trabajos pesados, defensa y seguridad. 
 
+{{ :meriah:naciones:escudo_korim.png?nolink&200|}}
 ===== Historia =====
  
 Se establecieron ahí como una posta hacia el reino de [[Meriah:Naciones:Kazragor | Kazragor]], y con el tiempo fueron independizándose y cobrando identidad propia, pero por muchos años pertenecieron al gobierno de [[Meriah:Naciones:Kazragor | Kazragor]]. 
@@ -25,6 +26,10 @@ Consejo legislativo: El Crisol, integrado por los tres clanes más poderosos:
   *  Clan Mognar: Liderado por Thane Ygnal, el más viejo de los clanes. En contra de la alianza con Ardenia. 
   *  Clan Thorad: Gobernado por Thane Gilmarad. Acompaña al Clan Rakhan a favor de la alianza con Ardenia.
   *  Clan Rakhan: Gobernado por Thane Helmoral, la más joven en el consejo. 
+
+{{:meriah:naciones:escudo_clan_mognar.png?nolink&200|Clan Mognar}} {{:meriah:naciones:escudo_clan_rakhan.png?nolink&200|Clan Rakhan}} {{:meriah:naciones:escudo_clan_thorad.png?nolink&200|Clan Thorad}}
+
+
 
 ==== Conflictos y tensión ====
 
