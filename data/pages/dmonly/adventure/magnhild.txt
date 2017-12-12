@@ -14,377 +14,101 @@ Se van a oponer a que ellos vayan. Temen la ira de Tuur. Podrían convencerlas p
 
 5 km a la redonda, alrededor de la entrada a la caverna, la tierra se vuelve un trozo de roca quemada, surcado por ríos de lava solidificada y con ocasionales salidas de vapor. Es uno de los puntos de desagote de presión del Volcán Tuur. 
 
+Tienen 25% probabilidades de encontrarse una patrulla de 5 azer.
+
 La entrada de la caverna es altísima pero angosta y no está construida.
 
 
 ===== Cavernas =====
 
 
-Al entrar, ingresan a un complejo laberinto de túneles y cavernas, con muchos dead ends. Son cavernas naturales. En el centro está la entrada a la vault, y en una caverna al norte la vivienda de los gigantes. Al sur están los cuchitriles de los minions. 
+Al entrar, ingresan a un complejo laberinto de túneles y cavernas, con muchos dead ends. Son cavernas naturales.
+
+**Cuando llegan, hay un grupo de 9 azer con 2 hell hounds minando, el resto de los azer, 2 hell hounds más y 1 ash drake en la zona de purificación, y los otros dos hell hounds y ash drakes están con los gigantes.**
 
 Las cavernas tienen vapores y gases, gotean lava, y hay ceniza acumulada en los pisos. Se ven huellas recientes. Hace demasiado calor. No podrían dormir ahí dentro. 
 
-Los gigantes viven en cavernas que modificaron para hacer una vivienda dentro del mismo volcán. Todas las habitaciones son enormes. Duermen sobre lechos de roca pulida, tienen colosales mesas de herramientas y forjas que calientan con lava misma. 
+ Al sur están los cuchitriles de los Azer. Ellos se ocupan de minar el volcán y purificar los metales para que los gigantes después usen. 
 
-Son tres: uno que sería como el padre, su esposa, y su hijo que es menos polenta. 
+ Tienen un par de herramientas y algunos lingotes de libra de metal purificado. 
+
+  * 5 sets de herramientas de herrería primitiva (pico, pala, carretilla, yunque...)
+  * 97 lingotes de hierro (1 sp each)
+  * 8 lingotes de platino (500gp each)
+  * 13 lingotes de titanio (500gp each, mucho más resistente que el hierro y casi la mitad de pesado)
+
+No parece haber lugares de descanso. Duermen directamente sobre la roca calentita igual que los gigantes. Habría algunos minando, otros purificando, otros descansando. Rotan. Si encuentran intrusos, uno va a pedir cover mientras corre a avisar a los gigantes y al resto. Los ash drakes están merodeando al estilo mascota. 
+
+=== Los gigantes ===
+
+Los gigantes viven una caverna que modificaron para hacer una vivienda dentro del mismo volcán. Duermen sobre la misma roca pulida, tienen colosales mesas de herramientas y forjas que calientan con lava misma. 
+
+Son tres: el padre, la madre, y su hijo. 
+
+Hablan Ignan también (el hijo no), pero con un fuerte acento, y no recuerdan todas las palabras. Son agresivos, y creen que pueden con cualquier cosa que no tenga su tamaño. La pareja quedó varada hace mucho tiempo cuando los exiliaron por haber ofendido a un efreet noble en la City of Brass. Los enviaron a ese volcán pero no tienen idea que están cerca del rift.
+
+Tienen unas armaduras y armas que han crafteado ellos, pero son todas demasiado grandes para Medium o Large creatures. Ni siquiera caben en la BoH. Si quieren pueden fundirlas, pero tomaría tiempo y puede perderse una cantidad marginal de material en los pasajes. 
+
+Tomaría dos o tres meses full time para una sola persona. Si hay más de uno, dividir por dos. Al final obtendrían 587 lingotes de hierro, 74 lingotes de titanio y 15 de platino. 
+
+
+
 ===== Magnhild =====
 
-//Tres cámaras adyacentes, una después de la otra en línea recta, con distintas criaturas y sus minions: un elemental, un undead y un demonio. Tienen una sola cosa en la cabeza: ser libres. Piensan que si derrotan a sus oponentes en batalla, podrán escapar o los liberarán.  Entre una cámara y la otra, una pequeña antecámara con una ayuda: un mapa del terreno, tres palabras describiendo el monstruo que les toca, o un item consumible útil. En estos ambientes más aislados del calor volcánico sería posible dormir.// 
+//Tres cámaras adyacentes, una después de la otra en línea recta, con distintas criaturas y sus minions: un elemental, un undead y un demonio. Tienen una sola cosa en la cabeza: ser libres. Piensan que si derrotan a sus oponentes en batalla, podrán escapar o los liberarán.  Entre una cámara y la otra, una pequeña antecámara con una ayuda: un mapa del terreno, tres palabras describiendo el monstruo que les toca, o un item consumible útil. En estos ambientes más aislados del calor volcánico sería posible dormir.//
+
+//Ninguno de los bichos, si lo interrogan, suelta demasiada información sobre su época (detalles y eso). Están obsesionados con salir de su prisión y la suggestion que les metieron ha hecho eco con los milenios.// 
 
 === Entrada ===
 
-Encuentran una gran puerta poco ornamentada pero súper sturdy en el centro del complejo de cuevas. Tiene una ranura para la brújula. Esa puerta se abre a la primer antecámara. Ésta rota 180 grados y baja unos cuantos pies, alejándose del centro calórico del volcán.
+La brújula apunta directamente adelante y vibra como loca llegado un punto en las cuevas. La gema roja tiene undertones violeta dando vueltas. Si se alejan de la pared deja de vibrar. Si golpean suena hueco.
 
-Entre puerta y puerta tienen que usar la brújula para pasar.
+Tienen que picar, stone-shapear la pared o romperla de alguna manera. Tiene 30 cm de grosor. Una vez abierto el hueco, ven que el piso se hunde 3 metros. Se pueden tirar y si pasan un DC 15 acrobatics no se hacen 1d6 bludgeoning damage. Abajo está la primera puerta donde tienen que poner la brújula, un bloque enorme de piedra sólida que hasta Bell necesita un chequeo para mover. No tiene nada, excepto una estrella de siete puntas tallada con precisión láser.
 
+===== Primera Cámara =====
 
-=== Primera ===
+La antecámara ostenta tres palabras sobre el desafío que les espera. "Infierno, Espinas, Guerrera".
 
-La primera antecámara tiene un mapa de la siguiente caverna, tipo esquema. Pueden mirarlo el tiempo que quieran. 
+En la caverna hay tres círculos concéntricos que giran al principio de cada ronda (clockwise/counterclockwise, ¼ ½ ¾ o nada, según dados). Habitándola, una Erinyes y cinco Spined Devils.
 
-En la primera cámara hay un elemental muy poderoso. La arena cambia todas las rondas en que se activan/desactivan sudden geisers de lava y spiked pits.
+^  Dado   ^  Consecuencia            ^
+|  1      |  Clockwise               |
+|  2      |  Clockwise               |
+|  3      |  Counterclockwise        | 
+|  4      |  Counterclockwise        |
+|  Cuánto   ||
+|  1  |  45°        |
+|  2  |  90°        | 
+|  3  |  180°       |
+|  4  |  Nada       |
+===== Segunda Cámara =====
 
-=== Segunda ===
+La antecámara tiene en la puerta 3 pociones de fire resistance. Nada más. Una caverna natural y un bloque sólido de roca a modo de puerta con una ranura para la brújula entre las dos hojas, que deberían stuff safely in their pockets right after they use it.
 
-La segunda antecámara contiene un item consumible útil (?). 
+La cámara es un hexágono de roca volcánica con las features que marca el mapa y nada más. 
 
-En la cámara propiamente dicha reside un vampiro. En este caso, los elementos dinámicos son plataformas y obelisks of stone que cambian al principio de la ronda. Pueden subir, bajar o mantenerse como están. 
+Un elemental muy poderoso, un efreet llamado Flaris, secuestrado del elemental plane of fire. 
 
-=== Tercera ===
+Se llamaba a sí mismo **Gran Maestro de la Moneda**. Solía ser muy rico y algo recuerda de todo eso, pero se ha vuelto loco y sólo quiere salir de ese lugar. No comprende cómo es que no ha muerto de hambre, ni de vejez. Tiene teorías conspirativas de que quieren quebrar su voluntad para esclavizarlo, pero realmente lo hubiera hecho hace milenios. Nunca se le ocurriría que es una parte de un mecanismo, se considera demasiado importante. 
 
-La tercer antecámara ostenta tres palabras sobre el desafío que les espera. "Abismo-Infierno/Primary ability/etc".
+La puerta de salida tiene una ranura para la brújula. Hacerles notar que hay espacio para otra mitad de brújula.
 
-En la caverna hay tres círculos concéntricos que giran al principio de cada ronda (clockwise/counterclockwise, ¼ ½ ¾ o nada, según dados). Habitándola, un par de demonios. 
+===== Tercera Cámara =====
 
-=== Holy Fuck ===
+La antecámara contiene un esquema de la cámara siguiente que pueden mirar o copiar, tallado con precisión láser en las puertas, donde tienen que volver a colocar la brújula. 
 
-La puerta detrás de los demonios no tiene antecámara. Se abre directamente a la habitación final. 
+La cámara en sí es otro héxagono de roca desnuda, con plataformas y obeliscos, y un olor pútrido. 
+
+En la cámara propiamente dicha reside un mummy lord llamado Slarus. Slarus era un oficial del imperio muy leal al emperador, ofreció su no-muerte para cuidar la tumba de su general. 
+
+===== Holy Fuck =====
+
+La puerta no tiene antecámara. Se abre directamente a la habitación final. 
 
 En la cámara final, bastante más fresca que todas las demás, hay más murales. En el centro, sostenida por unos soportes en una roca con forma de prisma cortado en chanfle, lay the Holy Fucking Avenger. La Furia de Magnhild. 
 
 Magnhild era un hombre recto, siempre pendiente de dar cuanto estaba en su mano por ayudar al resto, y aunque quisiera disimularlo, era un genio militar. Era un estratega sublime y sabía controlar miles y miles de tropas, manteniéndolas siempre afiladas y respetuosas; las tropas de Magnhild no violaban mujeres, ni mataban niños, ni quemaban casas, ni robaban propiedad ajena. 
 
 Su fe lo guiaba para seguir adelante. El Todopoderoso le daba fuerzas, luz y poder para llevar a cabo sus tareas y solucionar los problemas que se le presentaban. 
-
-
-===== Monster stat blocks =====
-
-___
-> ## Fire Giant Dreadnought
->*Huge giant, lawful evil*
-> ___
-> - **Armor Class** 21 (plate, shields)
-> - **Hit Points** 187
-> - **Speed** 30ft.
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|27 (+8)| 9 (-1)|23 (+6)| 8 (-1)| 10 (+0)| 11 (+0)|
->___
-> - **Skills** Athletics +13, Perception +5
-> - **Saving Throws** Dex +4, Con +11, Cha +5
-> - **Damage Immunities** fire
-> - **Senses** passive Perception 15
-> - **Languages** Giant
-> ___
-> ***Dual Shields.*** The giant carries two shields, each of which is accounted for in the giant's AC. The giant must stow or drop one of its shields to hurl rocks. 
->
-> ### Actions
-> ***Multiattack.*** Two fireshield attacks.
->
-> ***Fireshield.*** *Melee Weapon Attack:* +13 to hit, reach 5ft., one target. *Hit* 4d6+8 bludgeoning damage plus 2d6 fire damage plus 2d6 piercing damage. 
->
-> ***Rock.*** *Ranged Weapon Attack:* +13 to hit, range 60/240ft., one target. *Hit* 4d10+8 bludgeoning damage.
->
-> ***Shield Charge.*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's 
-
-space during this move, it makes a fireshield attack against that creature. If the attack hits, the target must also succeed on a DC 21 Strength save or be pushed ahead of 
-
-the giant for the rest of this move. If a creature fails the save by 5 or more, it is also knocked prone and takes 3d6+8 bludgeoning damage or 6d6+8 bludgeoning damage if it 
-
-was already prone. 
-
-___
-> ## Ash Drake
->*Small dragon, neutral evil*
-> ___
-> - **Armor Class** 16 (natural armor)
-> - **Hit Points** 117
-> - **Speed** 30 ft., fly 60ft.
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|14 (+2)|15 (+2)| 16 (+3) |9 (-1) |15 (+2) |10 (+0)|
->___
-> - **Skills** Stealth +4
-> - **Saving Throws** Dex +4
-> - **Condition Immunities** paralyzed, unconscious
-> - **Damage Resistances** fire
-> - **Senses** darkvision 60ft., passive Perception 12
-> - **Languages** Draconic
-> ___
-> ### Actions
-> ***Multiattack.*** The ash drake makes one bite attack and two claw attacks.
->
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 2d6+2 piercing and 1d6 fire damage. 
->
-> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 2d6+2 slashing damage. 
->
-> ***Ash Cloud. *** An ash drake can beat its wings and create a cloud of ash that extends in a 10-foot cube centered on itself. This cloud provides half cover, but the drake 
-
-can see normally through its own cloud. Any creature that enters or starts its turn in the cloud must make a DC 14 Con save or be blinded for 1d4 rounds.
->
-> ***Ash Breath.(Recharge 6)*** The drake spews a 20-foot cone of blistering hot, choking ash. Any target in the path of this spray must make a DC 13 Con save. On a 
-
-failed save, the target takes 4d6 fire damage and becomes poisoned for one minute (saves at the end of each turn). On a success, it takes half damage and it is not 
-
-poisoned. 
-
-___
-> ## Vampire Spawn
->*Medium undead, neutral evil*
-> ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 82
-> - **Speed** 30ft.
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|16 (+3)| 16 (+3) |16 (+3)| 11 (+0) |10 (+0) |12 (+1)|
->___
-> - **Skills** Perception +3, Stealth +6
-> - **Saving Throws** Dex +6, Wis +3
-> - **Damage Resistances** necrotic and nonmagical weapons
-> - **Senses** darkvision 60ft., passive Perception 13
-> - **Languages** Scahat
-> ___
-> ***Regeneration.*** The vampire regains 10 hit points at the start of its turns if it has at least 1 and isn't in sunlight or running water. This trait doesn't work if the vampire 
-
-took damage from holy water or radiant damage on its last turn.
->
-> ***Spider Climb. *** The vampire can climb difficult surfaces without an ability check. 
->
-> ***Vampire Weakness.*** The vampire has the following flaws:
->
-> *Running Water.* The vampire takes 20 acid damage if it ends its turn in running water. 
->
-> *Sunlight Hipersensitivity.*The vampire takes 20 radiant damage when it starts its turn in sunlight, and it has disadvantage on attack rolls and ability checks.
->
-> ### Actions
-> ***Multiattack.*** The vampire makes two attacks (only one bite).
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 
->
-> ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one willing/restrained/grappled/incapacitated target. *Hit* 1d6+3 piercing damage plus 2d6 necrotic damage. 
-
-The target's HP maximum is reduced by an amount equal to the necrotic damage taken and the vampire regains that much HP. The reduction lasts until the target finishes a 
-
-long rest. The target dies if this effect reduces its HP max to 0.
-
-___
-> ## Hell hound
->*Medium fiend, lawful evil*
-> ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 45
-> - **Speed** 50ft.
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->| 17 (+3)|12 (+1)|14 (+2)|6 (-2)|13 (+1)| 6 (-2)|
->___
-> - **Skills** Perception +5
-> - **Damage Immunities** fire
-> - **Senses** darkvision 60ft., passive Perception 15
-> - **Languages** understands Infernal, can't speak
-> ___
-> ***Keen Hearing and Smell.*** Advantage on Perception checks.
->
-> ***Pack Tactics. *** Advantage on the attack roll if it has at least one ally within 5-feet of the target (not incapacitated).
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 1d8+3 piercing plus 2d6 fire damage
->
-> ***Fire Breath (Recharge 6).*** Exhales fire in a 15 foot cone. DC 12 Dex save. 6d6 fire damage or half on a success.
-
-___
-> ## Fire Giant
->*Huge Giant*
-> ___
-> - **Armor Class** 18 (plate)
-> - **Hit Points** 162
-> - **Speed** 30ft.
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|25 (+7)|9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
->___
-> - **Skills** Athletics +11, Perception +6
-> - **Saving Throws** Dex +3, Con +10, Cha +5
-> - **Damage Immunities** fire
-> - **Senses** passive Perception 16
-> - **Languages** Giant
-> ___
-> ### Actions
-> ***Multiattack.*** The giant makes two greatsword attacks.
->
-> ***Greatsword.*** *Melee Weapon Attack:* +11 to hit, reach 10ft., one target. *Hit* 6d6+7 slashing damage.
->
-> ***Rock.*** *Ranged Weapon Attack:* +11 to hit, range 60/240ft., one target. *Hit* 4d10+7 bludgeoning damage.
-
-___
-> ## Efreeti
->*Large elemental, lawful evil*
-> ___
-> - **Armor Class** 17 (natural armor)
-> - **Hit Points** 200
-> - **Speed** 40 ft., fly 60 ft.
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)|
->___
-> - **Saving Throws** Int +7, Wis +6, Cha +7
-> - **Damage Immunities** fire
-> - **Senses** darkvision 120 ft., passive Perception 12
-> - **Languages**  Ignan
-> ___
-> ***Elemental Demise.*** Its body disintegrates when it dies.
->
-> ***Innate Spellcasting. *** Charisma DC 15, to hit +7
->
-> At will: *Detect magic*
->
-> 3/day: *misty step,enlarge/reduce,tongues*
->
-> 1/day each: *conjure elemental (fire only), gaseous form, invisibility, major image, plane shift, wall of fire*
->
-> ### Actions
-> ***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
-> ***Scimitar.*** *Melee Weapon Attack:* +10 to hit, reach 5ft., one target. *Hit* 2d6+6 slashing plus 2d6 fire damage
->
-> ***Hurl Flame.*** *Ranged Spell Attack:* +7 to hit, range 120ft., one target. *Hit* 5d6 fire damage.
-
-___
-> ## Fire Elemental
->*Large elemental, neutral*
-> ___
-> - **Armor Class** 13
-> - **Hit Points** 102
-> - **Speed** 50ft. (hover)
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|10 (+0)|17 (+3)|16 (+3)|6 (-2)|10 (+0)|7 (-2)|
->___
-> - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-> - **Damage Immunities** fire, poison
-> - **Damage Resistances** nonmagical weapons
-> - **Senses** darkvision 60ft., passive Perception 10
-> - **Languages** Ignan
-> ___
-> ***Fire Form.*** 1 inch without squeezing. Touch or melee attack → 1d10 fire damage. 
->
-> ***Illumination.*** Bright light in a 30foot radius, dim light for another 30.
->
-> ***Water Susceptibility. *** For every 5 feet or water or gallon splashed, 1 cold damage.
->
-> ### Actions
-> ***Multiattack.*** Two touch attacks.
->
-> ***Touch.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 2d6+3 fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 1d10 fire damage at the start of each of its turns. 
-
-___
-> ## Azer
->*Medium elemental, lawful neutral*
-> ___
-> - **Armor Class** 17 (natural armor)
-> - **Hit Points** 39
-> - **Speed** 30 ft.
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
->___
-> - **Saving Throws** Con +4
-> - **Condition Immunities** poisoned
-> - **Damage Immunities** fire, poison
-> - **Senses** passive Perception 11
-> - **Languages** Ignan
-> ___
-> ***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 1d10 fire damage. 
->
-> ***Heated Weapons. *** When the azer hits with a metal melee weapon, it deals an extra 1d6 fire damage (included in the attack).
->
-> ***Illumination.*** The azer sheds bright light in a 10 foot radius and dim light for an additional 10 feet.
-> ### Actions
-> ***Warhammer.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 1d8+3 bludgeoning damage, or 1d10+3 bludgeoning damage if used with two hands to make a melee attack, plus 1d6 fire damage.
-
-___
-> ## Erinyes
->*Medium fiend (devil), lawful evil*
-> ___
-> - **Armor Class** 18 (plate)
-> - **Hit Points** 153
-> - **Speed** 30ft., fly 60ft.
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
->___
-> - **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
-> - **Condition Immunities** poisoned
-> - **Damage Immunities** fire, poison
-> - **Damage Resistances** cold, nonmagical-non silvered weapons
-> - **Senses** truesight 120 ft., passive Perception 12
-> - **Languages** Infernal, telepathy 120ft.
-> ___
-> ***Hellish Weapons.*** The erinyes' weapon attacks are magical and deal an extra 3d8 poison damage (included).
->
-> ***Magic Resistance. *** The erinyes has advantage on saving throws against spells and other magical effects.
-> ### Actions
-> ***Multiattack.*** The erinyes makes three attacks.
-> ***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 1d8+4 slashing damage, or 1d10 slashing if used with two hands, plus 3d8 poison damage.
->
-> ***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600ft., one target. *Hit* 1d8+3 piercing damage plus 3d8 poison damage and the target must succeed on a DC 14 Con save or be poisoned. The poison lasts until it's removed by lesser restoration or similar magic.
-> ### Reactions
-> ***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes, must see the attacker, and be wielding a melee weapons. 
-
-___
-> ## Spined Devil
->*Small fiend (devil), lawful evil*
-> ___
-> - **Armor Class** 13 (natural armor)
-> - **Hit Points** 22
-> - **Speed** 20ft., fly 40ft.
->___
->|STR    |DEX    |CON    |INT    |WIS    |CHA    |
->|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
->|10 (+0)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|8  (-1)|
->___
-> - **Condition Immunities** poisoned
-> - **Damage Immunities** fire, poison
-> - **Damage Resistances** cold, nonmagical-non silvered weapons
-> - **Senses** darkvision 120ft., passive Perception 12
-> - **Languages** Infernal, telepathy 120ft. 
-> ___
-> ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
->
-> ***Flyby.*** The devil doesn't provoke an opportunity attack when it flies out of an enemy's reach.
->
-> ***Limited Spines.*** The devil has twelve tail spines. Used spines regrow by the time the devil finishes a long rest.
->
-> ***Magic Resistance. *** The devil has advantage on saving throws against spells and other magical effects.
-> ### Actions
-> ***Multiattack.*** The devil makes two attacks: one with its bite and one with its fork or two with its tail spines. 
-> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 2d8 slashing damage
->
-> ***Fork.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 2d6 piercing damage.
->
-> ***Tail Spine.*** *Ranged Weapon Attack:* +4 to hit, range 20/80 ft., one target. *Hit*: 1d6+2 piercing plus 2d6 fire damage.
-
-
-
-
-
-
 
 

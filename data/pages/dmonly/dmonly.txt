@@ -1,42 +1,11 @@
 ====== DM only ======
 
-[[dmonly:time|Timekeeping]]
+[[dmonly:time|Timekeeping]]   |   [[dmonly:music|Música]]
 
 ===== Current Prep =====
 [[dmonly:adventure:magnhild| Magnhild]]
 
-  * Maps
-      * caves
-      * regional
-      * giant lair
-      * surroundings
-      * chambers 1 -2 -3
-  * Rooms
-  * Treasure
-  * World maps	
-  * Scahat/Gomroud
-      * Lo que se sabe del Gomroud es lo que han recolectado algunos valientes que se han aventurado cerca. Nadie tiene idea de las dimensiones exactas. Saben que no existe flora en kilómetros enteros a la redonda, el por qué un misterio. Ninguna civilización se ha asentado allí. Todas las grandes expediciones que han ido jamás han vuelto. Hay rumores de que alguna criatura de gran poder vive allí. Hay muchas teorías, pero hay dos principales: la primera habla de un objeto caído del cielo, cual cometa, que se haya estrellado allí hace milenios; la segunda, de una explosión titánica durante una guerra entre dioses. 
-      * En un diario viejo y manchado de uno de los exploradores, un pasaje señala haber avistado lo que parecería ser la entrada a una caverna de proporciones brutales. "Parecía la boca de alguna bestia salida del infierno". 
-      * Otro diario de viaje habla de los vapores y gases que salían de una parte. "Aunque suene imposible, creo que tiene actividad volcánica". También cree haber visto magma o lava en la superficie del fondo.
-  * Cards	
-      * Armadura dragon scales "Peste Negra": no attunement, studded leather, +1, resistance acid, very rare, adv. vs frightful presence y breath weapon (black dragons only).
-      * winged boots
-      * arco leandro
-      * ring spell storing
-      * i.b. bilarro
-      * dwarven plate
-  * Monster: stat block - picture - token/s - strategy - 
-      * Fire Giant MM 154
-      * Fire Giant Dreadnought Volo 147
-      * Azer MM 22
-      * Hell hound MM 182
-      * Ash drake ToB 149
-      * Vampire MM 229
-      * Vampire Spawn MM 228
-      * Erinyes	MM 73
-      * Spined Devil MM 78
-      * Efreeti MM 145
-      * Fire elemental MM 125
+  * Mummy lord stat block - token
 
 ===== Adventure Archives =====
 

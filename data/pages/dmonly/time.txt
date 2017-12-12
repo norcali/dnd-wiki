@@ -1,11 +1,30 @@
 ====== Timekeeping ======
 
 (Segundo día menguante: 2M, cuarto día lleno: 4L, sexto día creciente: 6C)
+ 
+Luna de la Montaña 1N arrancan.
+3N llegan a Korim 
+6N llegan a Tuur. 
+7N comienzan la exploración de las cavernas de Aidin Silma. 
+
+===== Luna de la Montaña =====
+
+^  Día  ^  Ubicación      ^  Actividades                                                   ^
+|  7N   |  Aidin Silma    |  Comienzan a explorar la cueva, se encuentran con los gigantes y los azer, a quienes matan luego de una larga pelea.  |
+|  6N   |  Viajan al sur siguiendo la brújula. Pasan por encima (con Wind Walk) de un campamento de Ban Tuur, pero deciden no preguntarles. Adivinan que están buscando algún lugar en el volcán y descubren el //aidin silma//.  ||
+|  5N   |  :::  ||
+|  4N   |  :::  ||
+|  3N   |  Viaje a Korim para entregar una carta de Mikkel a la madre de Moash.  ||
+|  2N   |  :::  ||
+|  1N   |  :::  ||
 
 ===== Luna del Perro =====
 
-
 ^  Día  ^  Ubicación      ^  Actividades                                                   ^
+|  7M   |  La party viaja a Zudrak a recuperar a Bellegar, que estaba descansando con su familia.  ||
+|  6M   |  :::  ||
+|  5M   |  :::  ||
+|  4M   |  :::  ||
 |  3M   |  Mozgani        |  Visitan el templo de Ioun, a Kholin Mikkel y hacen algunas compras en la zona. Muere Elise, las noticias empiezan a viajar.  |
 |  2M   |  Viaje entre Zudrak y Mozgani. Pasaron por el Gomroud y vieron al dragón rojo.  ||| 
 |  1M   |     :::                                                                         |||
