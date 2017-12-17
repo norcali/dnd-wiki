@@ -1,0 +1,91 @@
+====== Ideas ======
+
+
+----
+
+ I don't even remember why we were there, but when my wife was DMing, we were adventuring through this elemental cavern complex type thing. Basically, after going through some tunnels, we reach a circular room of sorts, more of a balcony type thing, and in the middle is this glowing sphere. Obviously a McGuffin that we need. Unfortunately, it is protected by an impenetrable barrier. Upon inspection of the banister type railing separating the balcony from the glowing orb, we discover some runes that correlate to several planar elements (think Shadow, Fire, Water, Light, etc). Across from each rune is a door, inscribed with the same rune. We go through one of these doors and enter a short mini-dungeon consisting of a few thematic baddies, followed by a not quite BBEG (mediocre bad evil guy?), and then a stone on a pedestal. For example, the Shadow room, we fought a couple shadow mastiffs, something else, and then a Shade or something. Since this was the first room we inspected, I (a Beguiler/Rogue) volunteered to grab the shadow stone in an Indiana Jones type maneuver. Wasn't trapped, for the record, but upon touching the stone, I obtained "a shadowy pallor", which rather substantially increased my effective stealthiness. Basically, for each of these runes, was a correlating dungeon, which bestowed a watered down template to whoever snagged the stone at the end.
+
+
+----
+
+The party is trapped in a large, seemingly empty, square room (I went for 8x8). On the other side is a set of locked double doors. As soon as they're trapped within, the room starts flooding at 1ft/round from four gigantic pipes in the corners of the room (the room is 10 feet tall, 10 rounds to fill up).
+
+The object is simple, escape the room. Simply getting the rogue to the door to pick it's complex lock (anywhere from 1-3 checks, depending on how you feel) would do this, or having the party just bust through it with attacks or strength checks will do this but there's a catch.
+
+The room is filled with an invisible maze to impede your heroes progress. If they just dash ahead they're going to run head first into a wall. The party will have to use creativity and teamwork to get through this in time.
+
+1) Each round everyone gets a standard action. You can move up to your speed if you like or perform a standard action. 
+
+2) If a player moves through a wall their turn immediately ends as they're temporarily stunned. I mean, they walked into a wall afterall.
+
+3) A player can 'move carefully' at half their speed, meaning if they move through a wall they just lose 1 square of movement that turn (testing the wall) and can keep going.
+
+4) Each player also gets a minor action which can be used to make checks or idly feel around from their current position for any adjacent walls.
+
+5) Each player also gets a move action. This might make things too easy though, so figure out if you want to allow this. Maybe cut it out if you're doing this puzzle/trap at paragon tier or higher.
+
+6) There's about a 1/2 foot gap at the bottom of the invisible maze walls to allow the water to fill the room easily (or you can just make the walls full of small holes, this avoids physics complications). The walls are indestructable by most means (being magical) but I did allow a wizard to case 'Dispel Magic' on a square to make a short cut. Items interact with the walls as normal (weapons bounce off, can be drawn on, etc).
+
+7) Other physics checks still apply to the walls, if the PCs try to use perception checks to notice the flow of the water or to detect the bouncing of their voices (as sound doesn't pass through the walls after all), work with it.
+
+8) The walls are arcane in nature so anyone who is trained in Arcana and makes the appropriate check (20+1/2 level of caster I believe, it's detailed in the skills section) as a MINOR action can see the walls as if they were solid for that turn. This information isn't privy to the other players however, require your players to communicate as if they were in the room together, guiding each other. Don't allow the wizard to draw out a map of what he sees and then show everyone when he makes the check. It's reasonable to draw a map as their character's memory, but don't let them pass it around during.
+
+9) As the water gets higher, it gets harder to move. At 2 feet everyone loses 1 speed. At 4 feet everyone is considered 'slow' when they move normally. At 6 feet many of the PCs are going to have to start making athletics checks to swim. Adjust the rules for different sized PCs of course.
+
+10) When swimming your PCs can move 1/2 their speed normally (I believe this is the actual rule), and they can carefully swim at 1/2 their swim speed. Set a reasonable swim check with a fairly strong current in relation to your PCs level. If they fail their check they flounder about or sink...or if the current is strong enough, they get pushed X number of squares if you feel like mapping out the current.
+
+11) When drowning I couldn't find any set rules, so I put it at 2 minutes of holding their breath before a PC has to start making endurance checks. Each failed endurance check would remove a healing surge while each successful check would increase their endurance DC by 2 for the next round (ie: You can't hold your breath forever). Once a PC runs out of healing surges they start taking their level in damage per failed throw until they run out of HP.
+
+12) If you want to be mean (or have particularily high levelled PCs) make the water hard to see through, requiring perception checks to see their way through.
+
+13) Attacking the pipes is benificial. A pipe has HP of 50. When 'bloodied' the pipe only flows at 1/2 capacity. When dead, the pipe bursts open and flows at double the rate. PCs who get creative can clog pipes. If a pipe takes damage from cold it automatically clogs for 1 round.
+
+
+----
+
+In a previous room the party finds a note in elven ( only 1 party members spoke it in this case me) saying "312 not 321" which meant nothing at the time. 
+
+Go a bit further and suddenly the door behind the party slams shut locking us in there with a wall closing in, 2 undead and 3 switches.
+
+While dealing with the undead the party gets in position to flip the switches (which takes time due to it being a kinda long hallway)
+
+So going from top to bottom on the map we flip the switches in 312 order, fails. Try the other way going from bottom to the top it fails. By this time we've dealt with the undead and the wall is dangerously close. Last turn GM has me do an perception check and find the switch i was next to was labeled 2 and not 3 like i thought revealing the switches where numbered in an odd order.
+
+Do it in the order listed and it works.
+
+
+----
+My campaigns tend towards the simple end of the spectrum: Go here, do/find/kill this, etc. I'm sparse with puzzles when I use them at all. What I prefer are multi-staged combat or RP encounters where PCs who invest in the world or pay attention to description and incidental RP moments can use their knowledge to get a leg up. For example, I ran a simple dungeon crawl that culminated with a showdown with a mad scientist/necromancer who was trying to harvest the souls of kidnapped children to energize one of his "experiments" (a flesh golem given a few buffs) The necromancer activated his machinery but placed a necrotic barrier between the innocent children and the party. They had options. If they could get through the necromancer's skeletons and zombies and drag him away from the control panel before he finalized the process (keep him out of reach of the panel before he can spend 4 move actions, while he uses one standard action each turn to attack) then they could stop him from energizing the "experiment". If he got that running, they'd have to find a way past the barrier. (One of the PCs had a daily power that let them teleport, for example.) If they didn't get through the barrier in time, they'd have to fight the flesh golem at full strength, but there was an intermediate period during which they'd be able to stop the flesh golem from fully animating but would have to deal with increasingly harder skill checks to revive the children the longer they left it. The fight was a heck of a battle. They split the difference, managing to take down the barrier generators and destroy the machinery just one round before any of the children died, but as a consequence they had to fight the flesh golem at nearly full power. They all almost died, but in the end everyone walked away from the table happy.
+
+
+----
+
+The party enters a room that is obviously the final resting place of a famous king/queen/warrior etc. On the walls are painted the famous figure's life story, including how they died. I merely mentioned that the walls were elaborately painted and allowed a check to see what was on it. Describe a couple of important moments (the death of a parent, their crowning, their death). You must be sure to describe their death, but don't make it seem any more important than the rest of the dungeon.
+
+In the center of the room is a statue of the person. Throughout the room is the treasure they have accrued. This works especially well for royalty, as you can put a real crown on the stone statue. 
+
+Whenever any of the treasure is touched the statue comes to life and attacks the intruders. This shouldn't be too hard of a fight, as it will get tougher when the statue reassembles itself, and comes at them again at full strength. 
+
+In order to kill it they must repeat the way the person originally died. Try to make this something a little elaborate (but not too crazy), or something simply but unlikely. For example, if no one in the party carries a spear, have them die to a spear through the chest. Now the party must find a spear (you can have several among the treasure) and stab the statue through the chest with it.
+
+Depending on how quickly you expect the party to figure this out can determine how strong you want to make the creature (I used an Animated Statue, I believe, for the party was fairly low in level).
+
+----
+
+PCs walk in the room and there is a mirror directly facing the door (as well as whatever else you want to be in the room). The door disappears when everyone gets in the room. To get out, they need to cover the mirror. They entered twice (physical and mirror image), but leave once (no mirror image). The phrase could be written above the mirror or stated via magic mouth when the door disappears or whatever.
+
+----
+
+La casa tomada. Una pareja de hermanos vive allí y de a poco les han tomado la casa. Ellos están locos, muy ricos. Viven de la renta.
+
+----
+
+Bigass fall, bigass room. Traicionados por el guía. 
+
+  * Columnas c/jeroglíficos
+  * Monstruosidades
+  * Tambores
+  * Huge Dark Gate
+  * Major monstrosity eating stuff in a ritual like ceremony.
+
+

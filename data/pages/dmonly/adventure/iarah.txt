@@ -2,41 +2,149 @@
 
 ===== El Pantano =====
 
+A colossal city (1km2) in which citadel a Medusa lives with her basilisk pets, reigning over lizardfolk and goblins. The lizardfolk tribes always strive to be the most powerful, the richest, trying to earn the Queen’s favor. It feels a lot like Zul’Drak from WoW. The temple sits steadily in a big swamp. These lizardfolk are ultra territorial, but they don’t stray away from their lands except for the occasional stealing in the borders. They attack on sight of intruders. 
 
-A colossal temple of Arldir (1km2) in which citadel a Medusa lives with her basilisk pets, reigning over lizardfolk and goblins. The lizardfolk tribes always strive to be the most powerful, the richest, trying to earn the Queen’s favor. It feels a lot like Zul’Drak from WoW. The temple sits steadily in a big swamp. These lizardfolk are ultra territorial, but they don’t stray away from their lands except for the occasional stealing in the borders. They attack on sight of intruders. 
-
-Varias tribus de Lizardfolk y goblinoids pueblan la zona, conocedoras de los territorios de las bestias que no pueden matar. __** Ubicar eso en un mapa.**__ Suelen habitar construcciones precataclísmicas abandonadas que han semi-reconstruido. Ante una emergencia pueden comunicarse encendiendo fuegos en lo alto de torretas y así alertando a los establecimientos vecinos. Los intrusos no son bienvenidos. Atacarán mientras uno alerta al resto, y si se la ven fea intentarán escapar y reagruparse. Si los acorralan, intentarán negociar con lo que tengan. No llevan nada de mucho valor. 
+Varias tribus de Lizardfolk y goblinoids pueblan la zona, conocedoras de los territorios de las bestias que no pueden matar. Suelen habitar construcciones precataclísmicas abandonadas que han semi-reconstruido. Ante una emergencia pueden comunicarse encendiendo fuegos en lo alto de torretas y así alertando a los establecimientos vecinos. Los intrusos no son bienvenidos. Atacarán mientras uno alerta al resto, y si se la ven fea intentarán escapar y reagruparse. Si los acorralan, intentarán negociar con lo que tengan. No llevan nada de mucho valor. 
 
 Todo el pantano es **difficult terrain** excepto para las criaturas locales, que saben cómo moverse y/o han evolucionado para existir en ese ambiente. Todo el lugar está salpicado de ruinas, algunas semi hundidas en las aguas pantanosas y otras sobreviviendo en elevaciones naturales. Las tribus a veces se disputan las mejores construcciones entre ellas.
 
+Las construcciones ahora suelen tener los lados abiertos, las paredes debilitadas por los milenios, los techos sostenidos por las vigas más fuertes.
+
 La zona immediatamente circundante a Coromaus está en terreno elevado, cimentada sobre la mismísima roca madre, pero aún así se nota que algunas partes se están hundiendo con los milenios en la tierra húmeda. Algunas placas de roca se han torcido/inclinado. 
 
-La subida por escaleras es penosa, y la vista quita el aliento. 
+La subida por escaleras es penosa, dado que se encuentra a gran altura, y la vista quita el aliento. 
+
+La ciudadela donde evidentemente vivían las autoridades de la civilización que construyó este lugar se abre ante sus ojos. Al oeste, la construcción mayor. Extendiéndose cual jardín hacia el este, toda un área enorme empedrada con bloques enormes forma una cuadrícula. Parecen haber sido interminables jardines, pero ahora son parches de tierra muerta y pantanosa, charcos de agua. 
+
+Allí arriba nadie vive, dejan esa zona elevada libre para que Magora pueda pasearse sin ser molestada. Le llevan ofrendas tres veces a la semana y cada vez que encuentran tesoro. Pocas posibilidades de cruzarse goblins, lizardfolk, etc. Sí más posibilidades de cruzarse basilisks u otras mascotas de Magora. 
+
+
+
+
 
 ===== Magora =====
 
-Medusa’s curse. She gave away everything she had, even her mortal human soul, to an archdevil, so as to be beautiful, forever praised. She was a celebrity for a century, beautiful, unchanging. But when the century came to an end, she became a Medusa. Now, she goes by the name of Magora, Queen of Coromaus. She is elder and very, very powerful.
-
-[[http:////www.myth-weavers.com/generate_dungeon.php?do=dungeon&width=22&roomcnt=some&height=30&minroomw=10&maxroomw=15&sparse=some&minroomh=10&maxroomh=15&random=50&secret=5&deadends=90&concealed=10&level=1&resolution=20&seed=938664474|Mapa tentativo]]
+Medusa’s curse. She gave away everything she had, even her mortal human soul, to an archdevil, so as to be beautiful, forever praised. She was a celebrity for a century, beautiful, unchanging. But when the century came to an end, she became a Medusa. Now, she goes by the name of Magora, Queen of Coromaus. She is elder and very, very powerful. She developed spellcasting (CHA based). 
 
 Magora now resides in the ancient site of Coromaus. She rules over the tribes there through sheer power and force. She has rules, and no one dares to break them. Otherwise, they are free to do as they please, as long as they provide fresh meat for her and her pets to feast on. Everyone fears the Queen. 
 
-The ancient construction is somewhat ruined but still stands proudly. Its immensity amazes intruders. The keep itself has never been studied. It has several interconnected rooms that all lead to a backyard, from which it's possible to access the main chamber. 
+The ancient construction is somewhat ruined but still stands proudly. Its immensity amazes intruders. The keep itself has never been studied. It has a main hall and several interconnected rooms that all lead to a backyard, from which it's possible to access the main chamber. 
 
-These rooms served as living chambers for its inhabitants once, with a loft style elevation where they slept and kept their stuff. The ground level part served as an all purpose room. Some of the basilisks roam here. 
+These rooms served as living chambers for its inhabitants once, with a loft style elevation where they slept and kept their stuff. The ground level part served as an all purpose room. Some of the basilisks roam here. Faint traces of murals, paintings and carvings still linger. There aren't any traces of wood or fabric, though. Long gone. But once, long, long ago, these places were covered in rugs and fine wood furniture, ornamented drapes, and all sorts of objects. 
+
+Now only ivy (hiedra), moss, liquen, and different plants find their way through the stone. It feels humid, wet, dark and slippery. 
+
+Magora spends her time with her pets, or turning different plants into stone in some kind of strange garden. She keeps the solid plants in a separate part of the garden. She can be found inside her chambers.
+
+La cámara principal tras el patio es una habitación con muchas pequeñas divisiones internas semi derrumbadas.
+
+Magora es una mujer humana, alta, esbelta, con un cuerpo que parece tallado en mármol, vestida en sedas negras semi transparentes, con una corona alta en forma de semi círculo y varios brazaletes. Se lleva con elegancia, y tiene una voz grave y seductora. Aprendió, con los años, a controlar su mirada. A menos que le reduzcan la inteligencia o la charmeen para que pierda su voluntad propia, puede decidir cuándo la usa y cuándo no. 
+
+Es arrogante, pero tiene curiosidad. Quiere saber cómo carajo llegaron sin alertar a todo dios, o si son tan poderosos como para haber asesinado a todos sus súbditos sin levantar alarmas. No sabe qué esperar, pero trata de disimular:
+
+  * **Ah! Al fin llegaron... Me estaba aburriendo en serio. Llevo años paseando por aquí...**
+  * **No se preocupen, todo lo que piensan que saben de mí es una sucia mentira. Se han ocupado de envilecerme para que la gente se olvide de mí...**
+  * **Vengan, siéntense, no se preocupen por mis mascotas... No hacen nada que no les ordene.**
+  * **Cuéntenme... Cómo es que vinieron?**
+
+**Si la encuentran antes de alertar a sus minions, apareciendo arriba de la citadel, y envía a su familiar (un pajarito negro y naranja) con un mensaje telepático para los minions: atentos. Todo esto mientras charla con la party.** 
+
+**Si tuvo algo de tiempo, se escondió y preparó Invisibility en una ready action.**
+
+Su lair tiene trampas, ella tiene lair actions en cuenta fija, hay algunos basilisks, y tiene legendary traits. 
+She's a big fucking asshole. 
+
+Detrás de mucha hiedra y musgo hay un rectángulo de piedra que no parece ser una puerta, pero tiene el agujero para la brújula. Cuando la colocan, presiona hacia dentro y se abre sin problemas. 
+
+
+
+
+
 
 ===== Ia'rah =====
 
-“the most important Strength comes from the inside” (phrase carved on the doors), so they will be tested on their resolve. 
+La puerta anterior se mantiene abierta, pasan a una antecámara sofocantemente pequeña, enteramente tallada con patrones repetidos al punto de ser hipnotizantes, donde sólo hay otra puerta.
 
-The only way in is through a stone door, 1.5m thick and 50m tall protected by magic, which has a huge knocker, extremely heavy. But when they touch it, they are overwhelmed with visions of themselves destroying the things they love the most, becoming wretched creatures, and other unimaginable horrors: before trying to lift it up and knock, every creature touching the knocker has to make a wisdom saving throw DC 18 or go mad for 1d10 minutes. After the madness is gone, they have to make a DC 13 Wisdom check to see if they are brave enough to try again for the day. 
+__**La fuerza más importante procede del interior.**__
 
-They can make it a skill challenge and use different abilities to try and beat the DC. 
+Frase tallada una y mil veces sobre las puertas en distintos idiomas.
 
-Everytime they succeed, the madness DC lowers by 1 but the wisdom check DC goes up by 1.
+
+
+
+===== The Door =====
+
+The only way in is through a stone door, 1.5m thick and 3m tall protected by magic, which has a huge brass knocker, extremely heavy and carved with patterns. 
+
+The whole room emanates magic, if Detect Magic is used. Indeterminate school.  
+
+But when they touch it, they are overwhelmed with visions of themselves destroying the things they love the most, becoming wretched creatures, and other unimaginable horrors: before trying to lift it up and knock, every creature touching the knocker has to make a Wisdom Save DC 22 or go **mad for 1d10 minutes and take 3d10 psychic** damage. After the madness is gone, they have to make a DC 13 Wisdom check to see if they are brave enough to try again for the day. 
+
+^  d100  ^  Effect                                                                                  ^
+|  01-20   |  The character retreats into his/her mind, unwilling to move.                          |
+|  21-30   |  Incapacitated. Screaming, laughing or weeping.                                        |
+|  31-40   |  Frightened, flees from the door to the other end of the hall.                         |
+|  41-50   |  Babbling, incapable of speech or spellcasting.                                        |
+|  51-60   |  Must use action to attack nearest creature.                                           |
+|  61-70   |  Vivid hallucinations. Disadv. on ability checks.                                      |
+|  71-75   |  Character does whatever it's told unless obviously self destructive.                  |
+|  76-80   |  Overpowering urge to eat dirt, slime, etc.                                            |
+|  81-90   |  The character is stunned.                                                             |
+|  91-00   |  The character falls unconscious.                                                      |
+
+Everytime they succeed, the madness DC lowers by 1 but the wisdom check DC goes up by 1 (collectively). 
 If they go mad three times, the third escalates to long-term madness. The sixth would be indefinite.
 When they manage to resist the madness, they still need a DC 18 Strength check to lift up the knocker.
-When they are finally inside, they will be overrun by a group of huge strong monstrosities resistant to spell damage. Best way to get them is hit them hard. 
 
-After they have defeated these monstrosities, they will encounter a hallway so long, they cannot see its end. They will walk and walk and walk, maybe for days, and the hallway will never end. Somewhere along the road, they'll realize that it's enchanted. You can only find the other end if you walk/jog without stopping for 2 days. Athletics checks everywhere until they realize they can use the fucking steeds. 
+Cuando levantan la aldaba y la dejan caer, su propio peso la golpea contra la puerta, que comienza a vibrar y se gira sobre sus goznes lentamente, hacia dentro. 
+
+===== The Water =====
+
+//La habitación cuadrada está tallada en los mismos patrones intrincados y repetitivos, mareando al desprevenido, en roca gris verdosa. En las paredes parece haber decenas de grandes agujeros. Del otro lado de la puerta de entrada hay una doble puerta de salida, también de piedra. Además de esto, parecería estar totalmente vacía.//
+
+Dimensiones: 8x8 cuadrados, 11 feet tall. 
+
+//Mientras están entrando, la puerta de entrada comienza a cerrarse.// Se apuran para entrar - se divide la party - salen todos. //Describir el rumbling sound del agua llegando y antes de que lleguen a reaccionar... la puerta se cierra con un **thud** y de los cuatro tubos comienza a salir agua en cantidades ridículas.//
+
+  * Se comienza a llenar la habitación, 1ft/round.
+  * La puerta de entrada se funde con la pared, no tiene nada para ser abierta de este lado. 
+  * Complex lock on the double doors: 2 checks, DC 13 y DC 16. Also: AC 19, HP 80
+  * Maze of invisible Force Walls. 
+
+Reglas: 
+
+  * Si te chocás la pared (moving normally) te stunnea hasta el comienzo de tu próximo turno y te hace 3d10 force damage.
+  * Podés moverte "despacio" a mitad de velocidad, y si te encontrás una pared, perdés solo 1 cuadradito (sin daño ni stun) mientras la calculás y podés continuar tu turno. 
+  * Se puede usar la action como un Perception check DC 17 para ver si tienen paredes en los cuadrados adyacentes, DC 16 para ver el curso del agua, o DC 19 para detectar el rebote de las voces o el humm de la magia mismísima. 
+  * Las paredes son versiones invisibles de Walls of Force. Sólo pueden dispellearse con un Disintegrate. Pueden verse con un Detect Magic.  
+  * Atacar los pipes: A pipe has HP of 50. When at half HP the pipe only flows at 1/2 capacity. When dead, the pipe bursts open and flows normally again. PCs who get creative can clog pipes. If a pipe takes damage from cold it automatically clogs for 1 round.
+  * A medida que el agua sube, se vuelve difícil moverse. 
+
+^  Agua  ^  Small                                 ^  Medium                                    ^
+|  1ft   |  Lose 5 ft speed.                      |  Nada.                                     |
+|  2ft   |  1/2 speed "normal, 1/4 speed "slow".  |  Lose 5ft speed.                           |
+|  4ft   |  Start swimming & hold breath          |  1/2 speed "normal, 1/4 speed "slow".      |
+|  6ft   |  Start swimming & hold breath          ||
+
+  * Swimming in a strong current requires an Athletics check. DC 12 for normally, DC 15 carefully. 
+  * Hold breath: 1 + (Con mod) minutes. Can't speak or cast V spells.
+  * When out of breath: 1 + (Con mod) rounds. Then, unconscious, death saves. 
+
+
+===== The Chasm =====
+
+
+The Chasm: bridge. Si se caen, batallan con un monstruo terrible. El puente está hecho para romperse a mitad de camino. 
+
+The PCs will have to climb down a deep, steep sided chasm full of ruins using their climbing gear they hopefully purchased in town. This could be run as a skill challenge or just with some tough ability checks. Reward players for using climbing gear or magic to make it easier with advantage and lower Difficulty Checks (DCs).
+
+Climbing down the side of the cliffs should be a multi-stage challenge (2 to 3). At each stage roll for a random encounter with a 20% chance for encountering flying creatures (or put them up against creatures hidden in cliff side burrows as an alternative). Punish the players for failing the stage climb as a group with a level of exhaustion or lost hit points.
+
+
+===== The Trap =====
+
+
+A complex trap
+
+
 

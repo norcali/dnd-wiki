@@ -1,11 +1,19 @@
 ====== DM only ======
 
-[[dmonly:time|Timekeeping]]   |   [[dmonly:music|Música]]
+[[dmonly:time|Timekeeping]]   |   [[dmonly:music|Música]]   |  [[dmonly:ideas|Ideas]]
 
 ===== Current Prep =====
 [[dmonly:adventure:magnhild| Magnhild]]
 
   * Mummy lord stat block - token
+
+[[dmonly:adventure:iarah| Ia'rah]]
+
+  * Level design: layout [_], description [_], objects [_], traps [_], possible checks & DCs [_].
+  * Mapas: random swamp terrain [_], ruins [_], Coromaus scheme [_]
+  * Monsters: stat blocks [_], pictures [_], tokens [_], strategies [_]
+  * Treasure [_]
+  * Ia'rah's Vault: Skill challenges, no combat. Different situations. Protecting one another. Traps or spells triggering that may hurt one PC.  [_]
 
 ===== Adventure Archives =====
 

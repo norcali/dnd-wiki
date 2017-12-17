@@ -1,47 +1,84 @@
 ====== Música ======
 
-^  Track n° & name     ^  Description                                  ^  Key words               ^ 
-|  4_ Solemn Vow       |  Only the bravest have any purchase on the word "honor".  |  Emotion, drama.  |
-|  6_ Abyssal Gaze     |  The blackness of space, the silence of the open sea, the depths of a cave.  |  Creepy.  |
-|  7_ The Desert Awaits  |  The air before you distorts in the heat.  |  Desert, heat, jungle.  |
-|  8_ Dust to dust     |  Sometimes the only sure thing is the end. Beyond the adventure, beyond the riches, beyond the fame. Everyone dies.   |  Drama, emotion, sadness.   |
-|  9_ Before the Storm  |  Sharpen those swords, check the perimeter defenses and pray to whatever gods you hold dear. Tomorrow's going to be a big day.  |  Drama, rain.  |
-|  13_ Cave of Time    |  Deep underground an ancient cavern yawns before you and welcomes you, it's first visitors in a thousand years. The denizens of this place may not agree.  |  Cave, drops, bats, creepy.   |
-|  18_ House on the Hill  |  50 years ago this night, an entire family killed after church one Sunday. Only one survived.  |  Clock, storm, music box, creepy, wind, laughter.  |
-|  19_ Age of Sail     |  Fear not the mountainous waves and perilous winds! For who among us, will journey upon the sea and not gaze, ultimately, upon himself?  |  Ship.  |
-|  20_ Dark Continent  |  Beacon of civilization, culture . . . and war.  |  Drums, creepy, battle, drama  |
-|  27_ Xingu Nights    |  Dense, rich and verdant, the forest floor oozes with life and decay. Overhead, the canopy has hidden the sky for millennia.  |  Jungle, birds.   |
-|  31_ Frozen Wastes   |  Visibility and temperatures plummeting by the second, your only thought is survival. But in your heart you know - you've been through worse.  |  Footsteps, wind, howl.  |
-|  35_ Swamplandia     |  Hot, humid and swarming with insects of every kind. You'd go around if you could, but you know the only path is through.  |  Crickets, water, insects, creepy.  |
-|  36_ Down by the Sea  |  Vast expanses of sand, hypnotic surf and the cries of gulls on the wing.   |  Birds, piano, waves.  |
-|  39_ Temple of the Eye  |  Hooded figures gather around a gleaming eye, smoke wriggles like serpents to the ceiling. What dark energies have these voices awakened?  |  Creepy, hum.  |
-|  46_ Cathedral  |  Cavernous, cold and quiet. Ethereal chants and muted footsteps. Paladins welcome.  |  Footsteps, chanting, pages.  |
-|  47_ There be Dragons  |  Just as it sounds.  |  Dragon fight.   |
-|  49_ Goblin's Cave     |  Journey up the winding path, follow the stream into the mouth of the cavern. Light your torches. Proceed...cautiously.  |  Voices, water, cave, chains, door.  |
-|  51_ Woodland Campsite  |  A nice spot in the woods to rest the horses and enjoy a hot meal over a fire.  |  Fire, crickets, wolf, wind.  |
-|  55_ Ice Cavern        |  Soaring vaults of ice echo and groan.  |  Footsteps, wind, creepy, falling ice.  | 
-|  56_ Medieval Town     |  Life inside the walls, where commerce, struggle and celebration mingle with honor, chaos and crime.  |  Animals, church bell, carriages, crowd talking.  |
-|  60_ Dark and Stormy   |   A dark and stormy night, the rain fell in torrents  |  Lightning, thunder, rain, wind.  |
-|  62_ Middle Earth Dawn  |  Middle Earth can be a beautiful place.  |  Peaceful, horses, road.  |
-|  64_ Mountain Pass     |  A treacherous path through towering mountain peaks.  |  Footsteps, wind, birds.  |
-|  65_ Dungeon I         |  You and your party creep along the twisting, torch-lit hallways of the abandoned mine.  | Drip, creepy, falling rocks, cave.  | 
-|  69_ Forest Night      |  Gentle breezes wafting through the trees overhead.  |  Birds, crickets, animals.  | 
-|  73_ Medieval Library  |  Bearded men hunch over scrolls and books, quills scratching quietly.  |  Pages, echo, creak  | 
-|  75_ Docks District    |  Always somewhere in the docks district.  |  Seagulls, bells, waves, ships.  | 
-|  76_ Alchemists Lab    |  A hooded figure bends low over a table muttering strange words.  |  Bubbles, Quill scratching, eerie noises, hum.  | 
-|  79_ Medieval Battle Armies  |  Steel, horses and bones clash in the fight for supremacy.  |  Horses, men, swords, horn.  |
-|  80_ Blacksmith Shoppe  |  A blacksmith's shoppe was crucial to the life of a village.  |  Hammer, metal, water, talking, clank.  |
-|  82_ Nightmare         |  The darkness seethes and writhes about you as you gasp for air.  |  Creepy, eerie.  |
-|  89_ Winter Woods      |  Cold wind, dry branches, hardy birds.  |  Wind, crows, trees, instrumental music.  |
-|  90_ Dungeon II Mechanical  |  Ancient machines groan and clank with deadly precision.  |  Machines.  |
-|  91_ Elven Glade       |  Shrouded from human sight, elves of the forest have congregated here for centuries.  |  Twinkle, song, bird, water, peace.  |
-|  92_ Skirmish          |  Oh, it's on. Roll for initiative...  |  Battle.  |
-|  98_ Lost Mine         |  Hidden for years and only recently discovered.  |  Music, bats, creepy, creak.  |
-|  99_ Cavern of Lost Souls  |  A yawning, supulchral chamber filled with the departed spirits of fallen warriors.  | wind, voices, drops, creepy.  |
-|  100_ Volcano          |  The mouth of hell itself, a smoldering vista of rock and lava.  |  Lava, rock, ooze.  |
-|  104_ River Town       |  Small, tidy village on the bank of a river.   |  Music, water, footsteps, horses.  |
-|  107_ Lonesome West    |  Brooding skies, ominous horizons.   |  Sad, violin, horse, thunder.  |
-|  113_ Astral Plane     |  The realm of thought, memory and psychic energy.  |  Wind, creepy.  |
-|  114_ Dwarven City     |  A towering, immense city, hewn from solid rock, where dwarves shape stone and iron into soaring monuments, and mighty weapons.  |  Metal, rock, echo.  | 
-|  115_ Antiquarian Study  |  A cluttered, book-filled office in a creaky old house.  |  Clock, creak, dust, voices  |
-|  116_ RavenPuff Common  |  If you've ever been to a school for witchcraft and wizardry, you spent some time in one of these.  |  Pages, voices, footsteps, fire.  |
+^  Track n° & name     ^  Key words                       ^ 
+|  4_ Solemn Vow       |  Emotion, drama.  |
+|  6_ Abyssal Gaze     |  Creepy.  |
+|  7_ The Desert Awaits  |  Desert, heat, jungle.  |
+|  8_ Dust to dust     |  Drama, emotion, sadness.   |
+|  9_ Before the Storm  |  Drama, rain.  |
+|  13_ Cave of Time    |  Cave, drops, bats, creepy.   |
+|  18_ House on the Hill  |  Clock, storm, music box, creepy, wind, laughter.  |
+|  19_ Age of Sail     |  Ship.  |
+|  20_ Dark Continent  |  Drums, creepy, battle, drama  |
+|  27_ Xingu Nights    |  Jungle, birds.   |
+|  31_ Frozen Wastes   |  Footsteps, wind, howl.  |
+|  35_ Swamplandia     |  Crickets, water, insects, creepy.  |
+|  36_ Down by the Sea  |  Birds, piano, waves.  |
+|  39_ Temple of the Eye  |  Creepy, hum.  |
+|  46_ Cathedral  |  Footsteps, chanting, pages.  |
+|  47_ There be Dragons  |  Dragon fight.   |
+|  49_ Goblin's Cave     |  Voices, water, cave, chains, door.  |
+|  51_ Woodland Campsite  |  Fire, crickets, wolf, wind.  |
+|  55_ Ice Cavern        |  Footsteps, wind, creepy, falling ice.  | 
+|  56_ Medieval Town     |  Animals, church bell, carriages, crowd talking.  |
+|  60_ Dark and Stormy   |   Lightning, thunder, rain, wind.  |
+|  62_ Middle Earth Dawn  |  Peaceful, horses, road.  |
+|  64_ Mountain Pass     |  Footsteps, wind, birds.  |
+|  65_ Dungeon I         |  Drip, creepy, falling rocks, cave.  | 
+|  69_ Forest Night      |  Birds, crickets, animals.  | 
+|  73_ Medieval Library  |  Pages, echo, creak  | 
+|  75_ Docks District    |  Seagulls, bells, waves, ships.  | 
+|  76_ Alchemists Lab    |  Bubbles, Quill scratching, eerie noises, hum.  | 
+|  79_ Medieval Battle Armies  |  Horses, men, swords, horn.  |
+|  80_ Blacksmith Shoppe  |  Hammer, metal, water, talking, clank.  |
+|  82_ Nightmare         |  Creepy, eerie.  |
+|  89_ Winter Woods      |  Wind, crows, trees, instrumental music.  |
+|  90_ Dungeon II Mechanical  |  Machines.  |
+|  91_ Elven Glade       |  Twinkle, song, bird, water, peace.  |
+|  92_ Skirmish          |  Battle.  |
+|  98_ Lost Mine         |  Music, bats, creepy, creak.  |
+|  99_ Cavern of Lost Souls  |  Wind, voices, drops, creepy.  |
+|  100_ Volcano          |  Lava, rock, ooze.  |
+|  104_ River Town       |  Music, water, footsteps, horses.  |
+|  107_ Lonesome West    |  Sad, violin, horse, thunder.  |
+|  113_ Astral Plane     |  Wind, creepy.  |
+|  114_ Dwarven City     |  Metal, rock, echo.  | 
+|  115_ Antiquarian Study  |  Clock, creak, dust, voices  |
+|  116_ RavenPuff Common |  Pages, voices, footsteps, fire.  |
+|  700_ Taberna 1        |  Alegre, aire celta. Música de taberna.          |
+|  701_ Taberna 2        |  :::   |
+|  702_ Taberna 3        |  :::   |
+|  703_ Aen Seidhe       |  Exploration, discovery, desert vibes, women singing, arab vibes.   |
+|  704_ Alone in the Marshlands  |  Battle, action, tension.    |
+|  705_ Beginning        |  Drama, tension, bravery, epic, chorus, battle.   |
+|  706_ City of Intrigues  |  Exploration, drama, battle, epic, tension.  |
+|  707_ Cloak and Dagger  |  Exploration, excitement, discovery, battle.    |
+|  708_ Commanding the Fury  |  Battle, excitement, bravery, epic.  |   
+|  709_ Drink up, there's more  |  Música de taberna alegre y excitante.   | 
+|  710_ Emhyr var Emreis  |   Drama, tension, exploration, battle.  |
+|  711_ Eredin           |  Creepy, tension, drama.  | 
+|  712_ Farewell         |  Sadness, death, mourning.                  | 
+|  713_ Forged in Fire   |  Battle, tension, drama.  | 
+|  714_ Geralt           |  Excitement, epic, greatness, battle.  |
+|  715_ Hunt or Be Hunted  |  Battle, women singing.  | 
+|  716_ Ice Giant        |  Battle.       |
+|  717_ Merchants of Novigrad  |  Merchants, market, shopping, exploring.  |
+|  718_ Path             |  Battle, tension.      |
+|  719_ Silver for Monsters  |  Battle.   |
+|  720_ Spikeroog  |  Sadness, death, mourning.  |
+|  721_ Steel for Humans   |  Battle.   |
+|  722_ Tavern           |  Música de taberna, alegre.      |
+|  723_ The Hunt         |  Battle, drama, tension.         | 
+|  724_ The Nightingale  |  Exploration, excitement.    |
+|  725_ Vagabond         |  Drama, emotion, sadness, death, mourning.   |
+|  726_ Witcher's Path   |  Exploration, peace.          |
+|  727_ Three Fat Gnomes  |  Música de taberna, alegre.  |
+|  728_ Trail            |  Drama, tension, battle.      |
+|  729_ Troll's Hideout  |  Exploration, tension, creepy, drums.  |
+|  730_ Imlerith         |  Drama, tension, battle.      |
+|  731_ Widow Maker      |  Arab vibes, women singing, creepy, tension.   |
+ 
+
+
+
+
