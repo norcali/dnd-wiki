@@ -10,7 +10,7 @@ Luna de la Montaña 1N arrancan.
 ===== Luna de la Montaña =====
 
 ^  Día  ^  Ubicación      ^  Actividades                                                   ^
-|  7N   |  Aidin Silma    |  Comienzan a explorar la cueva, se encuentran con los gigantes y los azer, a quienes matan luego de una larga pelea.  |
+|  7N   |  Aidin Silma    |  Comienzan a explorar la cueva, se encuentran con los gigantes y los azer, a quienes matan luego de una larga pelea. Encuentran una pared de piedra aprox al mediodía.  |
 |  6N   |  Viajan al sur siguiendo la brújula. Pasan por encima (con Wind Walk) de un campamento de Ban Tuur, pero deciden no preguntarles. Adivinan que están buscando algún lugar en el volcán y descubren el //aidin silma//.  ||
 |  5N   |  :::  ||
 |  4N   |  :::  ||

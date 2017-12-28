@@ -65,43 +65,56 @@ La brújula apunta directamente adelante y vibra como loca llegado un punto en l
 
 Tienen que picar, stone-shapear la pared o romperla de alguna manera. Tiene 30 cm de grosor. Una vez abierto el hueco, ven que el piso se hunde 3 metros. Se pueden tirar y si pasan un DC 15 acrobatics no se hacen 1d6 bludgeoning damage. Abajo está la primera puerta donde tienen que poner la brújula, un bloque enorme de piedra sólida que hasta Bell necesita un chequeo para mover. No tiene nada, excepto una estrella de siete puntas tallada con precisión láser.
 
-===== Primera Cámara =====
+===== Primera Cámara - 6 =====
 
-La antecámara ostenta tres palabras sobre el desafío que les espera. "Infierno, Espinas, Guerrera".
+//La antecámara, de roca volcánica al parecer modelada con magia, ostenta en la puerta, grabadas en muchos idiomas distintos, todos extintos, palabras sobre el desafío que les espera. "Infierno, Espinas, Cuernos, Furia, Magia-Infernal". En el centro, una ranura para la brújula.//
 
-En la caverna hay tres círculos concéntricos que giran al principio de cada ronda (clockwise/counterclockwise, ¼ ½ ¾ o nada, según dados). Habitándola, una Erinyes y cinco Spined Devils.
+//Las puertas comienzan a abrirse muy lentamente, haciendo un ruido sordo, y comienzan a vislumbrar una gran cámara hexagonal más allá.//
 
-^  Dado   ^  Consecuencia            ^
-|  1      |  Clockwise               |
-|  2      |  Clockwise               |
-|  3      |  Counterclockwise        | 
-|  4      |  Counterclockwise        |
-|  Cuánto   ||
-|  1  |  45°        |
-|  2  |  90°        | 
-|  3  |  180°       |
-|  4  |  Nada       |
-===== Segunda Cámara =====
+Los demonios intentarán ponerse en posiciones defensivas, sobre todo si los escucharon venir. Pueden escuchar el shuffling de alas, pero nada más.
 
-La antecámara tiene en la puerta 3 pociones de fire resistance. Nada más. Una caverna natural y un bloque sólido de roca a modo de puerta con una ranura para la brújula entre las dos hojas, que deberían stuff safely in their pockets right after they use it.
+//La primera cámara es un recinto  de la misma roca volcánica que la antecámara, pero sin modelar. Tiene grandes desniveles en muchas partes, grandes rocas que sobresalen del suelo que por demás parece ser más o menos parejo. En el centro, una gran elevación a modo de plataforma se alza, rodeada de una gran laguna de lava líquida y burbujeante. Mirándolos, hay varias criaturas. // 
 
-La cámara es un hexágono de roca volcánica con las features que marca el mapa y nada más. 
+Habitando la caverna, una Erinyes, un Chort Devil, un Horned Devil y cinco Spined Devils.
+
+**__Two Steps from Hell Battle Playlist__**
+
+La puerta de salida, igual a la de entrada, tiene una ranura para la brújula. 
+
+
+
+===== Segunda Cámara - 6  =====
+
+La antecámara, muy similar a la anterior, tiene al lado de la puerta 3 pociones de fire resistance. Nada más. Una caverna natural y un bloque sólido de roca a modo de puerta con una ranura para la brújula entre las dos hojas.
+
+//La cámara es un hexágono de roca volcánica, con dos pits de lava rodeados por grandes levantamientos de roca y un punto de terreno roto en el centro. A los lados hay algunas formaciones rocosas, pero por demás es parejo.//
+
+**__Two Steps from Hell Battle Playlist__**
 
 Un elemental muy poderoso, un efreet llamado Flaris, secuestrado del elemental plane of fire. 
 
 Se llamaba a sí mismo **Gran Maestro de la Moneda**. Solía ser muy rico y algo recuerda de todo eso, pero se ha vuelto loco y sólo quiere salir de ese lugar. No comprende cómo es que no ha muerto de hambre, ni de vejez. Tiene teorías conspirativas de que quieren quebrar su voluntad para esclavizarlo, pero realmente lo hubiera hecho hace milenios. Nunca se le ocurriría que es una parte de un mecanismo, se considera demasiado importante. 
 
-La puerta de salida tiene una ranura para la brújula. Hacerles notar que hay espacio para otra mitad de brújula.
+La puerta de salida tiene una ranura para la brújula. 
 
-===== Tercera Cámara =====
+===== Tercera Cámara - 6  =====
 
 La antecámara contiene un esquema de la cámara siguiente que pueden mirar o copiar, tallado con precisión láser en las puertas, donde tienen que volver a colocar la brújula. 
 
-La cámara en sí es otro héxagono de roca desnuda, con plataformas y obeliscos, y un olor pútrido. 
+//La cámara en sí es otro héxagono de roca volcánica, con montañas de escombros y arena apilados a los costados, haciendo difícil caminar por los costados. Hay cuatro columnas, una de ellas derrumbada, y un banco de niebla densa en el centro de la habitación. El resto de la habitación se encuentra lightly obscured debido a niebla suave que emana del centro.// 
+
+  * **Heavily obscured:** Blinded when trying to see something in that area. Fail any ability check that relies on sight. If they're inside: attack rolls against them have advantage, and the creature's attack rolls have disadvantage.
+  * **Lightly obscured:** Disadvantage on Perception checks that rely on sight. 
+  * Hay una __** HIDDEN SPIKED PIT TRAP**__ en los dos cuadrados centrales detrás de la construcción.
+      * //**Trigger.**// Someone steps on the trap. 
+      * //**Effect.**// **REMEMBER THE CLICK! RULE** The PC gets a reaction to address their intention and then a bonus or penalty to the **DC 14 Dexterity** saving throw. On a failure, the creature takes 2d6 bludgeoning damage from the fall, 2d10 piercing damage from the spikes, and must make a **DC 15 Constitution** saving throw. On a failure, it takes 4d10 poison damage and is poisoned for 1 minute, making saves at the end of each of its turns. Afterwards, it needs to make a check to climb the smooth surface of the pit: Athletics DC 13.  
+      * //**Countermeasures.**// It takes a DC 15 Perception check to spot a trap (in general). A DC 15 Investigation check to determine that it's a pit. 
 
 En la cámara propiamente dicha reside un mummy lord llamado Slarus. Slarus era un oficial del imperio muy leal al emperador, ofreció su no-muerte para cuidar la tumba de su general. 
 
-===== Holy Fuck =====
+**__The Witcher Battle Playlist__**
+
+===== Holy Fuck - 4 =====
 
 La puerta no tiene antecámara. Se abre directamente a la habitación final. 
 

@@ -13,7 +13,6 @@
 ===== Otras categorías =====
 
     * [[files:files|Archivos descargables]]
-    * [[terrortalones:terrortalones|El Terror de los Talones]]
 
 
     * [[dmonly:dmonly|DM Only]]

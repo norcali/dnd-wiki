@@ -113,7 +113,7 @@ Dimensiones: 8x8 cuadrados, 11 feet tall.
 
 Reglas: 
 
-  * Si te chocás la pared (moving normally) te stunnea hasta el comienzo de tu próximo turno y te hace 3d10 force damage.
+  * Si te chocás la pared (moving normally) sufrís 2d10 force damage y necesitás un DC 15 Acrobatics check o quedás prone.
   * Podés moverte "despacio" a mitad de velocidad, y si te encontrás una pared, perdés solo 1 cuadradito (sin daño ni stun) mientras la calculás y podés continuar tu turno. 
   * Se puede usar la action como un Perception check DC 17 para ver si tienen paredes en los cuadrados adyacentes, DC 16 para ver el curso del agua, o DC 19 para detectar el rebote de las voces o el humm de la magia mismísima. 
   * Las paredes son versiones invisibles de Walls of Force. Sólo pueden dispellearse con un Disintegrate. Pueden verse con un Detect Magic.  
