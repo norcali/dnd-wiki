@@ -1,13 +1,94 @@
 ====== Session Zero ======
 
-==== New Campaign ====
- 
-  * **Línea temporal.** Las aventuras del Terror de los Talones son una narrativa escrita por un escriba, Marshall Kennard, basada en los cuentos que su madre (Melissa) le contaba. Ella tenía una imaginación salvaje. La realidad es bastante parecida, pero con mucha menos magia, y desgraciadamente, no existe heredero claro al trono de Haldrim. Varios altos nobles están tratando de ganarse el favor del rey, para que declare formalmente un heredero, pero probablemente ni siquiera eso asegure la paz. La reina perdió dos embarazos y un príncipe nació muerto. 
-  *  **Low magic.** El Estado va a controlar ciertos componentes para controlar quién hace ciertos spells. Va a haber muchísimos menos items a la venta. Algunas familias tienen un item familiar, pero fuera de eso... Hace mucho tiempo que nadie recuerda como hacer items mágicos. La gente sabe si hay un spellcaster en el pueblo/ciudad a menos que se hayan tomado un trabajo muy fino para ocultarse.
-  * **Sistema de iniciativa.** Viejo con re-roll cada ronda o el nuevo? Hay demasiadas complicaciones y ajustes... Spells y habilidades, condiciones, todo diseñado para el sistema viejo. Se puede acelerar el otro sistema agrupando los bichos. 
-  * **Level progression.** Mucho más lento, con milestones o con XP incluyendo roleplay y otros challenges.
+Después de la cena, hablamos de scheduling, commitment y de las reglas de la DM para la nueva campaña:
+==== DM's rules ====
+
+  * **Lifespan** Acordado previamente o abierto a depender del tema. 
+  * **Level progression.** Mucho más lento, con milestones o con XP incluyendo roleplay y otros challenges. 
   * **Más roleplay.** Fomentar in character interaction y character development.
-  * **Homebrews.** Only playtested and revised material from core rulebooks para los personajes de campaña. Para arenas y one-shots or otherwise stand-alone sessions, homebrews aprobados valen también. 
+  * **Sistema de iniciativa.** Viejo con re-roll cada ronda o el nuevo? Hay demasiadas complicaciones y ajustes... Spells y habilidades, condiciones, todo diseñado para el sistema viejo. Se puede acelerar el otro sistema agrupando los bichos. 
+  * **Opciones y restricciones.**
+    * //Low magic.// La magia que experimentaron era un cuento de hadas. La realidad es más dura: el Estado controla los componentes de ciertos spells. Los items mágicos son cosas de los cuentos. Algunas familias tienen un item familiar, pero fuera de eso, sólo los reyes y los grandes personajes los poseen, o sólo se los encuentra perdidos en dungeons o en manos de poderosas criaturas. Hace mucho tiempo que nadie recuerda como hacer items mágicos. La gente sabe si hay un spellcaster en la ciudad a menos que se hayan tomado un trabajo muy fino para ocultarse, y nada por encima de nivel 3. Las pociones comunes de curación son factibles de encontrar en pocas cantidades en las grandes ciudades, donde sólo hay un alquemista que provee spell components y algunas common potions. 
+    * //Homebrews.// Only playtested and revised material from core rulebooks para los personajes de campaña. Para arenas y one-shots or otherwise stand-alone sessions, homebrews aprobados valen también. 
+    * //Ability scores.// No se rollea. Point buy system or array. Es para evitar de movida desbalances altos por suerte.  
+    * //Conflict avoidance.// Nada de evil alignment, evil-like characters. Los necromancers, warlocks, assassins y esos tienen que pasar por la DM primero. 
+
+===== Notas =====
+
+¿Qué les gustó más de la campaña?
+
+  * Tener en cuenta el poco tiempo de preparación que voy a tener disponible. 
+  * Ir tachando ideas y anotando conceptos.
+  * Asociando a los nombres lo que cada uno se apasiona por, PERSONALIDADES MDA.
+  * No anotar RAZONES sino SENTIMIENTOS.
+  * Casual convo con secret agenda. 
+
+Goals: genre - tone - core engagements - story elements - theme
+
+Si la conversación se traba en un tema, **hacer una pregunta abierta y back off.**
+
+Terminar si se desconcentran, se aburren, se traban o discuten. 
+
+
+
+
+
+===== Personalidades MDA =====
+
+  * **Sensory:** Sensory pleasure is the joy you get from having your senses stimulated. In role-playing games, it comes from artwork and miniatures and props and maps.
+  * **Challenge:** Challenge is actually a type of pleasure that comes from knowing that you can win or lose and that you have the power to affect the outcome. In fact, the power to affect your outcome is central to challenge as a source of satisfaction. It’s also important to note that challenge is not synonymous with combat. 
+  * **Discovery:** Discovery refers to the fun that comes from combing the world for hidden stuff. The joy of discovery comes from an intellectual mastery of the world. Discovery feels good only when we know we could have missed something, but we didn’t.
+  * **Expression:** Expression refers to the joy that comes from creating and sharing things that are uniquely ours. Expression-seekers thrive on shining a spotlight on their own unique ideas and creations.
+  * **Fantasy:** Fantasy-seekers thrive on interacting with a living world, but they also want to have a role in that world. A role they can understand. Because they truly want to feel like they are a part of the fantasy world. For that to work, they need a rich and detailed world. But they also need a defined space in the world. Their character’s identity goes beyond their powers and abilities and it isn’t defined by their backstory, it is defined by the role they fill in the daily life of the world.
+  * **Fellowship:** Fellowship refers to the fun of belonging to a group. It’s social pleasure, pure and simple. It’s the fun of doing things with other people.Cooperative gameplay really hits the fellowship nerve.
+  * **Narrative:** Narrative-seekers like experiencing good stories. Stories that make sense. Stories that hit all the right beats. Stories that have tension and climaxes and denouements and all that crap. And man do these people get lost in the crowd. Sandbox play? Freeform play? Collaborative story-telling? Goalless dicking around having fun? That stuff KILLS the narrative-seeker. 
+  * **Submission:** Submission refers to the fun we derive from just dicking around without too much thought. It’s unwinding. It’s chillaxing. It’s fooling around and not stressing about it. Submission-seekers are the players who sit back and ignore most of the game, but wake up for the mindless action. Those are the players who get bored when there is too much thinking and talking and not enough killing and looting. They are the ones who will act at random just to make something happen without thinking about the consequences. 
+
+
+===== Línea temporal y cambios =====
+
+Las aventuras del Terror de los Talones son una narrativa escrita por un escriba, Marshall Kennard, basada en los cuentos que su madre (Melissa) le contaba. Ella tenía una imaginación salvaje.Él es un novelista que ha interrogado a todo dios sobre los lugares sobre los que ha escrito, para describirlos a la perfección. Ha contratado dibujantes para que le hagan pinturas de los lugares y así visualizarlos. 
+
+La realidad es bastante parecida, pero con mucha menos magia, y desgraciadamente, no existe heredero claro al trono de Haldrim. Varios altos nobles están tratando de ganarse el favor del rey, para que declare formalmente un heredero, pero probablemente ni siquiera eso asegure la paz. La reina perdió dos embarazos y un príncipe nació muerto.
+
+**Cambiar:** las tabernas de La Bifurcada, Falworth, Arden (El Talismán mostly). Hacer Valegren de cero, con otro apellido del vizconde, y mucho más tranquilo, alegre y aburrido. 
+
+**Agregar:** 
+
+**Difficult components spell list:**
+  * Astral Projection -  one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes
+  * Clone - a diamond worth at least 1,000 gp, which the spell consumes
+  * Create Undead - one 150 gp black onyx stone for each corpse
+  * Gate - a diamond worth at least 5,000 gp
+  * Plane Shift - a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence
+  * Raise Dead - a diamond worth at least 500 gp, which the spell consumes
+  * Resurrection - a diamond worth at least 1,000 gp, which the spell consumes
+  * Revivify - diamonds worth 300 gp, which the spell consumes
+  * Simulacrum - powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell
+  * Symbol - mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes
+  * True Resurrection - diamonds worth at least 25,000 gp, which the spell consumes
+===== Shape & Glue =====
+
+Preferred shape: Plate of Meatballs - Noodle
+
+Preferred Glue: Common goal or organization/employer. Common motivations if not possible. Add, just in case, some common faith, ideals, origins or nationalities, and some relationships.
+
+===== Point buy =====
+
+Standard Array: 16 - 14 - 13 - 12 - 10 - 8
+
+Points to spend: 33
+
+^  Score  ^  Cost  ^  Score  ^  Cost  ^
+|  8      |  0     |  13     |  5     |
+|  9      |  1     |  14     |  7     |
+|  10     |  2     |  15     |  9     | 
+|  11     |  3     |  16     |  10    |
+|  12     |  4     |  -      |  -     |
+
+
+
+
 
 
 

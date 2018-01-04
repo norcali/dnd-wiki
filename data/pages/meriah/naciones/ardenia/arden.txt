@@ -1,105 +1,44 @@
 ======  Arden ======
 
-DM only links: [[dmonly:settlements:dmarden]] [[dmonly:random:human]]
+DM only links: [[dmonly:settlements:dmarden|Info]] [[dmonly:random:human|Tables]]
 
 =====  Datos =====
  
    * **Ciudad grande**. 15.000 personas,  sobre todo humanos. Algunos enanos, dos o tres tabaxi, una familia half-orc, varios half-elf.
   * ** Economía.**  Producen telas, especias, perfumes, azúcar, olivas y su aceite, frutas, vegetales y carne que consumen y exportan el excedente. Comercian metales y joyas enanas de altísimo valor, que venden a las naciones del sur.  
-  *  **Regente.**  Su Serenísima Majestad Real Señora Doña Aeleth de la Casa Duchamps
+  *  **Regente.**  Su Serenísima Majestad Real Señora Doña Aeleth de la Casa Duchamps.
   * ** Puntos de interés.**  El Colegio de la Canción Secreta, la Catedral de Sune, el Palacio de Arden
-  *  **Crimen - corrupción.**  La pequeña y enclenque thieves' guild funciona controlada por El Susurro, que pide parte del botín, como side operation y totalmente sin aprobación de la Reina. Chanchuyo de Cristoph.
   *  **Cualidad única.** El Palacio y las guirnaldas en las calles, la catedral y el colegio.
-  *  **Organizaciones.** El Susurro, la thieves' guild.
  
 =====  Negocios =====
 
-{{ :meriah:naciones:arden.jpg?nolink&200|}}
+{{ :meriah:naciones:arden.jpg?nolink&400|}}
 
-   * Alfarería. 
-  *  Mercado. Comestibles y common items, algunos magic items. La pastelería de Rousseau, muy famosa y antigua, productos de la putísima madre.  Olivas y aceite, frutas, azúcar, especias. La sal brilla por su ausencia casi.
-  *  Herrería. Cosas muy básicas y personalizadas, la mayoría de las cosas vienen de Korim. Atendida por un enano, Fikri Oscar Karlsson.
-  *  Productos enanos. Re-sellers. Te arrancan la cabeza si pueden, hay que regatearles.
-  *  Salón de belleza. Matrimonio de dos mujeres, Meline y Natalie Voclain, súper amorosas y glamorosas. 
-  *  Perfumería. Dos, rivales a lo Montesco/Capuleto. Pero sería Amardeep/Desjardins.
-  *  Sedería.  Tres sederías importantes: las Casas Langlais, Mercier y Vipond.
-  *  Sastrerías. Cinco sastres con distintos targets.
-    * Félix & Haydeé Proulx.
-    * Coralie Tasse.
-    * Josué Lucas.
-    * Remy Gosse.
-    * Denise Fay.
-  * **Sombrerería.** Vivienne Denis, una señora flirty, vieja, gorda y cachetona que quiere vender a toda costa y se precia de tener sólo las últimas tendencias.
-  * **Luthiers.** Una monopólica, la Casa Roux, atendida por un tipo con sombrero de copa y bigote a lo Salvador Dalí. Casa-local de tres pisos, con el taller en el subsuelo y los dos pisos de arriba residenciales. 
-  * **Vidriería/cristalería.** La cristalería de los Bourdillon, bastante nueva pero de buena calidad.
+   * **Alfarería.** 
+  *  **Mercado.** Comestibles y common items. La pastelería de Rousseau, muy famosa y antigua, productos de altísima calidad.  Olivas y aceite, frutas, azúcar, especias. La sal brilla por su ausencia casi.
+  *  **Herrería**. Cosas muy básicas y personalizadas, la mayoría de las cosas vienen de Korim. 
+  *  **Productos enanos.** Re-sellers. Te arrancan la cabeza si pueden.
+  *  **Salón de belleza.** 
+  *  **Perfumerías.**
+  *  **Sederías.** 
+  *  **Sastrerías.**
+  * **Sombrerería.** 
+  * **Luthier.** 
+  * **Vidriería/cristalería.**
+  * **Bourdel.** 
 
 =====  Colegio de la Canción Secreta =====
 
-El Colegio es un edificio enorme, con aulas grandes especialmente diseñadas por su acústica excelente, paredes gruesas y un gran patio trasero con árboles y glorietas. No es pupilo. Es pago, los alumnos tienen que pagar una colegiatura que deciden el tesorero, el secretario y dos profesores rotativos en unas audiciones a comienzo de año (al estilo Universidad de Kvothe). Pagan por las clases, pero aparte salen los materiales, estadía y comida. No es barato. La mayoría de los alumnos son pudientes o tan talentosos que los becan.
- 
+El Colegio es un edificio enorme, con aulas grandes especialmente diseñadas por su acústica excelente, paredes gruesas y un gran patio trasero con árboles y glorietas. No es pupilo. Es pago, los alumnos tienen que pagar una colegiatura que deciden el tesorero, el secretario y dos profesores rotativos en unas audiciones a comienzo de año. Pagan por las clases, pero aparte salen los materiales, estadía y comida. No es barato. La mayoría de los alumnos son pudientes o tan talentosos que los becan.
  
 =====  Catedral de Sune =====
 
-La catedral es gigante, estilo gótico, de piedra blanca con decoraciones interiores en rojo y oro. Dentro, el sonido no rebota de manera tétrica. Una gran estatua de oro rosado, (tres metros de alto aprox) casi colorado, encarna a Sune, bellísima, con sus brazos abiertos en recibimiento, vientre moderadamente prominente. A su alrededor hay alfombras para sentarse a rezar o meditar.
+La catedral es gigante, estilo gótico, de piedra blanca con decoraciones interiores en rojo y oro. Dentro, el sonido no rebota de manera tétrica. Una gran estatua de oro rosado encarna a Sune, bellísima, con sus brazos abiertos en recibimiento, vientre moderadamente prominente. A su alrededor hay alfombras para sentarse a rezar o meditar. 
  
-====  Suma sacerdotisa Amanda Payton ====
+===== Posadas =====
 
-Una mujer voluptuosa, alta, de mejillas sonrosadas, pelo rojo oscuro ondulado y larguísimo, muy dulce y accesible. Muchos niños dando vueltas, aparentemente sus hijos, jugando en el templo sin hacer mucho escándalo. Trata a todos con apodos cariñosos, y está súper embarazada (espera para el mes siguiente). Level 8, polenta polenta. 
- 
- 
-=====  Embajada de Korim =====
+  * "La Reina"
+  * "Las Cinco Escobas"
+  * "El Cisne"
+  * "La Dama"
 
-La embajada es una linda dependencia de piedra oscura con techos altos, en el primer anillo desde el castillo. 
-Tiene pocas ventanas pero amplias, decoraciones sencillas, muebles robustos y algunos lujos pero sin opulencia innecesaria.
- 
-La tiene el clan Rakhan (Thane Helmoral).
- 
-===  Embajador Wilton Eriksson ===
- 
-Viejo pero bien conservado, tipo muy culto, poderoso, cuidadoso y precavido. Accesible para compatriotas. Busca fortalecer la alianza. 
- 
-===  Embajador Adjunto Kyro Wiltonsson ===
-
-El adjunto es su hijo menor, muy parecido a su padre, aunque tenía ganas de dedicarse a otra cosa. Bardo frustrado, toca muy bien y anhela mostrarlo. Tiene una linda luta siempre en exhibición en su oficina y la toca de cuando en cuando. 
-Los otros son más jóvenes, los tratan de formar y los usan de cadetes. 
- 
- 
- Kinnard Clan Dwarven Goods
-Todos stocky, ginger, caras blancas con pecas, bien vestidos. 
- 
- Katarina 
- Torvald
- Arianna
- Runa
- Edvin 
- 
- Posada “El Talismán”
-La posada de Jaressa y Octave Blanchett.
- 
- Posada "La Reina"
-Atendida por Harley Fox. Rubia loca, peinados raros, mil gatos dando vueltas, todos tienen nombre: Mittens, Robi, Miki, Evan, Dami, Tori, Lori… Muchas estatuillas de gatitos. Se pone totalmente loca si se rompe alguna. Nunca olvida quién la rompió y caga a palazos de amasar al culpable.
-
-La posada no es la más lujosa pero todo dios va a comer ahí, cocina como los fucking dioses esa mujer.
-
- Platos
- Jabalí especiado con cebollas horneadas
- Salteado de carne con mostaza
- Crocodilo blanqueado con paprika
- Bistec con ajo, cebollas y salsa de soja
- Risotto de pollo con pimientos picantes
- Postres
- Rollitos de canela 
- Caramelo de avellana y castañas
- Crispies de Castaña
- Pudín de mandarina
- 
- Posada “Las Cinco Escobas”
-La más concurrida siempre. Atendida por las hermanas Alcott: Louise, Megan (preggo), Joanne, Elizabeth y Amy (Mujercitas). Great service. It’s been going well for years so they have improved the service. You can tell from simply looking at the building that it has been expanded several times, and floors have been added. Hella big Sune worshippers. Altar & all the shit. Red decorations.
- 
- Taberna “El Caldero Goteante”
-Tom Marney, un pelado condescendiente. Decente pero nada muy loco. Buena ubicación though. 
- 
- Bourdel “La Sirena”
-Decorado con pinturas sugestivas, velas aromáticas y sedas a modo de cortinas. Cuartos en el fondo para otros asuntos. 
-
- Felicitas LeGrand ( big ass blonde pymp). She’s lovely until she realizes someone is taking money away from her. If the boys & girls don’t try to cheat, she’ll protect them and take care of them. She’ll fight anyone who disrespects her workers. And damn she can fight. She has a crossbow always near to threaten people if necessary.
