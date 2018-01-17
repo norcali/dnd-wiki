@@ -1,17 +1,7 @@
 ====== Session Zero ======
 
 Después de la cena, hablamos de scheduling, commitment y de las reglas de la DM para la nueva campaña:
-==== DM's rules ====
 
-  * **Lifespan** Acordado previamente o abierto a depender del tema. 
-  * **Level progression.** Mucho más lento, con milestones o con XP incluyendo roleplay y otros challenges. 
-  * **Más roleplay.** Fomentar in character interaction y character development.
-  * **Sistema de iniciativa.** Viejo con re-roll cada ronda o el nuevo? Hay demasiadas complicaciones y ajustes... Spells y habilidades, condiciones, todo diseñado para el sistema viejo. Se puede acelerar el otro sistema agrupando los bichos. 
-  * **Opciones y restricciones.**
-    * //Low magic.// La magia que experimentaron era un cuento de hadas. La realidad es más dura: el Estado controla los componentes de ciertos spells. Los items mágicos son cosas de los cuentos. Algunas familias tienen un item familiar, pero fuera de eso, sólo los reyes y los grandes personajes los poseen, o sólo se los encuentra perdidos en dungeons o en manos de poderosas criaturas. Hace mucho tiempo que nadie recuerda como hacer items mágicos. La gente sabe si hay un spellcaster en la ciudad a menos que se hayan tomado un trabajo muy fino para ocultarse, y nada por encima de nivel 3. Las pociones comunes de curación son factibles de encontrar en pocas cantidades en las grandes ciudades, donde sólo hay un alquemista que provee spell components y algunas common potions. 
-    * //Homebrews.// Only playtested and revised material from core rulebooks para los personajes de campaña. Para arenas y one-shots or otherwise stand-alone sessions, homebrews aprobados valen también. 
-    * //Ability scores.// No se rollea. Point buy system or array. Es para evitar de movida desbalances altos por suerte.  
-    * //Conflict avoidance.// Nada de evil alignment, evil-like characters. Los necromancers, warlocks, assassins y esos tienen que pasar por la DM primero. 
 
 ===== Notas =====
 
@@ -44,6 +34,28 @@ Terminar si se desconcentran, se aburren, se traban o discuten.
   * **Narrative:** Narrative-seekers like experiencing good stories. Stories that make sense. Stories that hit all the right beats. Stories that have tension and climaxes and denouements and all that crap. And man do these people get lost in the crowd. Sandbox play? Freeform play? Collaborative story-telling? Goalless dicking around having fun? That stuff KILLS the narrative-seeker. 
   * **Submission:** Submission refers to the fun we derive from just dicking around without too much thought. It’s unwinding. It’s chillaxing. It’s fooling around and not stressing about it. Submission-seekers are the players who sit back and ignore most of the game, but wake up for the mindless action. Those are the players who get bored when there is too much thinking and talking and not enough killing and looting. They are the ones who will act at random just to make something happen without thinking about the consequences. 
 
+==== DM's rules ====
+
+  * **Lifespan** Acordado previamente o abierto a depender del tema. 
+  * **Level progression.** Mucho más lento, con milestones o con XP incluyendo roleplay y otros challenges. 
+  * **Más roleplay.** Fomentar in character interaction y character development.
+  * **Sistema de iniciativa.** Viejo con re-roll cada ronda o el nuevo? Hay demasiadas complicaciones y ajustes... Spells y habilidades, condiciones, todo diseñado para el sistema viejo. Se puede acelerar el otro sistema agrupando los bichos. 
+  * **Opciones y restricciones.**
+    * //Low magic.// La magia que experimentaron era un cuento de hadas. La realidad es más dura: el Estado controla los componentes de ciertos spells. Los items mágicos son cosas de los cuentos. Algunas familias tienen un item familiar, pero fuera de eso, sólo los reyes y los grandes personajes los poseen, o sólo se los encuentra perdidos en dungeons o en manos de poderosas criaturas. Hace mucho tiempo que nadie recuerda como hacer items mágicos. La gente sabe si hay un spellcaster en la ciudad a menos que se hayan tomado un trabajo muy fino para ocultarse, y nada por encima de nivel 3. Las pociones comunes de curación son factibles de encontrar en pocas cantidades en las grandes ciudades, donde sólo hay un alquemista que provee spell components y algunas common potions. 
+    * //Homebrews.// Only playtested and revised material from core rulebooks para los personajes de campaña. Para arenas y one-shots or otherwise stand-alone sessions, homebrews aprobados valen también. 
+    * //Ability scores.// No se rollea. Point buy system or array. Es para evitar de movida desbalances altos por suerte.  
+    * //Conflict avoidance.// Nada de evil alignment, evil-like characters. Los necromancers, warlocks, assassins y esos tienen que pasar por la DM primero. 
+  * **Point buy:** Points to spend: 33
+
+^  Score  ^  Cost  ^  Score  ^  Cost  ^
+|  8      |  0     |  13     |  5     |
+|  9      |  1     |  14     |  7     |
+|  10     |  2     |  15     |  9     | 
+|  11     |  3     |  16     |  10    |
+|  12     |  4     |  -      |  -     |
+
+  * **Standard Array:** 16 - 14 - 13 - 12 - 10 - 8
+  * **Rolling for stats:** Stats in order, 4d6 drop the lowest. Anything below 6 = 6, anything over 16 = 16.
 
 ===== Línea temporal y cambios =====
 
@@ -67,24 +79,134 @@ La realidad es bastante parecida, pero con mucha menos magia, y desgraciadamente
   * Simulacrum - powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell
   * Symbol - mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes
   * True Resurrection - diamonds worth at least 25,000 gp, which the spell consumes
+
+
 ===== Shape & Glue =====
 
 Preferred shape: Plate of Meatballs - Noodle
 
 Preferred Glue: Common goal or organization/employer. Common motivations if not possible. Add, just in case, some common faith, ideals, origins or nationalities, and some relationships.
 
-===== Point buy =====
 
-Standard Array: 16 - 14 - 13 - 12 - 10 - 8
+===== Campaign ideas =====
 
-Points to spend: 33
+==== El misterio en la ciudad ====
 
-^  Score  ^  Cost  ^  Score  ^  Cost  ^
-|  8      |  0     |  13     |  5     |
-|  9      |  1     |  14     |  7     |
-|  10     |  2     |  15     |  9     | 
-|  11     |  3     |  16     |  10    |
-|  12     |  4     |  -      |  -     |
+      * //Son el cuerpo de fuerzas especiales de los Caminantes de la Luz, y se ocupan de resolver los problemas más graves con sus habilidades especiales.// 
+      * Es una campaña centradísima en una región/nación, transcurre en Haldrim (Pelor).
+      * Son witchers con el apoyo de una institución, se ocupan de asuntos diplomáticos tanto como de los bifes.
+      * Llevan **collares identificatorios** con una gema específica: Topacio Dorado, una gema conocida por sus conexiones a Pelor. Estos les permiten castear el cantrip Light, centrado en el collar, at will. Además, si hacen algo explícitamente malvado, les hacen daño radiant. 
+      * Tienen **autoridad** sobre los commoners y los comerciantes. Pero los comerciantes agremiados en guilds son un tema delicado: suelen terminar en lío. La iglesia prefiere ir en bloque cuando se trata de uno de ellos porque suelen tener amigos en el palacio. Los nobles les deben asilo y pan si se los piden, pero no demasiado más. Pueden pedirles un rato de charla y hacerles algunas preguntas, pero si los ofenden acusándolos pueden echarlos de la casa y sustraer donaciones de la iglesia. 
+      * Tienen **autonomía** casi absoluta; pero deben ir periódicamente (cada uno-tres meses) a dar un reporte de sus actividades, participar en un interrogatorio bajo una zone of truth, recibir su **salario** (una mensualidad además de los derechos de agarrar botín), sus próximas misiones y tal vez ser aconsejados. 
+      * **HQ:** la iglesia ofrece una torreta en el sector residencial de Fuerte Gris. Es segura, pero vieja, y tiene veinticinco mil problemas. Conlleva mantenimiento y suele oler mal. Tiene pocos muebles. Igualmente es un techo. 
+      * Les está permitido **ir encubiertos.**
+      * Les **entregan sus misiones** en una sala mal amueblada en una zona alejada del centro de la ciudad. No en la Iglesia, para evitar que los vean entrando y saliendo muy seguido. Lleva una enorme capucha que le tapa prácticamente toda la cara y no lleva sus ropas sacerdotales sino una túnica neutra en color claro. Es al atardecer, y les dicen cuándo tienen que ir por medio de un intermediario. 
+      * **Misiones pasadas:** 
+          * Descubrieron un sabotaje con bases ideológicas atacando la reputación de un noble como gobernante de Valegren.
+          * Solucionaron los problemas de goblins que tenía Venmor.
+      * **Código ético**
+          * Llevar la Justicia de Pelor a donde la luz de los Caminantes no llega.
+          * Servir al pueblo de Haldrim con honestidad.
+          * Respetar al Padre del Sol, sus símbolos, sus nombres y su imagen.
+      * **Sigla:** 
+          * F.E.O.S: Fuerzas Especiales Organizadas del Sol
+          * F.A.S.O: Falange Solar
+
+
+=== Arcos narrativos ===
+
+
+  * **Introducción: Task force en Fuerte Gris**
+      * Se roban un item mágico familiar poderoso.
+      * Desaparece una persona. Encuentran su cuerpo en la lair de unos monstruos (owlbears?), pero parece haber llegado ya muerto ahí.
+      * Duque Lucius Tyler y sus mambos con el hijo no reconocido sorcerer y la amante loca
+      * Rumores sutiles de una persona acting strange, but not too much.
+  * **The Girl with the Beaded Bracelet**
+      * She leads a series of heists to get gems needed to perform the ritual. They are carefully done so as not to attract more attention than needed.
+      * She threatens/kidnaps/injuries/murders the city's spellcaster. 
+      * With clues from the previous adventures, they can ID her and figure out where she is supposed to live. Her family suspects something. Confrontation & probably killing her, or bringing her in.
+  * **The Lieutenant**
+      * He's a noble, someone from the highest spheres. He's practically untouchable. Hungry for power and bored of laws and rules, he wants to serve a different master that'll provide differently. 
+  * **The Cult is out of the bag**
+      * //Once the party knows the Cult's intentions, they cannot warn the population because it'd rapidly turn into panic and exodus out of town.//
+      * The lead figures perform a pre-ritual which leads to a mass-suggestion sort of thing. It's basically help to recruit more people. 
+      * They break into the church to try and steal some of its resources. 
+      * They trick Fort Cliff's General into thinking the Maw is in imminent danger, so he will ask for backup forces and leave the city less guarded. 
+  * **The Ritual**
+      * The city starts to suffer from pre-ritual madness. It's darker, colder, and the residents are crankier.
+      * They need to find Cult HQ and stop the ritual after they've spent the materials, otherwise they risk someone escaping with the materials and performing the ritual while the party is fighting the remnant cultists. Trick: The Cult has several HQ. 
+      * The ritual has a fixed date, set by the demon. If they stop it, an ethereal avatar of the demon slowly disappearing will swear vengeance and laugh at their foolish attempt. He'll eventually find a group of idiots who will summon him, sooner or later. It's just a matter of time. In the mean time, he'll find a way to destroy THEM. 
+      * He'll send non-stop cursed items and monsters on them until they go find him in the Abyss. 
+  * **The Abyss, baby**
+      * No clue. Just evilness.
+
+
+==== La Peste ====
+
+  * //Una desesperante sucesión de cosechas enteras putrefactas tienen a la población en vilo. Los eruditos sospechan que puede estar relacionado a lo que destruyó a la Sanción Sureña hace casi medio siglo. ¿Será que el mismo destino le espera a Puerto Colossus y el sur de Haldrim? Una célula de operaciones especiales militares de Haldrim será enviada para hacer algo al respecto. //
+  * Es una campaña basada en el sur de Haldrim, con incursiones a la wilderness, pero siempre volviendo. No implica necesariamente toneladas de dungeon delving.
+  * Un **consejo de viejos eruditos** (uno es un fraude a lo Lockhart) discuten posibilidades, consultan bibliografía y aconsejan a la party. Proveen ciertos materiales también. 
+  * **Rangos militares:**
+    * Oficiales:
+      * Comandante en jefe (Rey/Reina)
+      * General
+      * Teniente General
+      * General de Brigada
+      * Coronel Mayor
+      * Teniente Coronel
+      * Mayor
+      * Capitán
+      * Teniente Primero
+      * Teniente Segundo
+      * Subteniente
+    * Suboficiales:
+      * Suboficial Mayor
+      * Suboficial Principal
+      * Sargento Primero
+      * Sargento Ayudante
+      * Sargento
+      * Cabo Primero
+      * Soldado de Primera
+      * Soldado de Segunda
+  * Tienen **autoridad** sobre commoners y comerciantes. Pueden hacer averiguaciones, detenciones, atrapar criminales, etc. Pero nada fuera de la ley. Aplican las mismas reglas para los comerciantes agremiados y los nobles.
+  * Llevan cada uno un **documento o pequeño objeto** (un poema, un dibujo, set de dados) que sirve de identificador si lo presentan ante alguien que sepa lo que busca. Todos hechos y firmados por un artista muy conocido sin lazos asociados al ejército. 
+  * La **información** que tienen es que hay varias cosechas podridas, a pesar del buen clima, sin rastros de plaga. Huelen mal y atraen moscas, no se pueden comer. No saben por qué. Sospechan de __**"La Peste".**__ Le dicen así a la fuerza letal que borró del mapa a la Sanción Sureña hace treinta años. Temen porque así comenzó. La gota que colmó el vaso fue el reporte de varias personas enfermas sin causa aparente. 
+  * Deben ir **encubiertos** por si hay infiltrados. Pueden revelar sus identidades sólo a oficiales militares de alto rango con conductas ejemplares que han sido vigilados últimamente. 
+  * El ejército provee **financiamiento** a modo de dinero para sus gastos, una casita en los muelles de Puerto Colossus y los derechos de tomar cualquier botín hallado.
+  * **HQ** en Puerto Colossus consiste en una casita pequeña arriba de un negocio de elementos marítimos de una señora muy viejita. La señora no los quiere al principio, menos si vienen a altas horas de la noche o hacen ruido. Ella vive atrás y puede ver si hacen cosas raras. 
+  * Tienen que pensar una buena cover story, el ejército proveerá documentos falsos para hacerla creíble y ayudará si hay que comprar cosas.
+
+=== Arcos narrativos ===
+
+  * **Llegada a Narkeep**:
+      * Vienen desde Fuerte Cliff. Ven las cosechas y el suelo apestado, que si cavan está igual. Cada día tienen 1% de enfermarse al tomar agua apestada. 
+      * Un guardia cree que son sospechosos y los antagoniza. Trata de agarrarlos con otros guardias y pueblerinos. Sobre todo si ve que mienten.  
+      * Encuentran algunos tipos shady pero los descartan. No parece haber infiltrados. Introducir NPCs queribles.
+      * Someone (or maybe a whole lot of people) are raised from the dead!
+      * Alguien se pierde en el quilombo.
+  * **Puerto Colossus** 
+      * Escuchan un poco de info de la charla entre los viejos. Discuten entre ellos, se desdicen, tienen distintas versiones y teorías. Planear la convo.
+      * Detectar a Lockhart en el grupo y al pelotudo que lo trajo.
+      * La Iglesia de Selune ha tratado ya gente enferma. Allí pueden ir a investigar. El/La cleric es un NPC ultra querible, complejo. 
+      * Encuentran pistas y determinan que la enfermedad proviene del agua. 
+      * Bonding with the town sort of missions.
+  * **Recon, short for reconnaissance**
+      * Yes, there are undead. Pero **¿cuántos? ¿dónde andan mayormente? ¿quién los comanda?**
+      * Respuesta: DEMASIADOS. Incontables. Miles. Se mantienen en las ciudades y pueblos humanos, y algunos apostados en la frontera. Los comanda un "sargento" undead regional. En tres de las ciudades hay un Inefable. Y en la isla, Kaleth-varr. 
+      * Si se toman el trabajo de hablar con los que pueden hablar, están orgullosos de ella. Ella no quiere que anden diciendo muy rápido que es una lich, pero les dio un nombre que pueden decir. Kaleth-varr, TITULOS TITULOS TITULOS!. Esos títulos son reconocibles con un chequeo muy difícil de Historia o Arcana. Son similares a los de otros liches, siguiendo un patrón. Kaleth-varr también //rings a bell//. A alguien le suena conocido. Envían un sending a la Iglesia de Ioun para que envíen toda la info que tengan. La Iglesia sólo tiene 1 sending diario. Van mandando de a pedacitos la información. 
+  * **Go get allies, boy**
+      * Go talk to the druid circle, the goliaths, the dragonborn, the Ban Tuur, the forest beings and fey creatures that live in the woods. Any order you want. Maybe take a long shot and ask the elves if they can spare any archers. 
+      * Cada vez que pasen por la ciudad, introducir NPCs muy queribles.
+  * **Let the hunt begin!** 
+      * Los aliados ayudan recuperando pequeños bastiones, asegurando la frontera y ayudando al éxodo de Narkeep.
+      * Chase the three parts of the phylactery while the ineffables chase you. Fun times!
+      * La Iglesia de Ioun provee algo de info. Kaleth-varr era una archidruida, la más poderosa de todas. Vivía caminando por Celeth, restaurando el balance de la naturaleza ante cualquier fuerza destructora. Sólo tienen cuentos y leyendas sobre ella, cosas mitológicas y fantásticas.
+      * Los eruditos miran en tomos polvorientos llenos de actas de reuniones diplomáticas de hace casi cincuenta años. En uno de ellos, se nombra a Kaleth-varr. El acta dice que se reunieron algunos duques, condes y los mismos reyes a debatir el planteo hecho por la archidruida recientemente: ella estaba severamente preocupada por su intención de destruir el bosque para asentar sus reinos. Los veía encender fuegos para clarear espacios, talar magníficos árboles viejos... Les daba miedo su poder, pero por más poderosa que fuera, siendo solo una no iba a poder con sus ejércitos. Así que continuaron. Ella no discutió y la última vez que se la vio fue internándose en el bosque al noreste. 
+      * Ella tratará de crear más lieutenants para combatir la amenaza que representa la party. 
+      * En los "mitos y leyendas" dismissed por la Iglesia hay más pistas de lo esperado. Posibles phylacteries, apariencia en vida, ubicaciones famosas: waterfalls, trees, caves... Pero hay mucho más de tres. Pueden deducir que son tres porque hay tres inefables y tres reinos humanos destruidos. 
+  * **Final assault: Taking on Kaleth-varr**
+      * Tiene una lair en la isla montañosa con multiple escape routes. Tiene gigantes de su lado, a los que convenció de que si no serán invadidos por pequeños demonios con armas y fuego. 
+
 
 
 

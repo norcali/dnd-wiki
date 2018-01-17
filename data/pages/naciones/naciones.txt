@@ -9,6 +9,7 @@
     * [[Meriah:Naciones:Ardenia:Falworth | Falworth]]
     * [[Meriah:Naciones:Ardenia:ViejoRoble | Viejo Roble]]
   * [[Meriah:Naciones:BanTuur | Ban Tuur]]
+  * [[Meriah:Naciones:Halfling | Beluir]]
   * [[Meriah:Naciones:Cardus]] 
     * [[Meriah:Naciones:Cardus:Cardusciudad | Cardus (Ciudad Capital)]]
     * [[Meriah:Naciones:Cardus:Bridle | Bridle]]
@@ -19,7 +20,7 @@
     * [[Meriah:Naciones:Haldrim:Fuertegris | Fuerte Gris (Capital)]]
     * [[Meriah:Naciones:Haldrim:Fuertecliff | Fuerte Cliff]]
     * [[Meriah:Naciones:Haldrim:Kent | Kent]]
-    * [[Meriah:Naciones:Haldrim:Bifurcada|La Bifurcada]]
+    * [[Meriah:Naciones:Haldrim:CaminanteGris| El Caminante Gris]]
     * [[Meriah:Naciones:Haldrim:Narkeep | Narkeep]]
     * [[Meriah:Naciones:Haldrim:Pallem | Pallem]]
     * [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]]
@@ -58,7 +59,7 @@
     * [[Meriah:Naciones:Zir:Kelrix | Kelrix]]
     * [[Meriah:Naciones:Zir:Rezma | Rezma]]
     * [[Meriah:Naciones:Zir:AkbarMina | Akbar Mina]]
-  * [[Meriah:Naciones:Halfling | Zudrak]]
+
 
 
 ===== Kaelaz =====

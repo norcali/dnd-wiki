@@ -5,9 +5,7 @@
 ===== Current Prep =====
 
 [[dmonly:zero| Session Zero]]
-===== Adventure Archives =====
 
-  * [[dmonly:adventure:wards|Wards of the Last Emperor]]
 
 
 ===== Random names =====
@@ -21,6 +19,37 @@
   * [[dmonly:random:Exotic]]
   * [[dmonly:random:Gnome]]
   * [[dmonly:random:Halfling]]
+
+
+
+===== Organizaciones =====
+
+  * [[dmonly:org:ioun|Iglesia de Ioun]] (Mo'raz)
+  * [[dmonly:org:susurro|El Susurro]] (Ardenia)
+  * [[dmonly:org:caminantesluz|Caminantes de la Luz]] (Haldrim)
+  * [[dmonly:org:achaldrim| Asociación de Comerciantes]] (Haldrim)
+  * [[dmonly:org:exiliados|Los Exiliados]] (Haldrim) 
+  * [[dmonly:org:harpers|Harpers]]
+  * [[dmonly:org:enesmeralda|Enclave Esmeralda]]
+  * [[dmonly:org:pansofico|Pansófico Arcano]] 
+  * [[dmonly:org:arsamet|Ars Amet]]
+  * [[dmonly:org:verndari|Verndari]]
+  * [[dmonly:org:ordenmajestad|La Orden de su Majestad]] (Strand)
+  * [[dmonly:org:virus|Virus]] (Haldrim)
+  * [[dmonly:org:horda|La Horda]] (Lugar donde se haga la campaña)
+
+===== Criaturas importantes =====
+
+  *  Ancient Red Dragon in a cave inside the asteroid crater. Below him sleeps the Tarrasque.
+  *  Female Adult Blue Dragon in the south mountains. She destroyed Throm years ago, feeling them to be too close.
+  *  Female Ancient Silver Dragon in Lu’ev forest, interacting with the elves in a different shape, mostly an elderly, cheerful elf.
+  *  Ancient Brass Dragon in the NorthEast of Zir.
+  *  Adult Bronze Dragon in a big cave (SouthWest coast of Meriah).
+  *  Ancient Black Dragon in the swamp North of Cardus, in the ruins of a pre-cataclysmic empire.
+  *  Rocs dwell North of Mo'raz and the nearby islands.
+  *  Storm Giants among the mountains in the North, in the other side. 
+  *  Female Ancient Gold Dragon in the grasslands of Crassan. Shapechanged, it interacts with the halflings of Beluir.
+  * Nightfuries live in the high cold mountains. They are seldom seen. 
 
 ===== Monster stat block template =====
 ___
@@ -51,43 +80,7 @@ ___
 > ### Actions
 > ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 
 >
-> ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit*
-
-===== Organizaciones =====
-
-  * [[dmonly:org:ioun|Iglesia de Ioun]]
-  * [[dmonly:org:cancionsecreta|Colegio de la Canción Secreta]]
-  * [[dmonly:org:caminantesluz|Caminantes de la Luz]]
-  * [[dmonly:Organizaciones:guardianessangre|Guardianes de la Sangre]]
-  * [[dmonly:Organizaciones:asociacióncomercianteshaldrim| Asociación de Comerciantes]]
-  * [[dmonly:Organizaciones:ordenpaz|Orden de la Paz]]
-  * [[dmonly:Organizaciones:exiliados|Los Exiliados]]
-
-
-
-===== Circles of Teleportation =====
-
-  *  **Portbeak** casi público; cualquier persona con magia y algo de dinero consigue la runa. Está en las afueras, en un edificio protegido por una pequeña milicia.
-  *  **Mozgani** La runa la guarda la Iglesia de Ioun, que tiene un pequeño outpost a unos kilómetros de la ciudad con una milicia. 
-  *  **Arden** En una sala muy privada del Maestro Trovador Cristoph. Muy secreto. Ahí aparecen sus mejores espías.
-  *  **Fuerte Gris** Súper híper privado, de la princesa Miranda. 
-  *  **Ziris** En la sala de reuniones del Concilio. Votan para darle a runa a una persona.
-  *  **Vellardin** Ya no lo utilizan y no desean que nadie lo haga; casi imposible obtener la runa.
-  *  **Falassë** No es precisamente secreto pero tampoco lo obtiene cualquiera. Hay un Guardián que cuida la runa, custodiado por una guardia.
-  *  **Korim** No es precisamente secreto pero tampoco lo obtiene cualquiera. Dos representantes de cada casa deben aprobar al solicitante.
-
-===== Criaturas importantes =====
-
-  *  Ancient Red Dragon in a cave inside the asteroid crater.
-  *  Female Adult Blue Dragon in the south mountains. He destroyed Throm years ago, feeling them to be too close.
-  *  Female Ancient Silver Dragon in Lu’ev forest, interacting with the elves in a different shape, mostly an elderly, cheerful elf.
-  *  Ancient Brass Dragon in the NorthEast of Zir.
-  *  Adult Bronze Dragon in a big cave (SouthWest coast of Meriah).
-  *  Ancient Black Dragon in the swamp North of Cardus, within the ruins of the biggest palace the Scahat Imperium had.
-  *  Rocs dwell North of Mo'raz and the nearby islands.
-  *  Storm Giants among the mountains in the North, in the other side. 
-  *  Female Ancient Gold Dragon in the grasslands between Crassan & Zy'an. Shapechanged, it interacts with them.
-  * Nightfuries live in the high cold mountains. They are seldom seen. 
+> ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 
 
 ===== Colinas Shoussai =====
 
@@ -156,6 +149,12 @@ Los orcos solían ser una raza tranquila, que no molestaba a nadie que no se met
 ===== V'ael =====
 
 Debajo del bosque yace Basharix, una dragona esmeralda más antigua que el tiempo. Cuando su pareja, Raxis, murió, ella entró en su Gran Sueño y sus lágrimas de pena crean la indisipable niebla que cubre el bosque. Los elfos no saben de su existencia, sino que protegen y veneran al bosque.
+
+===== Adventure Archives =====
+
+  * [[dmonly:adventure:wards|Wards of the Last Emperor]]
+
+
 
 
 

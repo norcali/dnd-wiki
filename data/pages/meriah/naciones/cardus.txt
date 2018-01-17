@@ -1,6 +1,6 @@
 ====== Cardus ======
 
-[[dmonly:nations:cardus|DM only info]]
+[[dmonly:nations:cardus|DM Only]]
 
 {{ :meriah:naciones:escudo_cardus.png?nolink&200|}}
 

@@ -1,5 +1,12 @@
 ====== Waldren ======
 
+  *  **Carpinterías.** Hay unas cuantas, con distintas especializaciones y targets de venta.
+  * ** Herrería.** Una sola, donde aprovechan el hierro que logran sacar de la única mina que tienen muy lejos y compran metales a mercaderes. También hacen mangos para distintas herramientas de acero ziraniano.
+  *  **Posada/taberna "El Héroe"** (5 puntos). Ni un lujo, menos en época de escasez. Comidas simples con un poco de sal que las hace más pasables, limpieza medio pelo, atención algo hosca por parte de una viejita arrugada que se mueve lento y usa a un pibe para hacer las cosas más rápido.
+  *  **Mueblerías.**  Hay unas cuantas, con distintas especializaciones y targets de venta.
+  *  **Sastrería.** Una sola pero muy buena, hace cosas para toda necesidad.
+  *  **Templo de Helm.** Una gran construcción de madera con un bellísimo ojo abierto tallado en el frente, muy cálido dentro, donde siempre hay un sacerdote despierto cuidando y atendiendo gente. Solía estar más concurrido, desde que hay más guerra y un priest de Tempus perdió influencia.
+
 =====  Lord Logan Rosenfeld =====
 
    * M - Humano - 45 - 1.90/stocky

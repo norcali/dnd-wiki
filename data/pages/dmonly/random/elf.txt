@@ -1,0 +1,16 @@
+====== Random Elven Names ======
+
+^  Female      ^  Neutral     ^  Male        ^
+|  Miriel      |  Esgal       |  Nibenor     |
+|  Caunien     |  Golben      |  Núron       |
+|  Feriel      |  Sero        |  Inuon       |
+|  Sileves     |  Berior      |  Gollor      |
+|  Árbes       |  Ivor        |  Thandirion  |
+|  Rîlel       |  Taw         |  Gaerdar     |
+|  Tharnel     |  Camben      |  Lûthanar    |
+|  Candis      |  Maethor     |  Laston      |
+|  Inien       |  Trîw        |  Ganedir     |
+|  Nemirel     |  Groth       |  Aerdor      |
+|  Hithes      |  Dilloth     |  Tinuir      |
+|  Nestriel    |  Herior      |  Miwon       |
+|  Deliriel    |  Lûthben     |  Randir      |

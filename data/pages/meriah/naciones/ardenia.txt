@@ -1,6 +1,6 @@
 ====== Ardenia ======
 
-[[dmonly:nations:ardenia|DM only info]]
+DM Links: [[dmonly:nations:ardenia|Info]] | [[dmonly:random:human|Tables]]
 
 {{ :meriah:naciones:escudo_ardenia.png?nolink&200|}}
 

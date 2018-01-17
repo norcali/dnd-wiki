@@ -1,0 +1,45 @@
+====== Random tabaxi names ======
+
+^  Nombre completo            ^  Sobrenombre  ^
+|  Tinta Negra                |  Tin          |
+|  Pequeña Flor               |  Flor         |
+|  Seis Chispas               |  Chis/Seis    | 
+|  Rugido de Oso              |  Oso          |
+|  Cielo Nublado              |  Cielo        |
+|  Trueno Vibrante            |  Trueno/ Ru   |
+|  Nieve de Montaña           |  Nieve        |
+|  Verde de Jungla            |  Verde        |
+|  Sombra Fugaz               |  Sombra       |
+|  Arroyo Silencioso          |  Arroyo/ Ro   |
+|  Luz de Luna                |  Luz          |
+|  Pluma en el Viento         |  Pluma/ Uma   |
+|  Sol de la Mañana           |  Sol          |
+|  Rocío de Verano            |  Rocío/Ro     |
+|  Canción en el Viento       |  Viento       |
+|  Viento de Primavera        |  Prim         |
+|  Manjar de Verano           |  Verano       |
+|  Colmillo de Serpiente      |  Colmillo     |
+|  Rayas de Tigre             |  Rayas        |
+|  Corriente de Agua          |  Agua         |
+|  Costa Calma                |  Costa        |
+|  Fuego Ardiente             |  Fuego        |
+|  Tormenta de Verano         |  Tormenta     |
+|  Hoja Caída                 |  Hoja         |
+|  Pimpollo Nuevo             |  Pim          |
+|  Brisa Fresca               |  Brisa/Bri    |
+|  Niebla Matinal             |  Niebla       |
+
+^  Clan names                 ^
+|  Neblina nocturna           |
+|  Monzón cambiante           |
+|  Lluvia torrencial          |
+|  Madera clara               |
+|  Silencio salvaje           |
+|  Árboles serenos            | 
+|  Rocas musgosas             | 
+|  Agua plácida               |
+|  Viento cantante            |
+|  Fuego etéreo               |
+|  Bosque floreciente         |
+|  Ramas susurrantes          | 
+|  Hojas frescas              | 

@@ -1,12 +1,24 @@
 ====== Kent DM only ======
 
-El problema es que los tres nobles bajo su comando están en contra de Miranda y sabotean todo lo que pueden, wreaking havoc by hiring bandits and mercenaries, bribing cops to ignore crime, así la gente se mantiene descontenta y desea que alguien tome el lugar del Duque.
 
-Los saboteadores son:
+ * Pueblo. 600 aprox., mostly humans. Some half-orcs.
+  *  Economía. Se beneficia del comercio entre Ardenia y Haldrim, y se alimenta con agricultura y ganadería. Tres posadas de distintos targets. 
+  *  Regente. Duque, Lord Lucius Tyler
+  *  Puntos de interés. Templo de Helm, Fuente labrada en medio del pueblo, mercado de pulgas alrededor.
+  *  Religión.  Helm (Protection), because of dangerous roads and travel per se.
+  *  Ejército. Quite strong due to close border with orcs and Ardenia. Bandits.
 
-Baronet Connor Peyton
-Caballero Randall Garret
- Vizconde Stefan Cantrell de Valegren (now dead)
+====  Negocios ====
+
+  * Posada El Cuerno Negro (4 puntos): Atendida por Rodney Aterberry, un tipo grandote y hosco, sucio y medio gruñón, que cocina bastante mal.
+  * Posada El Peregrino (7 puntos): Atendida por Sam Harris, un tipo de unos 40-50 años, gordito y súper amigable, que cocina de puta madre con lo que tiene y suele regalar algunas cosas cuando puede.
+  *  Posada La Estrella (10 puntos): Comida siempre sazonada con sal, colchones de pluma, todo siempre impecable y atención excepcional por parte de Padma y Reena Singh. 
+  *  Sastre
+  *  Feria de alimentos (verduras, huevos, carne, pan, especias, algo de sal) y objetos varios 
+  *  Herrería (Armas, armaduras, utensilios)
+  *  Herrería (Herraduras y equipamiento de viaje)
+  *  Constructores de carretas, carros y carruajes
+  *  Establos y riding posts
 
 ===== NPCs =====
 
@@ -27,9 +39,10 @@ Parte de su manía nerviosa es que “todo tiene que estar en su lugar y en el n
 Se arranca pelos de la cabeza porque son demasiados y no tienen que estar ahí. 7 sillas alrededor de la mesa, 4 vasos arriba de la mesa, y en todo momento tiene que tener 3 monedas en la mano izquierda y una en la derecha, porque si no “algo terrible puede pasar”. Se la pasa contando cosas invisibles.
 
 El hijo la tiene guardadita en una cabaña alejada en el bosque. La visita todo el tiempo, y la trata con mucho amor. Tienen una sirvienta vieja alemana súper tough que a veces la convence de que tiene el número correcto de pestañas.
+
 Quiere usar la plata para contratar más sirvientes y darle una casa más grande, y buscar gente que la pueda curar. Indefinite madness→ sólo un greater restoration o algo más poderoso podría curarla. Si le dan una casa, oro y la curan se va a quedar contento.
 
-Él es un wild magic sorcerer, ilusionista, supporter fanático de Miranda hasta la locura. Súper resentido, temperamental, con tántrums que provocan outbursts de magia.
+Él es un wild magic sorcerer. Súper resentido, temperamental, con tántrums que provocan outbursts de magia.
 
 ===  Duquesa- Lady Arline Tyler ===
 

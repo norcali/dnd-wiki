@@ -1,33 +1,23 @@
 ====== Kent ======
 
-[[dmonly:settlements:dmkent|DM only info]]
+DM Links: [[dmonly:settlements:dmkent|Info]] | [[dmonly:random:human|Tables]]
 
 =====  Datos =====
 
-  * Pueblo. 1.5k aprox., mostly humans. Some half-orcs.
-  *  Economía. Se beneficia del comercio entre Ardenia y Haldrim, y se alimenta con agricultura y ganadería. Tres posadas de distintos targets. 
-  *  Regente. Duque, Lord Lucius Tyler
-  *  Puntos de interés. Templo de Helm, Fuente labrada en medio del pueblo, mercado de pulgas alrededor.
-  *  Religión.  Helm (Protection), because of dangerous roads and travel per se.
-  *  Ejército. Quite strong due to close border with orcs and Ardenia. Bandits.
-  *  Crimen - corrupción. Lots of forgery, thieves, and scams.
-  *  Cualidad única. La fuente y el Andrath que pasa casi por el centro del pueblo.
-
-=====  Clima político-social =====
-
-El Duque Lucius Tyler está a favor de Miranda. Los conservadores están descontentos, se rumorea que su esposa es una magic user. Nadie se atreve a cuestionarlo directamente. Ni olvida ni perdona. Aún así, es buena persona y se ocupa bien del pueblo. 
-
+  * **Pueblo.** Aproximadamente 600 habitantes.
+  *  **Economía.** Se beneficia del comercio entre [[meriah:naciones:Ardenia]] y [[meriah:naciones:Haldrim]], y se alimenta con agricultura y ganadería. 
+  * **Regente.** Duque, Lord Lucius Tyler
+  *  **Puntos de interés.** Templo de [[Panteón:Helm]], Fuente labrada en medio del pueblo, mercado alrededor.
+  *  **Religión**.  [[Panteón:Helm]], debido a los peligros de los viajes y los bandidos. 
 
 ====  Negocios ====
 
-  * Posada El Cuerno Negro (4 puntos): Atendida por Rodney Aterberry, un tipo grandote y hosco, sucio y medio gruñón, que cocina bastante mal.
-  * Posada El Peregrino (7 puntos): Atendida por Sam Harris, un tipo de unos 40-50 años, gordito y súper amigable, que cocina de puta madre con lo que tiene y suele regalar algunas cosas cuando puede.
-  *  Posada La Estrella (10 puntos): Comida siempre sazonada con sal, colchones de pluma, todo siempre impecable y atención excepcional por parte de Padma Singh, una morocha que se parte al medio.
+  * Posada "El Cuerno Negro"
+  * Posada "El Peregrino"
+  *  Posada "La Estrella"  
   *  Sastre
-  *  Feria de alimentos (verduras, huevos, carne, pan, especias, algo de sal) y objetos varios 
-  *  Herrería (Armas, armaduras, utensilios)
-  *  Herrería (Herraduras y equipamiento de viaje)
-  *  Constructores de carretas, carros y carruajes
+  *  Feria de alimentos
+  *  Herrería
   *  Establos y riding posts
 
  

@@ -1,10 +1,51 @@
 ====== Fuerte Gris ======
 
+
+DM Links [[dmonly:settlements:dmfuertegris|Info]] | [[dmonly:random:human|Tables]]
+
+
 =====  Datos =====
-  * **Ciudad capital.** 12k aprox, humanos, half-orcs y algunos orcs. Algún enano o elfo aislado. 
-  *  **Economía.** Pescan en el río y la laguna cercana, talan los bosques y cultivan. Además, sirven de centro de comercio.
-  *  **Geografía.** Pequeño llano entre el acantilado, abastecido por el lago y el río, en un área muy fértil. 
-  *  **Regente.** Reina Miranda III, hija de Cyro I el Gris.
-  *  **Puntos de interés.** Torre Púrpura, Catedral de [[Panteón:Pelor | Pelor]], Castillo Gris.
+
+  * **Ciudad capital.** Doce mil almas aproximadamente. Mayormente humanos, algunos half-orcs, y muy pocos orcos puros, tieflings y aasimar.
+  *  **Economía.** Pescan en el río y la laguna cercana, talan los bosques y cultivan. Además, sirven de centro de comercio para la parte sur del continente.
+  *  **Geografía.** Pequeño llano entre el acantilado y las colinas, abastecido por el lago y el río, en un área muy fértil. 
+  *  **Regente.** Rey Cyro I el Gris.
+  *  **Puntos de interés.** Catedral de [[Panteón:Pelor | Pelor]], el Castillo Argénteo y el Coliseo.
   *  **Religión.** [[Panteón:Pelor | Pelor]]. 
+
+
+===== Sectores de la ciudad =====
+
+  * **Entradas y salidas.** Existen tres puertas para entrar y salir de la ciudad.
+      * //Puerta del Sol.// La entrada Este de la ciudad, la más utilizada por comerciantes y viajantes, y la más custodiada.
+      * //Puerta del Viento.// La entrada Oeste, por la que entran los vientos del Lago Ailin.
+      * //Puerta del Agua.// La salida Norte y la más cercana al río Ambo'nen, de donde la gente saca agua. 
+  * **Ferias de vegetales, cereales y carnes.** Situadas en la calle que lleva a la Puerta del Viento.
+  * **Distritos comerciales.** Alrededor de la fuente de agua potable de la ciudad. 
+     * //Herrería y Joyería.//
+     * //Madera y Carpintería.//
+     * //Sederías, Sastrerías y costureras/os.//
+     * //Peletería.//
+     * //Otros negocios varios// Ink and paper, salt, apothecary etc.
+     * //Distrito de servicios// Escriba, construcción, médico, mensajero,etc.
+     * //Posadas.// Están a ambos lados de la calle principal, la de la Puerta del Sol. 
+        * "La Baronesa Blanca"
+        * "El Mensajero"
+        * "La Daga de Plata"
+     * //Posadas-Taberna.// 
+        * "El Ángel"
+        * "El Ermitaño" 
+        * "El Hipogrifo Desplumado"
+        * "El Escarbadiente"
+     * //Bourdeles.//
+        * "La Luna"
+        * "La Dríada"
+  * **Barrios trabajadores.** Ubicados al Noroeste de la ciudad.
+  * **Barrios ricos y mansiones burguesas.** Ubicados al Sureste de la ciudad, cerca de la Puerta del Sol. 
+  * **Catedral de Pelor.** Un magnífico edificio de piedra blanca con estatuas bañadas en oro que destellan a la luz del Sol. 
+  * **Coliseo.** Un complejo deportivo donde se hacen eventos semanales: carreras de caballos, juegos de Pirámide, competencias de atletismo (carrera de 100, 200, 1000 metros y maratón, salto en largo y en alto, lanzamiento de bala, jabalina y disco, etc.) y luchas de gladiadores.
+  * **Fuerte Gris.** La fortaleza original donde ahora residen los cuarteles del ejército. Sólida, alta e impenetrable.
+  * **La Ciudadela.** En ella están las mansiones de la corte del Rey y el mismo Castillo Argénteo, todos protegidos por una segunda muralla, en una elevación del terreno, mirando a la ciudad desde lo alto. 
+  * **Castillo Argénteo.** El Palacio del Rey y la Familia Real. 
+
 

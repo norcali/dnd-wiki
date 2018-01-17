@@ -1,0 +1,13 @@
+====== Fuerte Gris ======
+
+{{ :dmonly:settlements:mapa_fuerte_gris.png?nolink&600 |}}
+
+  * **Ferias de alimentos**
+  * **Herrería**
+  * **Joyería** Uno solo tiene siquiera alguno de los materiales prohibidos. Pero lo niega a todo mundo excepto clientes asiduos, e incluso a ellos bajo altos chequeos de Persuasión. 
+  * **Madera y carpintería**
+  * **Sederías**
+  * **Sastrerías y costureras/os**
+  * **Peletería**
+  * **Otros negocios (Ink and paper, salt, etc.)**
+  * **Distrito de servicios (Escriba, construcción, médico, mensajero,etc.)**

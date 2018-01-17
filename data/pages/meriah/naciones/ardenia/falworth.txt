@@ -1,14 +1,14 @@
 ======  Falworth ======
 
-[[dmonly:settlements:falworth]]
+DM Links: [[dmonly:settlements:falworth|Info]] | [[dmonly:random:human|Tables]]
 
 =====  Datos =====
  
-   * **Pueblo.** 1.500 habitantes (más que nada humanos, algunos enanos. 
+   * **Pueblo.** 1.500 habitantes más que nada humanos, algunos enanos. 
   *  **Economía.** Producción de telas, comercio de gemas y metales enanos. Plantaciones de algodón y lino, producción de sedas. Producción de alimentos de supervivencia (carne vacuna-porcina, frutas-granos).
   *  **Geografía.** Se ven las montañas desde la ciudad. Toda la zona es más ondulada, llena de colinas y valles.
-  *  **Regente.** (Noble) Condesa Marguerite André.
-  *  **Puntos de interés.** Campo de cricket (deporte de los ardenos por afano), el gran jacarandá en el centro del pueblo, alrededor del cual se construyó todo.
+  *  **Regente.** (Noble) Condesa,  Ilustrísima Señora Doña Marguerite André.
+  *  **Puntos de interés.** Campo de cricket, el gran jacarandá en el centro del pueblo, alrededor del cual se construyó todo.
   *  **Religión.** [[Panteón:Sune | Sune]] 
 
 =====  Ejército. =====
@@ -21,14 +21,14 @@ Los orcos raidean las ciudades ardenas con frecuencia, porque su tratado sólo s
 
 =====  Negocios =====
 
-  *  **Posada "La Casa Escarlata"** (8 puntos). Pintada de ese color, bien puesta, limpia, pero no la gran cosa. Atendida por una pareja de hombres muy prolijos y amorosos. No funciona como taberna, no hay borrachos ni ruidos molestos, which is nice. 
-  * **Taberna "El Cáliz".** Siempre atendida por señoritas preciosas con poca ropa que también pueden prestar otros servicios (wink wink ). Dirigida por un bartender-pymp que cuida mucho toda su mercadería. Voz rasposa, fuma puros.
-  *  **Mercado.** Sombreros, guantes, zapatos, cinturones, bolsos, juguetes, comida de todo tipo, escobas, instrumentos, papel-tinta-lacre-plumas. Algunos objetos mágicos y trinkets spreaded around the place.
-  *  **Sederías.** Hay cinco, con centros de operación en las afueras y negocios en el pueblo. Algunas se dedican al algodón-lino, otras a las sedas. 
-  *  **Sastres** Hay al menos diez sastres y otros tantos costureros, todos de distintos targets de venta y distintos materiales utilizados.
-  *  **Herrería.** Una sola herrería produce lo que no llega de Korim, o lo que es más barato producir que comprar.
-  *  **Joyas y productos enanos.** Algún item common, uncommon y uno o dos rare. Caros, algunos carísimos.
-  *  **Salón de belleza.** Peluquería, manicuría, pedicuría, cremas, perfumes, maquillaje, pigmentos, pelucas, esas cosas.
-  *  **Vidrios y cristales.** Funcionales o decorativos, ventanas, frascos, botellas, floreros, copas, cálices...
+  *  **Posada "El Alabastro"** 
+  * **Taberna "El Cáliz".** 
+  *  **Mercado.** 
+  *  **Sederías.**  
+  *  **Sastres** 
+  *  **Herrería.** 
+  *  **Joyas y productos enanos.** 
+  *  **Salón de belleza.** 
+  *  **Vidrios y cristales.**
 
 

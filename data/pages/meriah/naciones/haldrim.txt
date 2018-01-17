@@ -1,13 +1,17 @@
 ====== Haldrim ======
 
-El reino humano más grande de la actualidad, con más recursos que todos los demás y la salida al océano conquistada, controla puntos territoriales estratégicos y tiene recursos de sobra. Su mayor problema es que la estabilidad de su gobierno está socavada por el miedo, la venganza y el odio. 
+El reino humano más grande de la actualidad, con más recursos que todos los demás y la salida al océano conquistada, controla puntos territoriales estratégicos y tiene recursos de sobra. Su mayor problema es la inminente muerte del rey y el conflicto de sucesión que vendrá después.
 
 {{ :meriah:naciones:escudo_haldrim.png?nolink&200|}}
+
 ===== Historia =====
+
 El [[Meriah:Naciones:Haldrim:npc:Cyro|Rey Cyro I el Gris]] hizo una tregua con los orcos del norte (la paz a cambio de paso a [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]]), resultando en que su mejor capitán de legión, [[Meriah:Naciones:Haldrim:npc:Sethis]], desertara a las [[Meriah:Geografía:Meredrar | Colinas Meredrar]] en mortal desacuerdo y se convirtiese en el Líder de [[Meriah:Organizaciones:exiliados|Los Exiliados]].
 Muchos, muchísimos Half Orcs en la zona. No es imposible encontrar orcos puros en esta zona que han buscado asilo al ser expulsados de la tribu.
 
-Recientemente, el [[Meriah:Naciones:Haldrim:npc:Cyro|Rey Cyro I el Gris]] falleció a los 92 años. Luego de una agresiva enfermedad, su hija mayor, la princesa [[Meriah:Naciones:Haldrim:npc:Elise]], murió. La siguiente en la línea sucesoria, y la que tomó el trono, fue la princesa (ahora Reina) [[Meriah:Naciones:Haldrim:npc:Miranda]].
+El Rey ha reinado ya por muchos años y ha llevado a su gente a través de muchos inviernos duros, pero a sus 90 años no se puede esperar que viva para siempre. Y en el evento de su muerte, su falta de descendencia viva continúa siendo la mayor falencia de su reinado. 
+
+Durante su vida, la Reina Margarita dio a luz a un príncipe, que nació ya sin vida. No tuvo otros hijos o hijas. Hace alrededor de una década, la Reina falleció luego de una larga enfermedad. 
 
 ===== Economía =====
 
@@ -25,7 +29,7 @@ Tierra fértil, un lago de agua dulce, montañas y colinas, bosque y océano.
 
 ===== Política =====
 
-  *  [[Meriah:Naciones:Haldrim:npc:Miranda|Reina Miranda III]], hija de Cyro I el Gris, y un Concejo Deliberante:
+  * [[Meriah:Naciones:Haldrim:npc:Cyro|Rey Cyro I el Gris]], y un Concejo Deliberante:
     *  Cámara Alta del Concejo (Duques)
     *  Cámara Media del Concejo (Marqueses, Condes, Barones)
     *  Cámara Baja del Concejo (Burgueses y mercaderes ricos)
@@ -65,7 +69,7 @@ Metales y joyas enanas, sal.
 
 ====  Esclavitud ====
 
-La esclavitud está prohibida desde el comienzo del reinado de [[Meriah:Naciones:Haldrim:npc:Cyro|Cyro I el Gris]], que la considera barbárica. Incluso eliminó los "contratados", siervos no remunerados que se emplean por contrato a cambio de un techo y comida.
+La forma de esclavitud que tenía este reino está prohibida desde el comienzo del reinado de [[Meriah:Naciones:Haldrim:npc:Cyro|Cyro I el Gris]], que la considera barbárica. Estos eran los "contratados", siervos no remunerados que se emplean por contrato a cambio de un techo y comida.
 
  ==== Entretenimiento ====
 Se juega mucho Keva, Talië, Pirámide y carreras de caballos.
