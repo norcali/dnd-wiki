@@ -5,20 +5,20 @@
  
 =====  Negocios =====
 
-   * Alfarería. 
-  *  Mercado. Comestibles y common items, algunos magic items. La pastelería de Rousseau, muy famosa y antigua, productos de la putísima madre.  Olivas y aceite, frutas, azúcar, especias. La sal brilla por su ausencia casi.
-  *  Herrería. Cosas muy básicas y personalizadas, la mayoría de las cosas vienen de Korim. Atendida por un enano, Fikri Oscar Karlsson.
-  *  Productos enanos. Re-sellers. Te arrancan la cabeza si pueden, hay que regatearles.
-  *  Salón de belleza. Matrimonio de dos mujeres, Meline y Natalie Voclain, súper amorosas y glamorosas. 
-  *  Perfumería. Dos, rivales a lo Montesco/Capuleto. Pero sería Amardeep/Desjardins.
-  *  Sedería.  Tres sederías importantes: las Casas Langlais, Mercier y Vipond.
-  *  Sastrerías. Cinco sastres con distintos targets.
+   * **Alfarería.** 
+  *  **Mercado.** Comestibles y common items, algunos magic items. La pastelería de Rousseau, muy famosa y antigua, productos de la putísima madre.  Olivas y aceite, frutas, azúcar, especias. La sal brilla por su ausencia casi.
+  *  **Herrería.** Cosas muy básicas y personalizadas, la mayoría de las cosas vienen de Korim. Atendida por un enano, Fikri Oscar Karlsson.
+  *  **Productos enanos.** Re-sellers. Te arrancan la cabeza si pueden, hay que regatearles.
+  *  **Salón de belleza.** Matrimonio de dos mujeres, Melina y Natalia Voclain, súper amorosas y glamorosas. 
+  *  **Perfumería.** Dos, rivales a lo Montesco/Capuleto. Pero sería Amardeep/Desjardins.
+  *  **Sedería.**  Tres sederías importantes: las Casas Langlais, Mercier y Vipond.
+  *  **Sastrerías**. Cinco sastres con distintos targets.
     * Félix & Haydeé Proulx.
-    * Coralie Tasse.
+    * Coralina Tasse.
     * Josué Lucas.
     * Remy Gosse.
     * Denise Fay.
-  * **Sombrerería.** Vivienne Denis, una señora flirty, vieja, gorda y cachetona que quiere vender a toda costa y se precia de tener sólo las últimas tendencias.
+  * **Sombrerería.** Viviana Denis, una señora flirty, vieja, gorda y cachetona que quiere vender a toda costa y se precia de tener sólo las últimas tendencias.
   * **Luthiers.** Una monopólica, la Casa Roux, atendida por un tipo con sombrero de copa y bigote a lo Salvador Dalí. Casa-local de tres pisos, con el taller en el subsuelo y los dos pisos de arriba residenciales. 
   * **Vidriería/cristalería.** La cristalería de los Bourdillon, bastante nueva pero de buena calidad.
 
@@ -64,14 +64,14 @@ Ofrecen todo tipo de armas y armaduras, lingotes y herramientas de herrería, pr
 
 Apunta a viajantes de clase media y comerciantes. 
 
-Jaida Pond es la dueña, 29 años, parece más joven. Nacida en el invierno pero dice que fue a principios de primavera. 1.65, 60 kgs, average body type. Pelirroja, pecosa. Hacendosa, kinética, no para un segundo. Mantiene limpio el salón y la cocina, atiende a la gente, cocina, lleva las cuentas y atiende proveedores. 
+Alelí Pond es la dueña, 29 años, parece más joven. Nacida en el invierno pero dice que fue a principios de primavera. 1.65, 60 kgs, average body type. Pelirroja, pecosa. Hacendosa, kinética, no para un segundo. Mantiene limpio el salón y la cocina, atiende a la gente, cocina, lleva las cuentas y atiende proveedores. 
 
-Chantel Avis es su mujer, 31, rubiecita, pacífica. Es la calma que le falta a Jaida. La ayuda a bajar mil cambios y toma posesión los días que la ansiedad de ella la pueden. Hace todo a su ritmo pero es muy eficiente. Piensa las cosas antes de empezar para organizar el tiempo mejor. 
+Jazmín David es su mujer, 31, rubiecita, pacífica. Es la calma que le falta a Alelí. La ayuda a bajar mil cambios y toma posesión los días que la ansiedad de ella la pueden. Hace todo a su ritmo pero es muy eficiente. Piensa las cosas antes de empezar para organizar el tiempo mejor. 
 
 Muy devotas de Sune, tienen su símbolo colgando tras el mostrador y algunas decoraciones rojas. Adoptaron juntas dos varones hermanos, Armand (8) y Alec (5), hace tres años. Ellos eran huérfanos.
 =====  Posada "La Reina" =====
 
-Atendida por Harley Fox. Rubia loca, peinados raros, mil gatos dando vueltas, todos tienen nombre: Mittens, Robi, Miki, Evan, Dami, Tori, Lori… Muchas estatuillas de gatitos. Se pone totalmente loca si se rompe alguna. Nunca olvida quién la rompió y caga a palazos de amasar al culpable.
+Atendida por Reina Richards. Rubia loca, peinados raros, mil gatos dando vueltas, todos tienen nombre: Mittens, Robi, Miki, Evan, Dami, Tori, Lori… Muchas estatuillas de gatitos. Se pone totalmente loca si se rompe alguna. Nunca olvida quién la rompió y caga a palazos de amasar al culpable.
 
 La posada no es la más lujosa pero todo dios va a comer ahí, cocina como los fucking dioses esa mujer.
 
@@ -87,9 +87,9 @@ La posada no es la más lujosa pero todo dios va a comer ahí, cocina como los f
     *  Crispies de Castaña
     *  Pudín de mandarina
  
-===== Posada “Las Cinco Escobas” =====
+===== Posada “Las Cinco Hermanas” =====
 
-La más concurrida siempre. Atendida por las hermanas Alcott: Louise, Megan (preggo), Joanne, Elizabeth y Amy (Mujercitas). Great service. It’s been going well for years so they have improved the service. You can tell from simply looking at the building that it has been expanded several times, and floors have been added. Hella big Sune worshippers. Altar & all the shit. Red decorations.
+La más concurrida siempre. Atendida por las hermanas Alcott: María Luisa, María Margarita (preggo), María Ivana, María Isabel y María Amelia (Mujercitas). Great service. It’s been going well for years so they have improved the service. You can tell from simply looking at the building that it has been expanded several times, and floors have been added. Hella big Sune worshippers. Altar & all the shit. Red decorations.
  
 ===== Posada-Taberna “El Cisne” =====
 
@@ -107,24 +107,24 @@ El Colegio es un edificio enorme, con aulas grandes especialmente diseñadas por
 
   * Rector: Trovador Cristoph Herriot. A veces se lo ve en los pasillos. Tiene una gran oficina privada en el fondo de uno de los pasillos. Él es un tipo alto, pelo castaño, bronceado, siempre perfumado (prefiere Desjardins). Súper atractivo, voz melodiosa estilo locutor.  Siempre está tarareando alguna melodía. Aprox 45 años.
   *  Tesorero: Ariel Grant (always steals a bit, bald, glasses, fat fucker )
-  *  Secretaria: Luann Gilbert (gossips a shit ton, long painted fingernails, lots of makeup, wavy bleached hair)
+  *  Secretaria: Luana Gilbert (gossips a shit ton, long painted fingernails, lots of makeup, wavy bleached hair)
   * Preceptores
-      * Iris Miles (Silvia Villalba)
+      * Iris Viteri (Silvia Villalba)
       * Quentin Lio (Leo Pasqualin)
-      * Noelia Lambert (Adriana la tarada de 5° año) 
+      * Noelia Jordán (Adriana la tarada de 5° año) 
   *  Serenos 
-     * Steven Poll (Blond, dumb but good-hearted, super loyal to everyone, tall, strong & muscular)
-     * Kimbal Blackwood 
+     * Steven Poli (Blond, dumb but good-hearted, super loyal to everyone, tall, strong & muscular)
+     * Kimbal Franco 
   *  Profesores
-      * Recitado, composición y poesía: Matilda Wilford (Fair skin; short, straight blond hair; brown eyes; average height, chubby; super organized and tidy, 40-sth) 
+      * Recitado, composición y poesía: Matilda Gagnon (Fair skin; short, straight blond hair; brown eyes; average height, chubby; super organized and tidy, 40-sth) 
       * Instrumentos de cuerda: Noelia Gardiner (dark brown skin; mid length, curly black hair; brown eyes, tall, narrow build, walks & moves like a ballerina, 40-sth)
-      * Instrumentos de viento: Burton Franklin (fair skin, wavy graying-blond hair, small brown eyes, average build)
-      * Instrumentos de percusión: Melvin Overton (short brown hair, gray eyes, tall & muscular, broad shoulders, always smiling)
-      * Vocalización: Arlette Riley (fair skin, mid-length wavy blond hair, green eyes, short & tiny)
-      * Danza y expresión corporal: Viviane Glover (dark skin; mid-length, wavy brown hair; hazel eyes, very tall & muscular, está siempre en una postura perfecta y es súper flexible, 50-sth)
-      * Historia: Baxter Darrell (light brown skin, short graying-black hair and black eyes, average height and build, slightly fat, prone to spacing out)
-      * Literatura: Severino Corner (fair skin, long blond hair, gray eyes, tall, narrow build, fidgets)
-      * Improvisación: Hugo Solomon (brown skin, dark brown hair and eyes, hazel eyes, super big and somewhat fat)
-      * Actuación: Cori Sniders (genderqueer/pansexual -any pronouns-, pale skin, curly auburn hair, blue eyes, average height & build, believes acting requires your real self to be fluid)
-      * Culturas del mundo: Rhonda Huddleson (dark skin, curly black hair, brown eyes, short & quite heavy)  Siempre está calma, sonriendo, pero si alguien toca a un pibe hell unleashes. She can be tough. 
+      * Instrumentos de viento: Isidoro Gastón Savatier (fair skin, wavy graying-blond hair, small brown eyes, average build)
+      * Instrumentos de percusión: Ariel Melvin (short brown hair, gray eyes, tall & muscular, broad shoulders, always smiling)
+      * Vocalización: Arlette Fabré (fair skin, mid-length wavy blond hair, green eyes, short & tiny)
+      * Danza y expresión corporal: Viviana Glover (dark skin; mid-length, wavy brown hair; hazel eyes, very tall & muscular, está siempre en una postura perfecta y es súper flexible, 50-sth)
+      * Historia: Ermenegildo Lorenzo Pons (light brown skin, short graying-black hair and black eyes, average height and build, slightly fat, prone to spacing out)
+      * Literatura: Severino Cornejo (fair skin, long blond hair, gray eyes, tall, narrow build, fidgets)
+      * Improvisación: Hugo Salamanca (brown skin, dark brown hair and eyes, hazel eyes, super big and somewhat fat)
+      * Actuación: Cori Salinas (genderqueer/pansexual -any pronouns-, pale skin, curly auburn hair, blue eyes, average height & build, believes acting requires your real self to be fluid)
+      * Culturas del mundo: Rhonda Didier Lemaire (dark skin, curly black hair, brown eyes, short & quite heavy)  Siempre está calma, sonriendo, pero si alguien toca a un pibe hell unleashes. She can be tough. 
  

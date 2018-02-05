@@ -3,26 +3,62 @@
 ===== Haldrim - Cardus =====
 
 ^  Female      ^  Female       ^  Female       ^  Female       ^
-|  Pamela      |  Clemencia    |  Hayley       |  Roxana       |  
-|  Skyler      |  Madeline     |  Carla        |  Tahni        |
-|  Paula       |  Mariah       |  Edith        |  Shannon      |
-|  Daisy       |  Emma         |  Oriana       |  India        |
-|  Kayla       |  Noemí        |  Nora         |  
+|  Pamela      |  Clemencia    |  Luna         |  Roxana       |  
+|  Brenda      |  Magdalena    |  Carla        |  Luciana      |
+|  Paula       |  María        |  Edith        |  Tamara       |
+|  Ana María   |  Emma         |  Oriana       |  India        |
+|  Sol         |  Noemí        |  Nora         |  Daiana       |
+|  Alai        |  Carolina     |  Julieta      |  Fernanda     |
+|  Lucía       |  Mora         |  Jacinta      |  Raquel       | 
+|  Gianna      |  Giovanna     |  Miriam       |  Ernestina    |
+|  Candelaria  |  Catalina     |  Adolfina     |  Alfonsina    |
+|  Agustina    |  Fabiola      |  Constanza    |  Concepción   |
+|  Irina       |  Lorena       |  Natalia      |  Nazarena     |
+|  Tania       |  Mercedes     |  María Luisa  |  María Julia  |
+|  María Lucrecia  |  Nieves   |  María José   |  Ana Laura    |
+|  Ana Clara   |  Ana Luz      |  Josefina     |  Desireé      |
+|  Felicia     |  Ermelinda    |  Cecilia      |  Margarita    |
+|  Renata      |  Elena        |  Abril        |  Debora       |
+|  Regina      |  Albertina    |  Amparo       |  Ana Paula    |
+|  Analía      |  Celia        |  Mirta        |  Nidia        |
+ 
 
 ^  Male        ^  Male         ^  Male         ^  Male         ^
-|  Wilburn     |  Daniel       |  Jacob        |  Cristian     |
-|  Connor      |  Logan        |  Jesse        |  Sheldon      |
-|  Jared       |  Nicola       |  Angus        |  Charlie      | 
-|  Anson       |  Samuel       |  Simón        | 
+|  Guillermo   |  Daniel       |  Jacobo       |  Cristian     |
+|  Fernando    |  Enrique      |  Luciano      |  Oliverio     |
+|  Maximiliano  |  Pedro       |  Nicola       |  Adolfo       | 
+|  Arístides   |  Samuel       |  Simón        |  Fabián       |
+|  Giulio      |  Tobías       |  Ciro         |  Benedicto    |
+|  Danilo      |  Ambrosio     |  Bruno        |  Benjamín     |
+|  Bernardo    |  Apolinar     |  Claudio      |  Oscar        |
+|  Eliseo      |  Dante        |  ALberto      |  Agilio       |
+|  Fermín      |  Baltazar     |  Antonio      |  Enrico       |
+|  Miguel      |  Gianfranco   |  Álvaro       |  Benito       |
+|  Gaspar      |  Atilio       |  Ermenegildo  |  Juan Segundo  |
+|  Juan Ignacio  |  Gastón     |  Herminio     |  Ismael       |
+|  Artemio     |  Victorio     |  Rafael       |  Raúl         |
+|  Alfredo     |  Juan Cruz    |  Diego        |  Saturnino    |
+|  Armando     |  Aureliano    |  Bartolomeo   |  Anselmo      | 
+|  Fausto      |  Alonzo       |  Leonel       |  Isidro       |
+|  Gervasio    |  Octavio      |  Bastián      |  Germán       |
+|  Mario       |  Pablo        |  Lorenzo      |  Federico     |
 
 ^  Surname     ^  Surname      ^  Surname      ^  Surname      ^
-|  Diman       |  Syd          |  Sanford      |  Curtis       |
-|  Bean        |  Burke        |  Rowton       |  Barlow       |
-|  Jonas       |  Dalton       |  Gardiner     |  Easton       | 
-|  Fox         |  Elliot       |  Bertram      |  Evered       |
-|  Richards    |  Kiddo        |  Hewitt       |  Parsons      |
-|  Grant       |  Norton       |  Finnegan     |  Weekes       |
-|  Driscoll    |  
+|  Diman       |  Prats        |  Solari       |  Acconcio     |
+|  Vigil       |  Pesce        |  Rizzi        |  Cittadini    |
+|  Azar        |  Arata        |  Capello      |  Russo        |
+|  Alfaro      |  Torres       |  Roncalli     |  Macías       | 
+|  Crespi      |  Ragno        |  Bellini      |  Toselli      |
+|  Romero      |  Vinci        |  Solver       |  Muscio       |  
+|  Cimino      |  Enríquez     |  Rodríguez    |  López        |
+|  Páez        |  Pérez        |  Martínez     |  Marsico      | 
+|  Tozzi       |  Amadei       |  Ramos        |  Scavo        |
+|  Nuñez       |  Nizzola      |  Guerra       |  Di Nápoli    |
+|  Estévez     |  Iglesias     |  Sepúlveda    |  Alduino      |
+|  Valdez      |  Buonanotti   |  Bandini      |  Del Bosque   |
+|  de la Torre  |  Lamberti    |  Vargas       |  Bonaventura  |
+|  Cabrera     |  Angioli      |  Constantini  |  Agnellini    |
+|  Nieri       |  Pavoni       |  Portelli     |  Bulgari      | 
 
 ===== Ardenia =====
 
@@ -30,33 +66,31 @@
 |  Victoire    |  Maxime       |  Fleur        |  Simone       |
 |  Natalie     |  Virginia     |  Arlette      |  Justine      |
 |  Marjorie    |  Evelyn       |  Cinthia      |  Cheryl       |
+|  Edelweiss   |  Eva          |  Meryl        |  Fátima       |
+|  Laila       |  Dorinda      |  Valentina    |  Laurinda     |
+|  Violeta     |  Rosa         |  Hortensia    |  Cala         |
+|  Dalia       |  Margarita    |  Florencia    |  Alelí        |
+|  Jazmín      |  Lila         |  Azucena      |  Anahí        |
+|  Lis         |  Rosalía      |  Azalea       |  Melissa      |
+|  Amapola     |  Fresia       |  Gardenia     |  Iris         |  
+|  Lily/Lirio  |  Narcisa      |  Jacinta      |  Marcia       |
+|  Tasha       |  Silvina      |  Anabella     |  Ariadna      |
 
 ^  Male        ^  Male         ^  Male         ^  Male         ^
 |  Jean        |  Paul         |  Antoine      |  Carlyle      |
-|  Rousseau    |  Dixie        |  Fletcher     |  Arnaud       |
-|  Gabriel     |  Nelson       |  Sidney       |  Damian       | 
-|  Carlton     |
-
+|  Rousseau    |  Orión        |  Virgilio     |  Joel         |     
+|  Gabriel     |  Nelson       |  Félix        |  Damian       | 
+|  Reyes       |  Marc         |  Casimiro     |  Serafín      | 
+|  Joaquín     |  Vicente      |  Felipe       |  Aurelio      |
+|  Román       |  León         |  Iván         |  Augusto      |
+|  Amador      |  Eleuterio    |  Natanael     |  David        |
+|  Efraín      |  Basilio      |  Alan         |  Blas         |
 
 ^  Surname         ^  Surname      ^  Surname      ^  Surname      ^
-|  de la Fontaine  |  de Beauvoir  |  Baudin       |  Lachance     |
-|  Hamm            |  Waters       |  Vance        |  Pelletier    |
-|  Emerson         |  Akerman      |  Beaumont     |  Ogden        |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|  de la Fontaine  |  de Beauvoir  |  Lachance     |  Pelletier    |
+|  Scrivener       |  Castilla     |  Beaumont     |  Ogden        |
+|  Cardona         |  Villar       |  Reyer        |  Forestier    |
+|  Bover           |  Deschamps    |  Masson       |  Sala         |
+|  Vega            |  Noguera      |  Dalín        |  Severe       |
+|  Olmos           |  D'Arque      |  Poirier      |  Casal        | 
 

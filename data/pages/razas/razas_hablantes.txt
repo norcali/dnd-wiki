@@ -1,0 +1,43 @@
+====== Las Razas Hablantes en Celeth ======
+
+Un listado con las razas hablantes de Celeth y los lugares donde viven:
+
+==== Razas integradas a la sociedad civilizada común ====
+
+^  Raza hablante       ^  Lugares                                          ^
+|  Aasimar             |  [[Meriah:Naciones:Ardenia]], [[Meriah:Naciones:Cardus]], [[Meriah:Naciones:Haldrim]], [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]], [[Meriah:Naciones:Haldrim:Fuertecliff | Fuerte Cliff]], [[Meriah:Naciones:Portbeak | Portbeak]], [[Meriah:Naciones:Strand | Strand]]  |
+|  Dragonborn          |  Por sobre todo en [[Meriah:Naciones:Zir]] y [[Meriah:Naciones:Portbeak | Portbeak]]    |
+|  Elfo                |  [[Meriah:Naciones:TalOnarael | Tal Onaraël]], [[Meriah:Naciones:Vael | V'ael]], [[Meriah:Naciones:Portbeak | Portbeak]] y en [[Kaelaz:Naciones:Elwen | Elwen]] en el continente de Kaelaz.  |
+|  Enano               |  [[Meriah:Naciones:Korim | Korim]], [[Meriah:Naciones:Moraz | Mo'raz]] y [[Meriah:Naciones:Portbeak | Portbeak]]  |
+|  Genasi (Agua)       |  Mayormente [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]] y [[Meriah:Naciones:Portbeak | Portbeak]]  |
+|  Genasi (Aire)       |  Mayormente [[Meriah:Naciones:Korim | Korim]]     |
+|  Genasi (Fuego)      |  Mayormente [[Meriah:Naciones:Zir]]   |
+|  Genasi (Tierra)     |  Mayormente [[Meriah:Naciones:Moraz | Mo'raz]]     |
+|  Gnomo               |  [[Kaelaz:Naciones:Rekhar | Rekhar]], en Kaelaz, y [[Meriah:Naciones:Portbeak | Portbeak]]  |
+|  Half-Elf            |  [[Meriah:Naciones:Portbeak | Portbeak]], [[Meriah:Naciones:Haldrim]], [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]], [[Meriah:Naciones:Strand | Strand]]  |
+|  Half-Orc            |  [[Meriah:Naciones:Portbeak | Portbeak]], [[Meriah:Naciones:Haldrim]], [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]], [[Meriah:Naciones:Strand | Strand]]  |
+|  Halfling            |  [[Meriah:Naciones:Halfling | Beluir]]  |
+|  Human                |  [[Meriah:Naciones:Ardenia]], [[Meriah:Naciones:Cardus]], [[Meriah:Naciones:Haldrim]], [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]], [[Meriah:Naciones:Haldrim:Fuertecliff | Fuerte Cliff]], [[Meriah:Naciones:Portbeak | Portbeak]], [[Meriah:Naciones:Strand | Strand]]  |
+|  Tiefling             |  [[Meriah:Naciones:Ardenia]], [[Meriah:Naciones:Cardus]], [[Meriah:Naciones:Haldrim]], [[Meriah:Naciones:Haldrim:PuertoColossus | Puerto Colossus]], [[Meriah:Naciones:Haldrim:Fuertecliff | Fuerte Cliff]], [[Meriah:Naciones:Portbeak | Portbeak]], [[Meriah:Naciones:Strand | Strand]]  |
+
+==== Razas semi-integradas ====
+
+^  Raza hablante  ^  Lugares                                               ^
+|  Firbolg        |  Se los ha visto mucho sobre todo en bosques fríos, como el Velo, las Tierras Muertas y Lu'ev en Kaelaz.  |
+|  Goliath        |  Se sabe que viven en lo alto de las montañas Nuvia'nara, el punto más austral de Meriah, y el más helado.  |
+|  Orco           |  En Haldrim, debido a las políticas de Estado del Rey Cyro I, los orcos son aceptados (con reservas) en la sociedad. En otros lugares, reina el odio o la indiferencia.  | 
+|  Tabaxi         |  Existen varios grupos de poblaciones nómades viviendo en el Bosque Negro.  |
+
+==== Razas no integradas ====
+
+^  Raza hablante       ^  Lugares                                          ^
+|  Aarakocra           |  En el lado Oeste del Monte Arokan, en Kaelaz, se encuentra Domov, su único enclave.   |
+|  Bugbear             |  Al ser siempre perseguidos, y parte de grupos nómades, no se tiene una ubicación precisa.      |
+|  Goblin             |  Al ser siempre perseguidos, y parte de grupos nómades, no se tiene una ubicación precisa.      |                 
+|  Hobgoblin             |  Al ser siempre perseguidos, y parte de grupos nómades, no se tiene una ubicación precisa.      |
+|  Kenku              |  Es incierto exactamente dónde, pero quienes conocen a un Kenku lo han visto en alguna parte del Erumë.   |
+|  Kobold             |  Al ser siempre perseguidos, y parte de grupos nómades, no se tiene una ubicación precisa.      |
+|  Lizardfolk          |  Prefiriendo climas húmedos y templados o calurosos, el lugar con mayor cantidad de avistamientos de lizardfolk es el pantano Dreshmor.   |
+|  Orco               |  Hay un inexacto número conocido de asentamientos orcos nómades al norte del Bosque Negro, en las colinas Orondur, y la nación de Urshok en las colinas homónimas al noroeste de Haldrim.              |
+|  Tritón             |  Pocas veces alguien ha visto un tritón; pero quienes dicen (de manera verosímil) que lo han hecho, mencionan la bahía del Mar Hals.  |
+|  Yuan-ti            |  Existen varias tribus Yuan-ti en el Bosque Negro, pero la más conocida y peligrosa habita las Colinas Shoussai y se encuentra en guerra con [[Meriah:Naciones:Zir]] y [[Meriah:naciones:Cardus]].  |

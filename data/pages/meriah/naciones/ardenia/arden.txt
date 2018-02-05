@@ -1,6 +1,6 @@
 ======  Arden ======
 
-DM only links: [[dmonly:settlements:dmarden|Info]] [[dmonly:random:human|Tables]]
+DM only links: [[dmonly:settlements:dmarden|Info]] | [[dmonly:random:human|Tables]]
 
 =====  Datos =====
  
@@ -16,8 +16,8 @@ DM only links: [[dmonly:settlements:dmarden|Info]] [[dmonly:random:human|Tables]
 
    * **Alfarería.** 
   *  **Mercado.** Comestibles y common items. La pastelería de Rousseau, muy famosa y antigua, productos de altísima calidad.  Olivas y aceite, frutas, azúcar, especias. La sal brilla por su ausencia casi.
-  *  **Herrería**. Cosas muy básicas y personalizadas, la mayoría de las cosas vienen de Korim. 
-  *  **Productos enanos.** Re-sellers. Te arrancan la cabeza si pueden.
+  *  **Herrería**. 
+  *  **Productos enanos.** 
   *  **Salón de belleza.** 
   *  **Perfumerías.**
   *  **Sederías.** 

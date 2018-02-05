@@ -3,7 +3,7 @@
 ===== Mapas =====
 
 
-{{ :mapainteractivo:pf_meriah_map.jpg?linkonly |Mapa del continente de Meriah}}
+{{:files:pf_meriah_map.jpg?linkonly|Mapa del continente de Meriah}}
 
 {{ :mapainteractivo:wildwest.jpg?linkonly |Mapa de los continentes de Kaelaz y Aina}}
 

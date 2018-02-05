@@ -2,9 +2,11 @@
 
 [[dmonly:time|Timekeeping]]   |   [[dmonly:music|Música]]   |  [[dmonly:ideas|Ideas]]  |  [[dmonly:dmtips|DM Tips]]
 
+[[dmonly:peste|Campaña: La Peste]]
+
 ===== Current Prep =====
 
-[[dmonly:zero| Session Zero]]
+[[dmonly:peste:startup|Primera partida: Fuerte Cliff y llegada a Narkeep]]
 
 
 
@@ -36,7 +38,7 @@
   * [[dmonly:org:verndari|Verndari]]
   * [[dmonly:org:ordenmajestad|La Orden de su Majestad]] (Strand)
   * [[dmonly:org:virus|Virus]] (Haldrim)
-  * [[dmonly:org:horda|La Horda]] (Lugar donde se haga la campaña)
+  * [[dmonly:org:horda|La Horda]] (Puerto Colossus)
 
 ===== Criaturas importantes =====
 
@@ -153,6 +155,9 @@ Debajo del bosque yace Basharix, una dragona esmeralda más antigua que el tiemp
 ===== Adventure Archives =====
 
   * [[dmonly:adventure:wards|Wards of the Last Emperor]]
+
+
+  * [[dmonly:zero| Session Zero]]
 
 
 

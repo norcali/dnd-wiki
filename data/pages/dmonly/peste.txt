@@ -1,0 +1,114 @@
+====== La Peste ======
+
+===== Línea temporal y cambios =====
+
+Las aventuras del Terror de los Talones son una narrativa escrita por un escriba, Marshall Kennard, basada en los cuentos que su madre (Melissa) le contaba. Ella tenía una imaginación salvaje.Él es un novelista que ha interrogado a todo dios sobre los lugares sobre los que ha escrito, para describirlos a la perfección. Ha contratado dibujantes para que le hagan pinturas de los lugares y así visualizarlos. 
+
+La realidad es bastante parecida, pero con mucha menos magia, y desgraciadamente, no existe heredero claro al trono de Haldrim. Varios altos nobles están tratando de ganarse el favor del rey, para que declare formalmente un heredero, pero probablemente ni siquiera eso asegure la paz. La reina perdió dos embarazos y un príncipe nació muerto.
+
+**Difficult components spell list:**
+  * Astral Projection -  one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes
+  * Clone - a diamond worth at least 1,000 gp, which the spell consumes
+  * Create Undead - one 150 gp black onyx stone for each corpse
+  * Gate - a diamond worth at least 5,000 gp
+  * Plane Shift - a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence
+  * Raise Dead - a diamond worth at least 500 gp, which the spell consumes
+  * Resurrection - a diamond worth at least 1,000 gp, which the spell consumes
+  * Revivify - diamonds worth 300 gp, which the spell consumes
+  * Simulacrum - powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell
+  * Symbol - mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes
+  * True Resurrection - diamonds worth at least 25,000 gp, which the spell consumes
+
+===== La Peste =====
+
+
+  * //Una desesperante sucesión de cosechas enteras putrefactas tienen a la población en vilo. Los eruditos sospechan que puede estar relacionado a lo que destruyó a la Sanción Sureña hace casi medio siglo. ¿Será que el mismo destino le espera a Puerto Colossus y el sur de Haldrim? Una célula de operaciones especiales militares de Haldrim será enviada para hacer algo al respecto. //
+  * Es una campaña basada en el sur de Haldrim, con incursiones a la wilderness, pero siempre volviendo. No implica necesariamente toneladas de dungeon delving.
+  * Un **consejo de viejos eruditos** (uno es un fraude a lo Lockhart) discuten posibilidades, consultan bibliografía y aconsejan a la party. Proveen ciertos materiales también. 
+  * **Rangos militares:**
+    * Oficiales:
+      * Comandante en jefe (Rey/Reina)
+      * General
+      * Teniente General
+      * General de Brigada
+      * Coronel Mayor
+      * Teniente Coronel
+      * Mayor
+      * Capitán
+      * Teniente Primero
+      * Teniente Segundo
+      * Subteniente
+    * Suboficiales:
+      * Suboficial Mayor
+      * Suboficial Principal
+      * Sargento Primero
+      * Sargento Ayudante
+      * Sargento
+      * Cabo Primero
+      * Soldado de Primera
+      * Soldado de Segunda
+  * Tienen **autoridad** sobre commoners y comerciantes. Pueden hacer averiguaciones, detenciones, atrapar criminales, etc. Pero nada fuera de la ley. Aplican las mismas reglas para los comerciantes agremiados y los nobles.
+  * Llevan cada uno un **documento o pequeño objeto** (un poema, un dibujo, set de dados) que sirve de identificador si lo presentan ante alguien que sepa lo que busca. Todos hechos y firmados por un artista muy conocido sin lazos asociados al ejército. 
+  * La **información** que tienen es que hay varias cosechas podridas, a pesar del buen clima, sin rastros de plaga. Huelen mal y atraen moscas, no se pueden comer. No saben por qué. Sospechan de __**"La Peste".**__ Le dicen así a la fuerza letal que borró del mapa a la Sanción Sureña hace treinta años. Temen porque así comenzó. La gota que colmó el vaso fue el reporte de varias personas enfermas sin causa aparente. 
+  * Deben ir **encubiertos** por si hay infiltrados. Pueden revelar sus identidades sólo a oficiales militares de alto rango con conductas ejemplares que han sido vigilados últimamente. 
+  * El ejército provee **financiamiento** a modo de dinero para sus gastos, una casita en los muelles de Puerto Colossus y los derechos de tomar cualquier botín hallado.
+  * **HQ** en Puerto Colossus consiste en una casita pequeña arriba de un negocio de elementos marítimos de una señora muy viejita. La señora no los quiere al principio, menos si vienen a altas horas de la noche o hacen ruido. Ella vive atrás y puede ver si hacen cosas raras. 
+  * Tienen que pensar una buena cover story, el ejército proveerá documentos falsos para hacerla creíble y ayudará si hay que comprar cosas.
+
+==== Arcos narrativos ====
+
+  * **Llegada a Narkeep**:
+      * Vienen desde Fuerte Cliff. Ven las cosechas y el suelo apestado, que si cavan está igual. Cada día tienen 1% de enfermarse al tomar agua apestada. 
+      * Un guardia cree que son sospechosos y los antagoniza. Trata de agarrarlos con otros guardias y pueblerinos. Sobre todo si ve que mienten.  
+      * Encuentran algunos tipos shady pero los descartan. No parece haber infiltrados. Introducir NPCs queribles.
+      * Someone (or maybe a whole lot of people) are raised from the dead!
+      * Alguien se pierde en el quilombo.
+  * **Puerto Colossus** 
+      * Escuchan un poco de info de la charla entre los viejos. Discuten entre ellos, se desdicen, tienen distintas versiones y teorías. Planear la convo.
+      * Detectar a Lockhart en el grupo y al pelotudo que lo trajo.
+      * La Iglesia de Selune ha tratado ya gente enferma. Allí pueden ir a investigar. El/La cleric es un NPC ultra querible, complejo. 
+      * Encuentran pistas y determinan que la enfermedad proviene del agua. 
+      * Bonding with the town sort of missions.
+  * **Recon, short for reconnaissance**
+      * Yes, there are undead. Pero **¿cuántos? ¿dónde andan mayormente? ¿quién los comanda?**
+      * Respuesta: DEMASIADOS. Incontables. Miles. Se mantienen en las ciudades y pueblos humanos, y algunos apostados en la frontera. Los comanda un "sargento" undead regional. En tres de las ciudades hay un Inefable. Y en la isla, Kaleth-varr. 
+      * Si se toman el trabajo de hablar con los que pueden hablar, están orgullosos de ella. Ella no quiere que anden diciendo muy rápido que es una lich, pero les dio un nombre que pueden decir. Kaleth-varr, TITULOS TITULOS TITULOS!. Esos títulos son reconocibles con un chequeo muy difícil de Historia o Arcana. Son similares a los de otros liches, siguiendo un patrón. Kaleth-varr también //rings a bell//. A alguien le suena conocido. Envían un sending a la Iglesia de Ioun para que envíen toda la info que tengan. La Iglesia sólo tiene 1 sending diario. Van mandando de a pedacitos la información. 
+  * **Go get allies, boy**
+      * Go talk to the druid circle, the goliaths, the dragonborn, the Ban Tuur, the forest beings and fey creatures that live in the woods. Any order you want. Maybe take a long shot and ask the elves if they can spare any archers. 
+      * Cada vez que pasen por la ciudad, introducir NPCs muy queribles.
+  * **Let the hunt begin!** 
+      * Los aliados ayudan recuperando pequeños bastiones, asegurando la frontera y ayudando al éxodo de Narkeep.
+      * Chase the three parts of the phylactery while the ineffables chase you. Fun times!
+      * La Iglesia de Ioun provee algo de info. Kaleth-varr era una archidruida, la más poderosa de todas. Vivía caminando por Celeth, restaurando el balance de la naturaleza ante cualquier fuerza destructora. Sólo tienen cuentos y leyendas sobre ella, cosas mitológicas y fantásticas.
+      * Los eruditos miran en tomos polvorientos llenos de actas de reuniones diplomáticas de hace casi cincuenta años. En uno de ellos, se nombra a Kaleth-varr. El acta dice que se reunieron algunos duques, condes y los mismos reyes a debatir el planteo hecho por la archidruida recientemente: ella estaba severamente preocupada por su intención de destruir el bosque para asentar sus reinos. Los veía encender fuegos para clarear espacios, talar magníficos árboles viejos... Les daba miedo su poder, pero por más poderosa que fuera, siendo solo una no iba a poder con sus ejércitos. Así que continuaron. Ella no discutió y la última vez que se la vio fue internándose en el bosque al noreste. 
+      * Ella tratará de crear más lieutenants para combatir la amenaza que representa la party. 
+      * En los "mitos y leyendas" dismissed por la Iglesia hay más pistas de lo esperado. Posibles phylacteries, apariencia en vida, ubicaciones famosas: waterfalls, trees, caves... Pero hay mucho más de tres. Pueden deducir que son tres porque hay tres inefables y tres reinos humanos destruidos. 
+  * **Final assault: Taking on Kaleth-varr**
+      * Tiene una lair en la isla montañosa con multiple escape routes. Tiene gigantes de su lado, a los que convenció de que si no serán invadidos por pequeños demonios con armas y fuego. 
+
+
+===== Los personajes =====
+
+  * **Human Monk:** Prodigio del Monasterio del Sol, metido en las Colinas Meredrar. Lo envía su sensei cuando el rey mismo viene a pedir ayuda. Genera un vínculo con los guardias en el camino, tal vez. Que estén bien por ahora y hacerles algo feo a mitad de campaña.
+  * **Half-elf Bard:** Pichón de Harper sin saberlo. 
+      * Su mentora:
+        * Es una Harper rank 4, Bard lvl 2, College of Lore, aprendida en el Colegio de la Canción Secreta y licenciada, pero mucho anterior al Susurro. 
+        * Sabe todo lo que hacen though. Le enseña todo lo que sabe, le da clases de distintas disciplinas emulando su educación: cantar, bailar, componer, disfrazarse, maquillarse, actuación, conocer las culturas del mundo... Hace sus propios maquillajes con aceites y pigmentos naturales (Nature DC 13 en grasslands/forest = 5 usos de un color) y algunos comprados en boticas y ese tipo de lugares. 
+        * Es una maestra del disfraz, y tiene toneladas de identidades, varias siempre activas. Él la conoce como **"Raja"**. Tiene muchas identidades masculinas también porque su cara y su cuerpo se lo permiten. Drag King ftw.
+        * Colecciona rituales y tiene un familiar, un pajarito con el que se comunica con otros Harpers. 
+        * Siempre le dice al chiquito que hay que hacer el bien sin mirar a quién, y vigilar a quienes tengan demasiado poder todo junto, porque el poder corrompe. Que la mejor arma que existe es la información. Saber las cosas de antemano convierte lo imposible en posible. Nunca se sabe demasiado. Siempre hay algo más que se puede saber. Y nunca andar pavoneando lo que uno sabe o lo que tiene: avoid prying eyes. 
+  * **Human druid:** Miembro de un círculo druídico que protege a los animales de la colina y la pradera. Tienen un acuerdo con Haldrim: la nación no se mete con sus criaturas y sus áreas protegidas, y ellos les ofrecen ayuda en tiempos de necesidad. Ahora, el Rey ha invocado el pacto, y el joven druida ha sido enviado a colaborar con el esfuerzo nacional contra La Peste. **Crear página del círculo druídico**
+  * **Human Warlock:** Hex Blade. Al tocar el alabarda por primera vez, tuvo una especie de epifanía. 
+      * Se vio en una versión retorcida y espantosa del lugar en donde estaba, con un olor a descomposición llenándole las fosas nasales y sonidos de ultratumba en sus oídos, acompañando una voz envolvente, poderosa, hipnotizante y andrógina: //Tú serás mi enviado. Te guiaré en el camino a lo que deseas, pero debes jurar sobre tu alma misma que me usarás para combatir las oscuras fuerzas que interrumpen la muerte, donde sea que habiten. Te daré poderes como nadie ha visto, y con ellos conseguirás tesoros y gloria mas allá de tu imaginación más salvaje... O suéltame, y espera tu destino como el resto de los mortales.//
+      * El patrón detrás de la Hex Blade es la Raven Queen. Viendo la Peste irse de control, está tomando cartas en el asunto. Y está tejiendo algunos hilos en el destino de los héroes para darles alguna ventaja. Quiere que tengan éxito, pero no quiere romper el balance del destino.
+  * **Dragonborn Sorcerer:** Conspiranoico, sigue las profecías de su madre, devota de la Raven Queen. Ella le decía que los cuervos le habían hablado. Que cuando vea a un muchacho así y así con una alabarda y un cuervo aparezca, lo siga. Y lo ayude en lo que sea que se proponga hacer. Que ese es su destino. Estaba obsesionada con el destino. Él podría ser devoto de la Raven Queen también, mal no vendría. Destino + odio a los no-muertos = happy DM. 
+
+The Plains Druid lives on open grasslands with few or no trees: temperate prairies and pampas, hot veldt and savannas, cool steppes, and the like. They often find themselves in the company of nomadic hunters and herders. Their powers and interests resemble those of a forest druid, but they has a closer interest in the weather and the health of great herds roaming their lands than in trees and crops. Second only to the forest branch, Plains Druids remain among the most common and best known of all druids.
+
+Grasslands Druids hold beasts sacred and never kill them, no matter what the situation (although a Druid could act to change the nature of a beast enchanted with evil, for instance, without destroying it). The Grasslands Druid acts as a living bridge between the wilderness and those humans--such as hunters, loggers, herders and trappers--who dwell on its borders.
+
+A deep--perhaps instinctive--knowledge of the habits, actions, and behavior of animals comes naturally to a Beastfriend. A typical Beastfriend Druid feels quite protective of animals and fiercely punishes those who inflict unnecessary harm upon them. She has nothing against people hunting for food (which, after all, animals also do) but considers hunting for sport repugnant and the use of animals in gladiatorial games a horrible crime.
+
+Role: A Beastfriend spends most of her time in the company of animals. In fact, she lives so much of her life around animals that sometimes she lacks social graces among humans. Many Beastfriends are gruff and hostile, preferring the company of honest natural creatures to deceitful humans, demihumans, and humanoids; others like people, but feel shy or tongue-tied around them and sometimes behave with poor manners. Beastfriends usually travels with one or more animal companions to whom she feels especially devoted
+
+Plains druids typically wear their holy symbol: a diadem or arm band woven from prairie grass under a full moon. They often choose as their grove a circle of standing stones on the open grass.

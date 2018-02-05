@@ -1,0 +1,26 @@
+====== Fuerte Cliff - Narkeep ======
+
+[[Meriah:Naciones:Haldrim:Fuertecliff | Fuerte Cliff]]
+
+[[Meriah:Naciones:Haldrim:Narkeep | Narkeep]]
+
+
+**Llegada a Narkeep**:
+      * Se conocen en una board room de [[Meriah:Naciones:Haldrim:Fuertecliff | Fuerte Cliff]]. Les indican objetivos primarios y alguna indicación importante. Les dan el básico de info. Go there, fetch, deliver. Se enteran otras cositas de lo que discuten entre ellos: hay dolor en el ejército por la pérdida de varios escuadrones de recon. No piensan perder tantos hombres de un saque de nuevo. Aprendieron que cantidad no iguala éxito. Les dan 1 poción y 1 item utilitario grupal sencillito.
+      * En el camino a [[Meriah:Naciones:Haldrim:Narkeep | Narkeep]] ven gente con carretas llenas de cosas que pareciera estar mudándose. Uno o dos nada más. Y muchos mercaderes yendo cargados, algunos con guardaespaldas.  
+      * Ven las cosechas y el suelo apestado, que si cavan está igual. Cada día tienen 1% de enfermarse al tomar agua apestada. 
+      * La gente maneja la crisis como puede: enojo, tristeza, snappy-ness, anxiety. 
+      * Un guardia cree que son sospechosos y los antagoniza. Trata de agarrarlos con otros guardias y pueblerinos. Sobre todo si ve que mienten.  
+      * Encuentran algunos tipos shady pero los descartan. No parece haber infiltrados. Introducir NPCs queribles.
+      * Someone (or maybe a whole lot of people) are raised from the dead!
+      * Alguien se pierde en el quilombo.
+
+=== La Peste ===
+
+Por estos días, la cantidad de agua apestada es muy, muy baja. Por tanto, la probabilidad de enfermarse es baja: 0.1% (dos veces 1d100, primero un 1 y después entre 1-10). Una vez infectado: 
+
+//The creature must succeed on a DC 16 Constitution saving throw or become infected. It takes only 1d6 hours for the first symptoms to reveal themselves. Symptoms include a yellowing of the skin and eyes, cramps, fever, nausea, vomiting, bleeding from the mouth and eyes, blood in the stool, pale complexion, loss of hair and fatigue.//
+
+//The infected creature suffers one level of exhaustion and it regains only half the normal number of hit points from spending hit die and no hit points from finishing a long rest.//
+
+//At the end of each long rest, an infected creature must make a DC 5 (+the creature's physical age in years, round up) Constitution saving throw. On a failed save, the creature gains one level of exhaustion. On a successful save, the character's exhaustion level decreases by one level. If a successful saving throw reduces the infected creature's level of exhaustion below 1, the creature recovers from the disease.//
