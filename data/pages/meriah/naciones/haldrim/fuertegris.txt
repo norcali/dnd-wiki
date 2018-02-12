@@ -1,7 +1,7 @@
 ====== Fuerte Gris ======
 
 
-DM Links [[dmonly:settlements:dmfuertegris|Info]] | [[dmonly:random:human|Tables]]
+DM Links [[dmonly:settlements:dmfuertegris|Info]] | [[dmonly:random#human|Tables]]
 
 
 =====  Datos =====

@@ -1,12 +1,12 @@
 ====== Mozgani ======
 
-Links: [[dmonly:settlements:mozgani|Info]]  |  [[dmonly:random:dwarf| Tables]]
+Links: [[dmonly:settlements:mozgani|Info]]  |  [[dmonly:random#dwarf| Tables]]
 
 La entrada es una puerta de cincuenta metros de alto excavada directamente de la montaña, con un enano tallado en la roca sirviendo de columna. Se encuentra a gran altura, aproximadamente medio centenar de metros más que unen unas escaleras de piedra. Es una subida penosa, pero defensivamente es una decisión acertada, igual que el puente levadizo que une la entrada con la ciudad subterránea,  cruzando un abismo interminable que es imposible sortear si el puente se alza.
 
 Una vez cruzado el puente, se ve una grandísima caverna redondeada de dimensiones espectaculares, que se extiende hacia arriba y hacia abajo en un espiral por una rampa (se sube por la izquierda y se baja a la derecha); hacia arriba está el mercado y toda la zona comercial, y hacia abajo el acceso está restringido. A los costados hay grandes pasillos con techos redondeados, que dan a áreas residenciales .
 
-En el nivel inicial está el inmenso templo de [[panteon:Moradin]], con estatuas dedicadas al dios de la creación enana y ofrendas. También, incrustado en la piedra a un lado, está el elevador que lleva al templo de [[panteon:Ioun]].
+En el nivel inicial está el inmenso templo de [[panteón:Moradin]], con estatuas dedicadas al dios de la creación enana y ofrendas. También, incrustado en la piedra a un lado, está el elevador que lleva al templo de [[panteón:Ioun]].
 
 Cuanto más profundo se va, más restringido está el acceso. Las rampas están iluminadas con orbes mágicos de tonalidad blanco-amarillenta. 
 

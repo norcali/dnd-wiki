@@ -1,0 +1,87 @@
+====== Fuerte Cliff ======
+
+La entrada Oeste es por la que ingresan quienes vienen del Norte, del paso de Las Fauces y de las otras naciones por tierra. En esta zona, más cercana a las puertas del Fuerte, se encuentra la gente más pudiente. 
+
+La entrada Sur es por donde vienen los comerciantes desde el puerto. En esa zona están los barrios más bajos. No hay extrema pobreza, pero sí gente más humilde y trabajadora. 
+
+===== Posadas =====
+
+  * **El Comandante**
+      * Una taberna con cinco cuartos disponibles en la parte de atrás, limpia pero hasta ahí. Las camas apestan. La bebida es la mejor de las tres. Es donde se juntan los soldados y los guardias cuando no están de servicio. 
+      * La atiende una half-orc tosca, callada, con resting bitch face. No-nonsense kind of gal. Super neutral. **Laquifa** 
+  * **La Harpía Desafinada**
+      * Es la mejorcita de las tres, usada por mercaderes de paso y demás viajeros. Tiene bastantes habitaciones, un buen servicio overall. Nada muy fancy. 
+      * Atiende un matrimonio humano, **Ezequiel y Arcelia García Mansilla**. Son cordiales y atienden bien, no cobran caro y no permiten un solo dedo del pie fuera de la ley. No quieren quilombos.
+  * **La Cueva**
+      * Donde se juntan los trabajadores para tomar algo al final del día. Tiene cuatro cuartos en la parte de atrás, más limpios que los de El Comandante pero no tan buenos como los de la Harpía Desafinada. Las bebidas son decentes, pero peorcitas. 
+      * Atendida por un sargento retirado, **Mauricio Montes Silva**. Le tiene un odio bárbaro a Laquifa. Tiene una cicatriz grande en la cara, cruzándole el ojo derecho, el pelo ya grisáceo, y una expresión ácida permanente.
+      * No suele mencionar que estuvo en el ejército porque tuvo una dishonorable discharge. Puso en peligro a toda su división haciéndose el loco por estar borracho un día. Nunca más tomó alcohol, y como prueba de fuerza de voluntad puso una taberna. 
+
+===== Defensas =====
+
+  * Altísimas paredes de roca sólida (7 metros de alto, 2 metros de ancho), doble muralla.
+  * Las puertas hechas de cuatro capas de madera cruzadas, inlaid with iron, con studs para romper las armas de quien intenta romperlas. 
+  * Entre puerta y puerta, una fila de arrow slits para atacar a cualquier fuerza que haya penetrado la primera barrera y esté intentando bajar la segunda.
+  * Escaleras desparejas, con escalones de distintos anchos, alturas y profundidades.
+  * Torres de arqueros
+  * Una segunda muralla interna en la parte alta de la colina.
+
+
+===== El Fuerte =====
+En el fuerte viven más de 300 soldados y distintas partes de las Fuerzas Armadas. 
+
+{{:dmonly:settlements:fuerte_cliff.jpg?nolink&600|Plano de Fuerte Cliff}}
+
+{{:dmonly:settlements:fuerte_cliff_floor_plan_pisos_1_y_2_.jpg?nolink&600|Pisos 1 y 2}}
+
+{{:dmonly:settlements:fuerte_cliff_floor_plan_3_piso_.jpg?nolink&600|Piso 3}}
+
+
+==== Coronel Mayor Bárbara Magnolia Fonseca Belmont ====
+
+La Coronel Mayor Fonseca Belmont es una mujer de altura promedio, contextura ancha, musculosa (entrena como loca, tiene mucha fuerza), piel clara, pelo y ojos color café. Siempre lleva el pelo atado desprolijo, con mechones sueltos acá y allá. Tiene casi 50 años.
+
+Es una mujer de trato muy amable, pero no tolera la inoperancia y cuando las cosas no se hacen como se deben. Se enoja rápidamente ante este tipo de cosas y pierde la paciencia. Si no, tiene la sonrisa fácil, aunque predomina un gesto adusto algo similar al del General. 
+
+Es la hija de dos granjeros de Bricia, que soñó siempre con servir a su Rey en la batalla. Sus padres la dejaron ir cuando vieron que no haría ninguna otra cosa. Los quiere, y les escribe ocasionalmente. Su madre es ardena, por eso Magnolia. **Entre sus compañeros más amigos, la cargan diciéndole "florcita".**
+
+Tuvo varias historias amorosas, todas terminaron mal por el mismo motivo: no puede tener hijos y es una mujer muy fuerte y orgullosa, así que los hombres no soportan la combineta y la dejan.
+
+Es muy devota de Tyr. 
+
+Ella estaba en funciones como Subteniente cuando fue la caída de la Sanción Sureña. La hicieron parte de la decisión de enviar una división para investigar el terreno y votó a favor. Alzar la mano ese día pesa sobre su conciencia como si fuera un yunque de mil toneladas. Está determinada a hacer justicia por los hombres y mujeres que murieron, en parte, por su decisión. 
+
+Cuando fue la segunda división, ella ya era Capitana. Votó en contra, pero el resto de la mesa creía imposible abandonar a sus hombres en el bosque y no intentar irlos a buscar. Trató de disuadirlos, de persuadirlos de que era una sentencia de muerte sobre otra división, pero simplemente tomaron otras medidas para protegerlos (enviaron caballería en vez de infantería y les dieron algunas herramientas útiles). Nada cambió. Luego se dedicó durante años a tratar de convencer, muy sutilmente, a sus superiores de que era totalmente necesario (y la única buena manera de lograr realmente algo) enviar un grupo comando pequeño de gente con habilidades especiales, spellcasters y guerreros excepcionales, que pudieran infiltrarse detrás de las filas enemigas y volver sin ser detectados para traer información concreta sobre la amenaza a enfrentar. 
+
+La escuchaban, pero no les parecía un asunto urgente. Al fin y al cabo, no había nadie que salvar. Los años habían pasado. Pero, cuando llegaron las novedades de La Peste en Alarcia, todas las cabezas la miraron a ella. Pusieron en marcha todas las redes y contactaron al círculo druídico, al Monasterio del Sol, a todos los viejos eruditos que pudieron reunir en Puerto Colossus y a la Iglesia de Ioun, para juntar información sobre enfermedades y pestes varias. Además, pidieron un relevamiento de informes de todas las divisiones del ejército, buscando incidentes relacionados con habilidades especiales. 
+
+Ella personalmente miró los perfiles de los cinco individuos y fue designada para encabezar el Proyecto para la Erradicación Total de la Epidemia (P.E.T.E.). Se moverá a Puerto Colossus de incógnito para continuar con el seguimiento y la investigación junto a los eruditos y de paso mantenerse al tanto de qué están haciendo ellos.
+
+**Motivación.** Resolver el misterio de lo que le sucedió a los soldados y la gente hace tantos años, evitar que se extienda a Haldrim y sacarse la culpa que siente.
+
+==== General Gonzalo Ignacio Álvarez de Arenales ====
+
+Humano alto, de piel olivácea, curtida por el sol, bien entrado en los 50 años. De hecho tiene casi 60. Pelo negro con canas en la zona de las sienes y ojos verde botella. Expresión adusta y seria 24/7, pero un tipo amable y cordial al trato. Saluda hasta al soldado raso más nuevo y no maltrata a nadie. 
+
+Siempre lleva ropas cómodas y su espada +1 encima, una greatsword enorme de acero ziraniano con incrustaciones. 
+
+Es el hijo mayor del Conde de Alarcia, que decidió dejarle a su hermana menor el condado y dedicar su vida al servicio del Rey. Su padre no estaba muy contento con ello y su madre aún se lo reprocha. No la ve seguido. Con su hermana, Alondra Raquel, se escribe seguido y es ella quien ahora gobierna Alarcia. 
+
+**Motivación.** Mantener la paz en la zona sur de Haldrim, y resolver este asunto con la menor cantidad de bajas posibles. 
+
+==== Capitán Benjamín Miguel Antúnez de Lara ====
+Un aasimar joven, apuesto, rubiecito. Un poco soberbio pero cordial. Veintilargos. Casado, con dos hijos chiquitos. Muy jodón, pero muy inteligente también. No lleva armadura, sino ropas elegantes, de noble. Es el hijo menor y mimado del Duque de Bricia.
+
+==== General de Brigada Jordi Ramírez Santos Porra ====
+
+Un señor de 60 años, alto e imponente, calvo en la coronilla y con algo de pelo blanco en el resto de la cabeza. Nariz como una papa. Ojos grises serios. Ropas negras impecables.
+
+La mente táctica y militar. Es el que no le tiene fe al proyecto. Buscaría siempre peros. 
+ 
+  * No es que tenga un odio irracional, sino que no ve cómo 5 pendejitos van a poder hacer lo que dos divisiones militares entrenadas y equipadas no pudieron.
+  * Recuerda perfectamente todo lo que sucedió, pero no cree que los PCs sean los candidatos ideales. 
+  * Cree que mandar a estos chicos solos al bosque, por más habilidades que tengan, es mandarlos a morir lo mismo que mandar a una división, cuando podrían mandar a una división con ellos dentro, y así lograr algo en serio.
+  * Va a hacer preguntas y comentarios a propósito para buscar las debilidades en el proyecto mientras que la mira a Bárbara.
+
+
+

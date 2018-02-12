@@ -1,5 +1,7 @@
 ====== Korim ======
 
+DM Links: [[dmonly:settlements:dmkorim|Info]] | [[dmonly:random#dwarf|Tables]]
+
 Nación enana que habita un conglomerado de montañas homónimo, con una gran ciudad como único asentamiento. Son maestros de los constructos, que usan para trabajos pesados, defensa y seguridad. 
 
 {{ :meriah:naciones:escudo_korim.png?nolink&200|}}

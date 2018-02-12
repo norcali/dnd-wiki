@@ -2,10 +2,55 @@
 
 Celeth es un mundo muy antiguo. Por lo que dicen los sabios, muchas civilizaciones han surgido y caído antes de que nacieran las que ahora pueblan el mundo conocido. 
 
+Ya con la invención del [[calendario:calendario|calendario enano]], se vuelve más sencillo ubicar con precisión los grandes eventos históricos, como la **Escisión** y el **Eclipse**. 
+
+===== El Cataclismo =====
+
 Poco sobrevive el inexorable paso del tiempo: los materiales mundanos decaen y se pudren, dejando poco rastro de las gentes del pasado. Aún así, algunas situaciones particulares logran mantener, si no intactos, al menos suficientemente sanos, ciertas pistas sobre algunos pueblos antiguos. 
 
-Así se puede saber, por ejemplo, que hace unos treinta mil años, un gran cataclismo golpeó el continente de Meriah, al centro-oeste. Algunos teorizan que fue un asteroide, otros aseguran que fue una guerra entre los dioses. Murieron muchas especies animales y vegetales, incluidas varias civilizaciones hablantes y pensantes. 
+Así se puede saber, por ejemplo, que hace unos treinta mil años antes del Eclipse, **un gran cataclismo golpeó el continente de Meriah,** al centro-oeste. Algunos teorizan que fue un asteroide, otros aseguran que fue una guerra entre los dioses. Murieron muchas especies animales y vegetales, incluidas varias civilizaciones hablantes y pensantes. 
 
-Antes del cataclismo, había varias grandes ciudades-Estado tecnológicamente muy avanzadas. Tanto así, que lograron construir obras impresionantes, como las construcciones que se ven en el [[meriah:geografía:bosquenegro|Bosque Negro]]: gigantescas pirámides escalonadas que podrían albergar una fortaleza en su interior, y masivas ciudadelas empedradas por completo.
+Antes del cataclismo, había varias grandes ciudades-Estado tecnológicamente muy avanzadas. Tanto así, que lograron construir obras impresionantes, como las construcciones que se ven en el [[meriah:geografía:bosquenegro|Bosque Negro]]: gigantescas pirámides escalonadas que podrían albergar una ciudad en su interior, y masivas ciudadelas empedradas por completo.
+
+===== La Escisión =====
+
+Antes, hace muchos milenios, los dioses caminaban la tierra junto a los mortales. Sus seguidores podían verlos, visitarlos, incluso tocarlos. Existen dibujos, esculturas, pinturas y retratos de situaciones donde esto sucedió. Hay documentos donde los dioses daban a conocer su voluntad a sus seguidores. 
+
+Esto era posible porque no existía barrera entre los Planos Externos y el Plano Material. Pero así como los dioses podían moverse con libertad entre los planos, también podían hacerlo otras entidades muy poderosas con intenciones nefastas, que intentaron invadir el Plano Material para conquistarlo: la primera vez fue en el año 7633 antes del Eclipse. En una guerra cruenta y espantosa, los dioses lograron desterrar a estas fuerzas de vuelta a sus lugares de origen.
+
+Pero no fue para siempre. Algunos milenios después, en el año 2351 antes del Eclipse, los demonios del Abismo intentaron una invasión, guiados por el Príncipe Oscuro, Graz'zt. El esfuerzo requerido para derrotarlos fue aún mayor. Casi todas las civilizaciones de Celeth fueron destruidas, sus ciudades destrozadas y sus poblaciones diezmadas. Los enanos de Mo'raz sobrevivieron mejor que el resto, pero aún así sufrieron enormes pérdidas. 
+
+Viendo que esto podría continuar, los dioses tomaron una difícil decisión. Todos y cada uno de ellos se pusieron de acuerdo en preservar el Plano Material y sus creaciones preciadas, de una manera poco feliz.
+
+Se fueron. Hicieron su hogar en otros planos, y al irse sellaron todos los canales por los que antes habían entrado tanto ellos como los invasores, a manera de una gigantesca red. Pequeños influjos de energía y entidades menores podrían pasar, pero nadie con demasiado poder ni un ejército podría hacerlo. Ellos mismos, por supuesto, también quedarían del lado de afuera. A esta construcción le llamaron la **Puerta Divina**. 
+
+Las gentes de Celeth, devastadas por la guerra, se desanimaron aún peor al ver la partida de sus guías. Llamaron a este momento (ocurrido en el año 2352 antes del Eclipse) **la Escisión**. 
+
+Aún hoy, los dioses guían a sus fieles desde su exilio voluntario, enviando poder a quienes creen merecedores de ello, para que los representen. 
+
+===== El Eclipse =====
+
+Este momento clave para el calendario enano es una referencia a un evento astronómico.
+
+Ya los dioses se habían ido hacía milenios cuando sucedió que el cielo comenzó a oscurecerse en pleno día. Más y más hasta que el Sol se volvió totalmente negro.
+
+Cundía el pánico en las calles, los astrónomos no entendían qué diablos sucedía ni cuánto podía durar. Pasaban las horas y seguía igual. Comenzaron a planear una vida en la oscuridad, tratando de generar luz artificial para hacer crecer la comida, y se miraban con pavor atestiguando el comienzo de una nueva era en la historia, sin los dioses para guiarlos. Rezaron, hicieron ofrendas, y obtuvieron mensajes tranquilizadores. 
+
+La segunda noche, una lluvia de meteoros adornó el cielo y aún más miedo pasaron todos. Temieron el fin del mundo.
+
+Al tercer día, vieron un quicio de luz volver a aparecer de un lado del sol. 
+
+Poco a poco, salió de su prisión oscura e iluminó tan brillante como siempre el aterrorizado mundo de Celeth. Cinco días había durado la oscuridad.
+
+Todos los calendarios comenzaron a contar desde cero, desde el renacimiento de la civilización.
+
+
+
+
+
+
+
+
+
 
 

@@ -1,10 +1,10 @@
 ======  Arden ======
 
-DM only links: [[dmonly:settlements:dmarden|Info]] | [[dmonly:random:human|Tables]]
+DM only links: [[dmonly:settlements:dmarden|Info]] | [[dmonly:random#ardenia|Tables]]
 
 =====  Datos =====
  
-   * **Ciudad grande**. 15.000 personas,  sobre todo humanos. Algunos enanos, dos o tres tabaxi, una familia half-orc, varios half-elf.
+   * **Ciudad grande**. Ocho mil personas,  sobre todo humanos. Algunos enanos, dos o tres tabaxi, una familia half-orc, varios half-elf.
   * ** Economía.**  Producen telas, especias, perfumes, azúcar, olivas y su aceite, frutas, vegetales y carne que consumen y exportan el excedente. Comercian metales y joyas enanas de altísimo valor, que venden a las naciones del sur.  
   *  **Regente.**  Su Serenísima Majestad Real Señora Doña Aeleth de la Casa Duchamps.
   * ** Puntos de interés.**  El Colegio de la Canción Secreta, la Catedral de Sune, el Palacio de Arden

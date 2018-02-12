@@ -1,6 +1,6 @@
 ====== Beluir ======
 
-DM Links: [[dmonly:settlements:halfling|Info]] | [[dmonly:random:halfling|Tables]]
+DM Links: [[dmonly:settlements:halfling|Info]] | [[dmonly:random#halfling|Tables]]
 
 {{ :meriah:naciones:zudrak.jpg?nolink&200|Vista de Beluir}}
 

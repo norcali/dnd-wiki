@@ -1,26 +1,14 @@
 ====== DM only ======
 
-[[dmonly:time|Timekeeping]]   |   [[dmonly:music|Música]]   |  [[dmonly:ideas|Ideas]]  |  [[dmonly:dmtips|DM Tips]]
-
-[[dmonly:peste|Campaña: La Peste]]
+^  [[dmonly:time|Timekeeping]]  ^  [[dmonly:music|Música]]  ^  [[dmonly:ideas|Ideas]]  ^  [[dmonly:dmtips|DM Tips]]  ^   [[dmonly:random|Random Names]]  ^  [[dmonly:peste|Campaña: La Peste]]  ^
 
 ===== Current Prep =====
 
-[[dmonly:peste:startup|Primera partida: Fuerte Cliff y llegada a Narkeep]]
+[[dmonly:peste:startup|Primera partida: Fuerte Cliff y llegada a Alarcia]]
 
 
 
-===== Random names =====
 
-  * [[dmonly:random:Human]] (Cardus, Haldrim, Ardenia, Strand)
-  * [[dmonly:random:bantuur|Ban Tuur]]
-  * [[dmonly:random:Dragonborn]]
-  * [[dmonly:random:Dwarf]]
-  * [[dmonly:random:Tabaxi]]
-  * [[dmonly:random:Elf]]
-  * [[dmonly:random:Exotic]]
-  * [[dmonly:random:Gnome]]
-  * [[dmonly:random:Halfling]]
 
 
 

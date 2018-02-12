@@ -1,12 +1,12 @@
-======  Waldren ======
+====== Urdián ======
 
-DM Links: [[dmonly:settlements:dmwaldren| Info]]  |  [[dmonly:random:human|Tables]]
+DM Links: [[dmonly:settlements:dmurdian| Info]]  |  [[dmonly:random#human|Tables]]
 
 =====  Datos =====
  
    * **Pueblo.** 800 personas, casi todos humanos, algún dragonborn perdido. Muchas construcciones de madera.
   *  **Economía.** Comercio de sal y acero ziraniano en todas sus formas, y mucha madera que talan de los bosques del sur, cerca de las montañas. Algunas minas por esos lados también, pero no demasiado. Comida no abunda tanta, producen todo lo que pueden y algo compran también. Muchas granjas de cría de cerdos y vacas para consumo.
-  *  **Regente.** Conde,  Lord Logan Rosenfeld
+  *  **Regente.** Conde,  Lord Álvaro Cruz Vicente de la Cuesta
   * **Puntos de interés**. Las arenas de lucha y pirámide por las que es famoso el lugar, el mercado donde se puede encontrar sal y acero ziraniano, y muchos objetos de madera.
   *  **Religión.** [[Panteón:Helm | Helm]](tradicional) y actualmente también [[Panteón:Tempus | Tempus]].
   *  **Ejército**. Lo suficiente para defender la frontera, ni un hombre más.

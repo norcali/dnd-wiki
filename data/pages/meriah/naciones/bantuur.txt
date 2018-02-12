@@ -1,6 +1,6 @@
 ====== Ban Tuur ======
 
-DM only links: [[dmonly:nations:bantuur| Info]] | [[dmonly:random:bantuur|Tables]]
+DM only links: [[dmonly:nations:bantuur| Info]] | [[dmonly:random#ban_tuur|Tables]]
 
 {{ :meriah:naciones:escudo_ban_tuur.png?nolink&200|}}
 

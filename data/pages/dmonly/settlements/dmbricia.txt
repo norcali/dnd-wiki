@@ -1,17 +1,16 @@
-====== Kent DM only ======
+====== DM Bricia ======
 
-
- * Pueblo. 600 aprox., mostly humans. Some half-orcs.
+  * Pueblo. 600 aprox., mostly humans. Some half-orcs.
   *  Economía. Se beneficia del comercio entre Ardenia y Haldrim, y se alimenta con agricultura y ganadería. Tres posadas de distintos targets. 
-  *  Regente. Duque, Lord Lucius Tyler
+  *  Regente. Duque, Lord Tomás de Andrés y Martínez de Arenasa
   *  Puntos de interés. Templo de Helm, Fuente labrada en medio del pueblo, mercado de pulgas alrededor.
   *  Religión.  Helm (Protection), because of dangerous roads and travel per se.
   *  Ejército. Quite strong due to close border with orcs and Ardenia. Bandits.
 
 ====  Negocios ====
 
-  * Posada El Cuerno Negro (4 puntos): Atendida por Rodney Aterberry, un tipo grandote y hosco, sucio y medio gruñón, que cocina bastante mal.
-  * Posada El Peregrino (7 puntos): Atendida por Sam Harris, un tipo de unos 40-50 años, gordito y súper amigable, que cocina de puta madre con lo que tiene y suele regalar algunas cosas cuando puede.
+  * Posada El Cuerno Negro (4 puntos): Atendida por Vilfredo Donato, un tipo grandote y hosco, sucio y medio gruñón, que cocina bastante mal.
+  * Posada El Peregrino (7 puntos): Atendida por Ariel Delgado, un tipo de unos 40-50 años, gordito y súper amigable, que cocina de puta madre con lo que tiene y suele regalar algunas cosas cuando puede.
   *  Posada La Estrella (10 puntos): Comida siempre sazonada con sal, colchones de pluma, todo siempre impecable y atención excepcional por parte de Padma y Reena Singh. 
   *  Sastre
   *  Feria de alimentos (verduras, huevos, carne, pan, especias, algo de sal) y objetos varios 
@@ -22,7 +21,7 @@
 
 ===== NPCs =====
 
-=== Duque- Lord Lucius Tyler ===
+=== Duque- Lord Tomás de Andrés y Martínez de Arenasa ===
 
  Humano , LG, 50-sth.
  1.95m - Slim, athletic
@@ -44,7 +43,7 @@ Quiere usar la plata para contratar más sirvientes y darle una casa más grande
 
 Él es un wild magic sorcerer. Súper resentido, temperamental, con tántrums que provocan outbursts de magia.
 
-===  Duquesa- Lady Arline Tyler ===
+===  Duquesa- Lady Arlena ===
 
  Humana, G, 30-sth
  1.75m - strong build
@@ -52,4 +51,3 @@ Quiere usar la plata para contratar más sirvientes y darle una casa más grande
  Muy devota de Sune, tiene un altar propio donde reza y le hace ofrendas.
  Suele llevar ropas provocativas pero jamás traicionaría a su esposo.
  Muy carismática.
-

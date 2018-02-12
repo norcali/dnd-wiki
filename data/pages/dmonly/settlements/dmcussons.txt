@@ -1,10 +1,10 @@
-====== Falworth DM only ======
+====== DM Cussons ======
 
-  *  **Posada "El Alabastro"** (8 puntos)
+  * **Posada "El Alabastro"** (8 puntos)
       * La posada siempre está impecable y bien atendida.
-      * Atendida por un hombre muy serio, canoso, con anteojos y siempre de punta en blanco. Nariz puntuda y ojos grises. Su nombre es **Carlyle Audley.**  
-      * Lo ayuda su hijo, que es un poco más relajado, aunque adelante de su padre es puro manners. Está más bronceado y lleva un corte de pelo modernoso.** Caleb.** 
-  * **Taberna "El Cáliz".** Siempre atendida por señoritas preciosas con poca ropa que también pueden prestar otros servicios (wink wink ). Dirigida por un bartender-pymp que cuida mucho toda su mercadería. Voz rasposa, fuma puros.
+      * Atendida por un hombre muy serio, canoso, con anteojos y siempre de punta en blanco. Nariz puntuda y ojos grises. Su nombre es **Crisantemo Roy.**  
+      * Lo ayuda su hijo, que es un poco más relajado, aunque adelante de su padre es puro manners. Está más bronceado y lleva un corte de pelo modernoso.** Olivier.** 
+  * **Taberna "El Cáliz".** Siempre atendida por señoritas preciosas con poca ropa que también pueden prestar otros servicios (wink wink ). Dirigida por un bartender-pymp que cuida mucho toda su mercadería. Voz rasposa, fuma puros. 
   *  **Mercado.** Sombreros, guantes, zapatos, cinturones, bolsos, juguetes, comida de todo tipo, escobas, instrumentos, papel-tinta-lacre-plumas. Algunos objetos mágicos y trinkets spreaded around the place.
   *  **Sederías.** Hay cinco, con centros de operación en las afueras y negocios en el pueblo. Algunas se dedican al algodón-lino, otras a las sedas. 
   *  **Sastres** Hay al menos diez sastres y otros tantos costureros, todos de distintos targets de venta y distintos materiales utilizados.
@@ -16,22 +16,15 @@
 
 =====  NPCs =====
 
-  * **Marquesa, Ilustrísima Señora Doña Ofelia Leighton**
+  * **Marquesa, Ilustrísima Señora Doña Margarita André**
     * F - Human - 27 - 1.75, fit
-    *  **Ocupación - Background.** Regente de Falworth. Casada, por supuesto, con un noble caballero llamado Neil Leighton (Stafford de soltero) que no le da ni cinco de pelota y se pasa el día y la noche en clubes de caballeros, sociedades de beneficencia, asociaciones de cricket y talië. 
+    *  **Ocupación - Background.** Regente. Casada, por supuesto, con un noble caballero que no le da ni cinco de pelota y se pasa el día y la noche en clubes de caballeros, sociedades de beneficencia, asociaciones de cricket y talië. 
     *  **Apariencia.** Alta, piernas largas, ojos verdes, cinturita ínfima, pelo negro azabache, facciones refinadas. Siempre acalorada, con vestidos finos.
     *  **Habilidades / Talento.** High charisma, súper flirty pero no aceptaría ninguna invitación. Es demasiado snob y teme al escándalo. 
-    *  **Conocimiento, ideales, secretos.** Quiere ganar poder y ascender de rango social, y que Falworth prospere. Su secreto es su amante, que es su costurera personal, que ve en el más estricto secreto, con la complicidad de su doncella. El problema no es que sea una mujer, si no que está engañando a su marido. La costurera no tiene rango ni riqueza, pero ella está re mil enamorada. 
+    *  **Conocimiento, ideales, secretos.** Quiere ganar poder y ascender de rango social, y que Cussons prospere. Su secreto es su amante, que es su costurera personal, que ve en el más estricto secreto, con la complicidad de su doncella. El problema no es que sea una mujer, si no que está engañando a su marido. La costurera no tiene rango ni riqueza, pero ella está re mil enamorada. 
     *  **Mannerism.** Se la pasa abanicándose y quejándose del calor, alisándose el vestido con mucho amor y sonriendo. Agradable persona para charlar.
     *  **Elementos distintivos.** Peinado y vestido siempre impecable y distinto. Muy consciente de su belleza, la aprovecha.
     *  **Interacción**. Sonríe mucho, es agradable al trato, pero que ni dios permita que alguien se olvide que ella es superior. Se ofende rápidamente si alguien de rango inferior infiere que son iguales. 
-  * 
-
-
-
-
-
-
 
 
 

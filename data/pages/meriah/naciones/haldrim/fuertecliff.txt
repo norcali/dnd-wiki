@@ -1,11 +1,28 @@
 ====== Fuerte Cliff ======
 
- 
+DM Links: [[dmonly:settlements:dmcliff|Info]] | [[dmonly:random|Tables]]
+
+Un fuerte impenetrable asentado en la cima de una alta colina, en cuyas laderas se fue construyendo un poblado. 
+
+{{ :meriah:naciones:haldrim:fuerte_cliff.jpg?nolink&200|Fuerte Cliff}}
+
    * **Fortaleza militar.** 800 habitantes fijos, 2/3 de ellos ejército en constante entrenamiento. Humanos, tieflings, aasimar, half-elves, half-orcs, algunos orcos puros exiliados de su clan. 
   *  **Economía.** De subsistencia. Es un bastión defensivo que cuida el paso de Las Fauces, no tiene mucho mercado. Trata de producir para subsistir y recibe de las naciones humanas lo que le falte. 
-  *  **Geografía.** 
-  *  **Regente.** General 
-  *  **Puntos de interés.** 
-  *  **Religión.** [[Panteón:Tempus|Tempus]] 
+  *  **Geografía.** Una pradera con poca vegetación, no demasiado fértil, mejor para la ganadería que para el cultivo. Muy ventosa por la cercanía del callejón que significa el paso de Las Fauces y la Espina Quebrada. Una muy buena vista.
+  *  **Regente.** General Gonzalo Álvarez de Arenales.
+  *  **Religión.** [[Panteón:Tempus|Tempus]]. Su lugar de culto es una gigantesca forja abierta al público que cualquiera puede utilizar, dirigida y mantenida por los clérigos de Tempus. 
+
+==== Negocios ====
+
+  * **Posadas y tabernas.**
+      * La Cueva
+      * La Harpía Desafinada 
+      * El Comandante 
+  * **Mercado.** En su mayoría alimentos y elementos básicos, en los negocios fijos. Hay también mercaderes pasajeros, que ofrecen sus mercancías exóticas no disponibles usualmente. 
+  * **Altar a [[Panteón:Tempus]].** Hay una pequeña capilla dedicada a la deidad ubicada en la parte poblada de Fuerte Cliff. 
+  * **Herrerías.** Hay algunas herrerías privadas con distintas especialidades en el Fuerte. Algunas se dedican a los carros, transportes y herraduras; otras se dedican más exclusivamente a fabricar armas, armaduras u objetos varios de todos los días (faroles, bisagras, utensilios, etc.).
+  * **Cueros.** Hay dos trabajadores del cuero en el Fuerte, que trabajan para quienes no pueden pagar una armadura metálica.
+  * **Otros negocios.** Se pueden encontrar más ofertantes, pero están desperdigados. En su mayoría, la gente trabaja el oficio desde su casa. Hay que saber donde buscar, o preguntar. 
+
 
 

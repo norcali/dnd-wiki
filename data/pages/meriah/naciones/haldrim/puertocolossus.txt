@@ -1,18 +1,17 @@
 ====== Puerto Colossus ======
 
-Links: [[dmonly:settlements:dmcolossus|Info]] | [[dmonly:random:rcolossus|Tables]]
+Links: [[dmonly:settlements:dmcolossus|Info]] | [[dmonly:random|Tables]]
 
 {{ :meriah:naciones:haldrim:escudo_puerto_colossus.png?nolink&200|}}
 
 El puerto sureño que construyeron los reinos humanos, que lo protegen y pueblan.  
 
-  * **Ciudad portuaria mercante.** 
+  * **Ciudad portuaria mercante.** Una gran ciudad con un mosaico poblacional importante expresado en sus habitantes numerosos //(rondando los quince mil)// y diversos //(además de un alto porcentaje de humanos, hay muchos aasimar, dragonborn, elfos, medio elfos, medio orcos, tieflings, gnomos, genasi, e incluso algunos tabaxi)//.   
   *  **Economía.** Con apenas algunas granjas pequeñas como producción de alimentos, la economía entera se basa en el puerto y el comercio. Durante la luna de invierno, sobreviven a base de recursos ahorrados durante el año.
   *  **Geografía.** Este puerto es solamente utilizable durante los meses de verano y primavera por los hielos polares que avanzan. En primavera deben ir con gran cuidado por los desprendimientos. 
   *  **Regentes.** Tres Ministros enviados por cada una de las tres naciones humanas del Sur. Cada reino envía provisiones cada dos lunas, sin falta, y debe cubrir una cuota de hombres para enviar al Camino de Las Fauces. De cortar esa continuidad, el reino perdería el privilegio de usar el puerto y su Ministro hasta tanto regularice su cuota.
-  * **Puntos de interés.** 
+  * **Puntos de interés.** El Distrito de los Muelles, el Ministerio y la Plaza de la Tríada, la Iglesia de [[Panteón:Pelor|Pelor]], el Templo de [[Panteón:Selune]]. 
   * **Religión.** [[Panteón:Selune]] y [[Panteón:Pelor|Pelor]]. 
-  * **Sociedad.** Llena de gente de distintas nacionalidades, marineros y comerciantes de todas partes del mundo, en los meses cálidos rebosa actividad y vida. El popurrí de culturas le da una característica de mosaico.
-
+  * **Sociedad.** Llena de gente de distintas nacionalidades, marineros y comerciantes de todas partes del mundo, en los meses cálidos rebosa actividad y vida. El popurrí de culturas le da una característica de mosaico. En esta ciudad, la burguesía mercante tiene mucho poder, debido a que el dinero de la ciudad pasa por sus manos. Se encuentran siempre en constante tensión con la aristocracia, que vive en un sector cercado de la ciudad, con acceso a privilegios que el dinero no puede comprar.
 
 

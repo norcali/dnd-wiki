@@ -1,13 +1,13 @@
-======  Falworth ======
+======  Cussons ======
 
-DM Links: [[dmonly:settlements:falworth|Info]] | [[dmonly:random:human|Tables]]
+DM Links: [[dmonly:settlements:dmcussons|Info]] | [[dmonly:random#ardenia|Tables]]
 
 =====  Datos =====
  
    * **Pueblo.** 1.500 habitantes más que nada humanos, algunos enanos. 
   *  **Economía.** Producción de telas, comercio de gemas y metales enanos. Plantaciones de algodón y lino, producción de sedas. Producción de alimentos de supervivencia (carne vacuna-porcina, frutas-granos).
   *  **Geografía.** Se ven las montañas desde la ciudad. Toda la zona es más ondulada, llena de colinas y valles.
-  *  **Regente.** (Noble) Condesa,  Ilustrísima Señora Doña Marguerite André.
+  *  **Regente.** (Noble) Condesa,  Ilustrísima Señora Doña Margarita André.
   *  **Puntos de interés.** Campo de cricket, el gran jacarandá en el centro del pueblo, alrededor del cual se construyó todo.
   *  **Religión.** [[Panteón:Sune | Sune]] 
 
@@ -30,5 +30,3 @@ Los orcos raidean las ciudades ardenas con frecuencia, porque su tratado sólo s
   *  **Joyas y productos enanos.** 
   *  **Salón de belleza.** 
   *  **Vidrios y cristales.**
-
-

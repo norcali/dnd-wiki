@@ -1,4 +1,4 @@
-====== Waldren ======
+====== DM Urdián ======
 
   *  **Carpinterías.** Hay unas cuantas, con distintas especializaciones y targets de venta.
   * ** Herrería.** Una sola, donde aprovechan el hierro que logran sacar de la única mina que tienen muy lejos y compran metales a mercaderes. También hacen mangos para distintas herramientas de acero ziraniano.
@@ -7,7 +7,7 @@
   *  **Sastrería.** Una sola pero muy buena, hace cosas para toda necesidad.
   *  **Templo de Helm.** Una gran construcción de madera con un bellísimo ojo abierto tallado en el frente, muy cálido dentro, donde siempre hay un sacerdote despierto cuidando y atendiendo gente. Solía estar más concurrido, desde que hay más guerra y un priest de Tempus perdió influencia.
 
-=====  Lord Logan Rosenfeld =====
+=====  Lord =====
 
    * M - Humano - 45 - 1.90/stocky
   *  Ocupación - Background. Regente de Waldren.
@@ -18,13 +18,4 @@
   *  Elementos distintivos. Ropa limpia y sana pero nada fancy, ni un solo objeto decorativo en su mansión, todo tiene un propósito.
   *  Interacción. Pensativo, seco pero honesto.
 
-=====  Marlin Murdock =====
-
-  *  M - Humano -  40 - 1.75/stocky mfk
-  *  Ocupación - Background. War Cleric de Tempus, lvl 5
-  *  Apariencia.  Strong, muscular, piel muy oscura, ojos negros totalmente, voz fuerte y llamativa.
-  *  Habilidades / Talento. High Wisdom and Strength.
-  *  Conocimiento, ideales, secretos. Su ideal es eliminar a los Yuan-ti de una vez y para siempre, en una guerra limpia y justa por el pueblo de Cardus. Trata de instar a la gente a contribuir al war effort como puedan y enseña la doctrina de Tempus, de no ser cobardes en ninguna situación de la vida. 
-  *  Mannerism. Gesticula grandiosamente cuando habla.
-  *  Elementos distintivos. Sus ropas con el símbolo de Tempus, la espada llameante.
-  *  Interacción. Cordial, agradable, interesante. 
+ 

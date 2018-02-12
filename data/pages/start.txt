@@ -13,7 +13,8 @@
 
 ===== Otras categorías =====
 
-    * [[files:files|Archivos descargables]]
+  * [[files:files|Archivos descargables]]
 
+  * [[party:peste|Espacio para la party]] (nombre temporal!)
 
-    * [[dmonly:dmonly|DM Only]]
+  * [[dmonly:dmonly|DM Only]]

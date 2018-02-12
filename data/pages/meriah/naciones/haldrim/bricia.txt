@@ -1,12 +1,13 @@
-====== Kent ======
+====== Bricia ======
 
-DM Links: [[dmonly:settlements:dmkent|Info]] | [[dmonly:random:human|Tables]]
+
+DM Links: [[dmonly:settlements:dmbricia|Info]] | [[dmonly:random#human|Tables]]
 
 =====  Datos =====
 
   * **Pueblo.** Aproximadamente 600 habitantes.
   *  **Economía.** Se beneficia del comercio entre [[meriah:naciones:Ardenia]] y [[meriah:naciones:Haldrim]], y se alimenta con agricultura y ganadería. 
-  * **Regente.** Duque, Lord Lucius Tyler
+  * **Regente.** Duque Bernardo Lázaro Antúnez de Lara
   *  **Puntos de interés.** Templo de [[Panteón:Helm]], Fuente labrada en medio del pueblo, mercado alrededor.
   *  **Religión**.  [[Panteón:Helm]], debido a los peligros de los viajes y los bandidos. 
 
@@ -20,4 +21,3 @@ DM Links: [[dmonly:settlements:dmkent|Info]] | [[dmonly:random:human|Tables]]
   *  Herrería
   *  Establos y riding posts
 
- 
